@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////// Performance Lab 8-1 /////////////////////////////
 ///////////////////////////////////// "Healthy Substitutions" //////////////////////
-//////////////////////////////////// Instructor Solution ///////////////////////////
+//////////////////////////////////// EASY STUDENT TEMPLATE ///////////////////////////
 ////////////////////////////////////////////////////////////////////////////////////
 
 
@@ -83,52 +83,11 @@ int main(void)
  */
 int replace_char(char * buffer, char findChar, char replaceChar)
 {
-    int count = 0;      // Number of characters replaced
-
-    // Check user input
-    if (findChar == replaceChar)
-    {
-        return ERR_FIND_EQUALS_REPLACE;
-    }
-    else if ((findChar < 32 || findChar > 126) || (replaceChar < 32 || replaceChar > 126))
-    {
-        return ERR_NON_PRINTABLE_CHARACTER;
-    }
-
-
-    if (buffer)
-    {
-        size_t bufferLength = 0;
-		int i = 0;
-
-		/* FUNCTION ALGORITHM */
-		bufferLength = strlen(buffer);			// Calculate length of input buffer
-		for (i = 0; i < bufferLength; i++)		// Iterates through entire buffer
-		{
-			if (*buffer == findChar)		   // Checks for newline characters
-			{
-				count++;						// Increment the number of newlines removed
-				*buffer = replaceChar;			// Changes character to a space
-			}
-			buffer++;							// Increments to the next element in the string
-		}
-    }
-    else
-    {
-        return ERR_NULL_POINTER;
-    }
-
-    // Check for characters existing and having been replaced
-    if (count)
-    {
-        return count;
-    }
-    else
-    {
-        return ERR_NONE_FOUND;
-    }
+    // Your code here
 }
 
+
+// This is an awesome function and useful if you need to clear the input buffer
 int clearInput()
 {
     while ( getchar() != '\n' );
