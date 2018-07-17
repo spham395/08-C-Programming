@@ -4,7 +4,7 @@ int main()
 {
     char someArray[256] = {0};
 
-    printf("Do yo thing user: ");           // Ask user for input
+    printf("I am a digital warrior and the keyboard is my katana: ");           // Ask user for input
     scanf("%255[^\n]s", someArray);         // Prompt input, limit to 255, kill on newline
 
     // Check for empty string
