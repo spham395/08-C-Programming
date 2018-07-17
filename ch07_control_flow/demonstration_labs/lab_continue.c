@@ -11,7 +11,7 @@ int main()
     // Prevents user from enter a number over 10... exits
     if (x > 10)
     {
-        printf("You can't enter numbers larger than 10");
+        printf("Senpai!! You can't enter numbers larger than 10");
         return 0;
     }
 
