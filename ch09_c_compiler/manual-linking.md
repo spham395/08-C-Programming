@@ -1,8 +1,8 @@
-## **Manual Linking**
+# Manual Linking
 
 Definitions of a header file can be assembled into an object file
 
-this object file can be linked with other object files to create an executable
+This object file can be linked with other object files to create an executable
 
 \#include preprocessor directives are still necessary
 
@@ -39,25 +39,25 @@ int add_num(int x, int y)
 //my_header.c (header file definition)
 ```
 
-### \(GUI\)
+### (GUI)
 
-**\[create a preprocessed file\]**
+**[create a preprocessed file]**
 
-property pages --&gt; C/C++ --&gt; preprocessor --&gt; preprocess to a file: yes
+Property pages --&gt; C/C++ --&gt; preprocessor --&gt; preprocess to a file: yes
 
-**\[create an assembly code\]**
+**[create an assembly code]**
 
-property pages --&gt; C/C++ --&gt; output files --&gt; asm list location: $\(IntDir\)
+Property pages --&gt; C/C++ --&gt; output files --&gt; asm list location: $\(IntDir\)
 
-property pages --&gt; C/C++ --&gt; output files --&gt;assembler output: assembly-only listing /FA
+Property pages --&gt; C/C++ --&gt; output files --&gt;assembler output: assembly-only listing /FA
 
-**\[create an object file\]**
+**[create an object file]**
 
-property pages --&gt; C/C++ --&gt; output files --&gt; object file name
+Property pages --&gt; C/C++ --&gt; output files --&gt; object file name
 
-**\[link an object file\]**
+**[link an object file]**
 
-add the .obj to your project as an "existing item"
+Add the .obj to your project as an "existing item"
 
 
 
