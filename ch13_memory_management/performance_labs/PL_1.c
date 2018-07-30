@@ -1,5 +1,5 @@
 /*
-LAB 1
+PERFORMANCE LAB 1
 Follow instructions below!
 The basis of this lab is simple... allocate a section of memory that will
 hold a string (your first name). Print the name out, then cleanup the memory and exit.

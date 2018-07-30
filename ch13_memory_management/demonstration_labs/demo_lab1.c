@@ -1,5 +1,5 @@
 /*
-LAB 1
+DEMO LAB 1
 Follow the instructions below. This is a step by step guide.
 USE THE MALLOC DOCUMENTATION!!!!!!!!!!!
 Seriously... USE IT
