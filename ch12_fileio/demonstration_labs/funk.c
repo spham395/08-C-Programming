@@ -13,7 +13,7 @@ int main(void)
 			putc(readFromFile, stdout); 		// Print that character
 		}
 		fclose(myFile_ptr); // Always fclose anything you fopen
-		printf("\n\nlink for video comrade: https://youtu.be/YgGzAKP_HuM");
+		system("start https://youtu.be/YgGzAKP_HuM");
 	}
 	else 			// Otherwise, fopen() failed
 	{
