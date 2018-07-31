@@ -17,7 +17,7 @@
 1. Create a linked list, the struct members should contain the following:
     * Each students initals
     * Each students favoriate musical artist
-    * Each studnets dream car
+    * Each students dream car
     * Required data for linked list completion
     * **May be worth each student just posting their data into a slack channel so everyone can grab off of it**
 2. Create a menu allowing for the following:
