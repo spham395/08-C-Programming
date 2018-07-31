@@ -1,6 +1,6 @@
 # Linked Lists Lab 1
 
-![](/assets/subbie.jpb)
+![](/assets/subbie.jpg)
 
 ## Requirments
 
