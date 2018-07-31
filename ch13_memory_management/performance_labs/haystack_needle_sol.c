@@ -49,7 +49,7 @@ int haystack_needle(char *haystack, char *needle, char *buffer)
     Set that pointer to a new char pointer called *mark_position
     char *mark_position = strstr(haystack, needle);
 
-    // TODO: Using strcpy(), store the needle into the buffer... \
+    // TODO: Using strcpy(), store the end of the needle into the buffer... \
     you are not authorized to use the variable needle.
     strcpy(buffer, mark_position + needleLength);
 
