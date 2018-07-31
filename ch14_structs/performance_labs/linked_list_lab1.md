@@ -8,6 +8,7 @@
 * Utilize proper naming schemas
 * Document code
 * Push code to Github
+    * Use branching! Create a development branch and push to there. Merge when all requirments are met
 * Break your code out into functions
 * Utilize multiple C files if needed 
 
