@@ -51,10 +51,8 @@ Block 3 consists of Assembly and Reverse Engineering. This block is challenging,
 * WinDBG
 * IDAPro
 * Python 2.7, 3.x
-* Git
 * NASM
 * CMake
-* PDF
 * Firefox
 * VMware Pro Workstation 12
 * Git \(Github/Gitlab\)
