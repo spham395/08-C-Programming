@@ -1,4 +1,4 @@
-//#include "c:\Users\hark\documents\visual studio 2013\Projects\MQT (I.4.a) Performance Lab 2\MQT (I.4.a) Performance Lab 2\student_header.h"
+//#include "c:\Users\YOU\documents\visual studio 2013\Projects\MQT (I.4.a) Performance Lab 2\MQT (I.4.a) Performance Lab 2\student_header.h"
 #include <stdio.h>
 #include <limits.h>
 #include "student_header.h"
