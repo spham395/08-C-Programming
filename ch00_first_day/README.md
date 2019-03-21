@@ -1,22 +1,22 @@
 # First Day Setup
 
-Welcome to IQT-2018-2. This is a ~16 week developer course designed to get you efficient as possible with as little time as possible. Some of you will be going through the entire course, others will just be taking a block or class or two. If this is really your first time programming or you have very little experience, this course will be challenging. If you have programming experience, the instructors will challenge you to get even better.
+Welcome to 90 COS Initial Developer Fundamental (IDF) training. This is a ~16 week developer course designed to provide you with the basic knowledge and skills required to enable you to perform as a new programming developer. If this is your first time programming or you have very little experience, this course will be challenging. If you have programming experience, the instructors will challenge you to get even better.
 
 ## Blocks
 
 ### Block 1
 
-Block 1 consists of C and C++ programming. C is the longest class and can last an upward of 6 weeks. C++ is much shorter \(2-3 weeks\) since it utilizes much of the C syntax and styling learned in the C class. This block is taught at a much slower pace in order to ramp up students who have little to no programming experience. C also generally tends to be the toughest course taught since C and C++ are very unforgiving languages.
+Block 1 consists of Algorithms, Debugging, and C programming.  This block is taught at a much slower pace in order to provide less experienced students an opportunity to grasp programming concepts. Additionally, C programming tends to be the most challenging since it is a very unforgiving languages.
 
 ### Block 2
 
-Block 2 consists of Python and Network Programming. For lack of better words... we throw you in the pool with no floaties during this block. The entire block is only 3 weeks and things are much faster pace. You will be expected to read and understand documentation, look up modules, code, etc. Luckily, Python is much more safe to program with and is a very forgiving language.
+Block 2 consists of Python and Network Programming. For lack of better words; we throw you in the pool with no floaties during this block. The entire block is only 3 weeks and things are a much faster pace. You will be expected to read and understand documentation, look up modules, code, etc. Luckily, Python is much more safe to program with and is a very forgiving language.
 
 ### Block 3
 
-Block 3 consists of Assembly and Reverse Engineering. This block is challenging, but we can assure you that it's not as bad as it sounds. This entire block is roughly 4 weeks long. Assembly is the most unforgiving language of all. You will directly be working with memory, registers, etc.
+Block 3 consists of Assembly, TDD, and coding projects. This block is challenging, but we can assure you that it's not as bad as it sounds. This entire block is roughly 4 weeks long. Assembly is the most unforgiving language of all. You will directly be working with memory, registers, etc.
 
-# Directors
+# Training Director
 ### James Vogel
 
 # Instructors
@@ -25,14 +25,14 @@ Block 3 consists of Assembly and Reverse Engineering. This block is challenging,
 
 #### Courses:
 
-* C
-* Python
-* Network Programming
-* Algorithms
-* Debugging
-* Test Driven Development
 * Git
+* C
+* Algorithms
+* Python
+* Debugging
+* Network Programming
 * Assembly
+* Test Driven Development
 
 ## Tools
 
