@@ -16,29 +16,23 @@ Block 2 consists of Python and Network Programming. For lack of better words... 
 
 Block 3 consists of Assembly and Reverse Engineering. This block is challenging, but we can assure you that it's not as bad as it sounds. This entire block is roughly 4 weeks long. Assembly is the most unforgiving language of all. You will directly be working with memory, registers, etc.
 
+# Directors
+### James Vogel
+
 # Instructors
-
 ### Travis Wilborn
+### Joe Guerra
 
-#### Primary Courses:
+#### Courses:
 
 * C
-* C++
-
-### Robert Jakob
-
-#### Primary Courses:
-
 * Python
 * Network Programming
+* Algorithms
+* Debugging
+* Test Driven Development
 * Git
-
-### William "Will" Staud
-
-#### Primary Courses:
-
 * Assembly
-* Reverse Engineering
 
 ## Tools
 
