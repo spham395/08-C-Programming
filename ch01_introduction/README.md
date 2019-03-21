@@ -28,7 +28,7 @@
   * pointers
   * filenames
   * comments
-  * etc
+
 
 
 
