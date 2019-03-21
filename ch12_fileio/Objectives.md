@@ -25,4 +25,4 @@ In this chapter, we will re-iterate our Coding style expectations and presentati
 5. Variables
 
 
-NOTE: Presentations are not guaranteed to show complete code (AKA: stub code)
+**NOTE:** Presentations are not guaranteed to show complete code (AKA: stub code)
