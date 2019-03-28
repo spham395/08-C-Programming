@@ -5,18 +5,21 @@
 * Intro to C
 * Variables
 * Arrays and Strings
-* Print and Scan
+* File I/O Pt 1 (Print and Scan)
 * Operators and Expressions
 * Bitwise Operators
 * Control Flow
-* Functions 
+* Functions
+* Error Handling (pt 1) Refactoring intro
 * C Compiler
 * Preprocessor
 * Pointers and Arrays
-* FileIO
+* File I/O (pt 2)
 * Structs
-* Error Handling
+* Error Handling (pt 2) Refactoring
 * Memory Management
+* Linked list
+* Algorithms
 * Project
 
 
