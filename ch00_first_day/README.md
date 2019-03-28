@@ -1,6 +1,6 @@
 # First Day Setup
 
-Welcome to the 90th COS Initial Developer Fundamental (IDF) training. This is a ~16 week developer course designed to provide you with the basic knowledge and skills required to enable you to perform as a new programming developer. If this is your first time programming or you have very little experience, this course will be challenging. If you have programming experience, the instructors will challenge you to get even better.
+Welcome to the 90th COS Initial Developer Fundamental (IDF) training. This is a ~16 week developer course designed to provide you with the basic knowledge and skills required to enable you to perform as a new programming developer. If this is your first time programming or you have very little experience, this course will be challenging. If you have programming experience, the instructors will provide more robust assignments to help improve your skillset.
 
 ## Blocks
 
