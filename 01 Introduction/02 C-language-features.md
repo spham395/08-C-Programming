@@ -28,7 +28,9 @@ int main()
 
 ### Types
 
-C enforces data types. Declarations/definitions eliminate ambiguities. There are also two types of data:
+Within C, Objects, functions, and expressions have a property called type, which determines the interpretation of the binary value stored in an object or evaluated by the expression.
+
+The C language constists of the following types: 
 
 #### Built-In
 
