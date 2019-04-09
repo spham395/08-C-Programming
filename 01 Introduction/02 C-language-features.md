@@ -30,7 +30,7 @@ int main()
 
 Within C, Objects, functions, and expressions have a property called type, which determines the interpretation of the binary value stored in an object or evaluated by the expression.
 
-The C language constists of the following types: 
+The following are **some** of the C language types.  More will be identified as we continue our journey into programming.
 
 #### Built-In
 
@@ -56,6 +56,7 @@ struct birthday {
     int year;
 }
 ```
+
 
 
 
