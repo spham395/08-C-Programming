@@ -2,11 +2,11 @@
 
 ### Pointers
 
-A pointer is a variable which contains the address of another variable in memory. Pointers can point to any variable type.
+Pointer variables often called pointers, are variables which contain the address of another variable in memory. Pointers can point to any variable type.
 
-### Pointer Variables
+### Dereferencing Pointer
 
-The data contained at the address in which a pointer is pointing to. This is called dereferencing the pointer.
+The data contained at the address in which a pointer is pointing to. Simply put, when you dereference a pointer, you are using the pointer to get to the other variable.
 
 ### Dynamic Storage
 
