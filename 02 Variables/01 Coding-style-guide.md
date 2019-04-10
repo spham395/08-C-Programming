@@ -1,6 +1,6 @@
 # Coding Style Guide
 
-This is a general style guide. Different guides will be released for different languages. The entire guide won't apply to every section. Newly applicable sections will be covered in each objective. The **requirements** section will be evaluated during all Progress Checks. The **recommended** section will NOT be evaluated but do represent best practices.
+This is a generic coding style guide. Different guides will be released for different languages. The entire guide won't apply to every section. Newly applicable sections will be covered in each objective. The **requirements** section will be evaluated during all Progress Checks. The **recommended** section will NOT be evaluated but do represent best practices.
 
 ### Requirements
 
