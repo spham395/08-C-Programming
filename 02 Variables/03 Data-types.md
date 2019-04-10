@@ -8,10 +8,11 @@ A variable's type regulates several things in C:
 C "types" can be either **predefined** or **derived**.
 
 ### Predefined Types:
+* Void
+
 * Basic Types
     * Integer Types
     * Floating Types
-* Void
 
 *We will be going over derived types later*
 
