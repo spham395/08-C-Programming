@@ -7,7 +7,7 @@ Size sets limits on the information that can be stored. Computers have a finite 
 
 C is often used because of size restrictions. C gives the programmer a ton of control of the memory. Which can be both good and bad depending on the programmers skills. It's easy to create memory leaks and such if not careful. But on the other side of the coin, this gives the programmer the power to program on devices where minimal memory usage may be necessary. For example, embedded programming and gaming \(Especially with C++\).
 
-YOU take control. YOU allocate, deallocate memory. YOU manage buffers. YOU know the performance impact of YOUR actions. etc.
+YOU take control. YOU allocate, or de-allocate memory. YOU manage buffers. YOU know the performance impact of YOUR actions. etc.
 
 ## Operator - sizeof():
 **sizeof()** is used to determine the amount of memory taken up. Never guess; let the system tell us.
