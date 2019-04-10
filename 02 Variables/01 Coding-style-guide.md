@@ -51,7 +51,7 @@ Names of global variables and functions sort of act like comments. They need to 
 Indentation must be constant and uniform. braces {} must be used for functions, required statements \(if, else, etc\), etc.
 
 ### Files:
-Ensure you use the correct extensions. The first letter of the file name should be a letter and all characters should be lower-case letters and numbers. Use underscores for word splitting. i.e.: **npc\_ai.c**
+Ensure you use the correct extensions. The first character of the file name should be a letter and lower-case letters. The remaining characters can be letters or numbers, but should remain lowercase. Use underscores for word splitting. i.e.: **npc\_ai.c**
 
 ---
 
