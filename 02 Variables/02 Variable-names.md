@@ -1,6 +1,8 @@
 # Variable Names
 
-**Variables** are a place in the computer's memory for storing a value. The **variable name** is an identifier for a single variable. The variable name should describe the variable as best as possible. The **max length** of a variable name is < 32.  This depends on the variable type, compiler, and version of C being used. For instance, the G++ compiler can compile any length.
+**Variables** are a name given to a place in the computer's memory for storing a value that our programs can manipulate. Each variable has a specific **type**, which determines the size and layout of the variable's memory; range of **values** that can be stored in that memory; and operations applied to that variable.  
+
+**Variable names** should describe the variable as best as possible. The **max length** of a variable name is < 32 depending on the variable type, compiler, and version of C being used. For instance, the G++ compiler can compile any length.
 
 ## Style:
 A variable name can be composed of letters and digits. They may not begin with a number though. C variable names are case sensitive and the underscore "_" counts as a letter (Do not begin variable names with a underscore since library routines and system names use this naming convention). You may also not include keywords or spaces in variable names.
