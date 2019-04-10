@@ -1,6 +1,8 @@
 # Data Types
 
-A variable's type regulates several things in C:
+Objects, functions, and expressions have a property called type, which are used to intrepret the binary value stored in an object or expression.
+
+A variable's type regulates:
 * The amount of memory occupied
 * How the bit pattern stored is interpreted
 * How a function's return value is to be interpreted
@@ -9,7 +11,6 @@ C "types" can be either **predefined** or **derived**.
 
 ### Predefined Types:
 * Void
-
 * Basic Types
     * Integer Types
     * Floating Types
