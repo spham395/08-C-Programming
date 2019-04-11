@@ -8,7 +8,7 @@ Any version of C that conforms to the specifications of the American National St
 
 ### International Organization for Standardization \(ISO\) 
 
-Is an international standard-setting body composed of reps from various national standards organizations. 
+ISO is an international standard-setting organization, composed of representatives from various national standards organizations. 
 
 The first standard for C was published by ANSI. As of march 2000, ANSI adopted the C99 standard. ANSI C is supported by most of the widely used compilers. Most C code is written based on ANSI C. 
 
