@@ -1,4 +1,4 @@
-# Lab 2A: Declaring Variables
+# Lab 1A: Declaring Variables
 
 ![](/assets/817d317eecb8af559b39be77577c2b2e--engineer-humor-computer-jokes.jpg)
 
