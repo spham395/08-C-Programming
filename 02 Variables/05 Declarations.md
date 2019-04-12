@@ -31,7 +31,7 @@ int main(void)
 
 ## Initialization
 
-It is very important that you initialize a variable after declaring it. This simply means assigning it a value of some sort. Failure to assing a value to the variable could result in one being assigned by your IDE, or worse, you'll end up with something you do not want. Think of it this way. By declaring a variable, you have allocated a chunk of memory for those variables. By not initializing your variable, your values could be valid or not, based on what could have been assigned to that memory location previously etc...
+It is very important that you initialize a variable after declaring it. This simply means assigning it a value of some sort. Failure to assign a value to the variable could result in one being assigned by your IDE, or worse, you'll end up with something you do not want. Think of it this way. By declaring a variable, you have allocated a chunk of memory for those variables. By not initializing your variable, your values could be valid or not, based on what could have been assigned to that memory location previously etc...
 
 ### Initialization Example
 
