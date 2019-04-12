@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	char myFavoriteWord [8] = {0};
+	char myFavoriteWord [10] = {0};
 	
 	myFavoriteWord[0] = 70;
 	myFavoriteWord[1] = 97;
