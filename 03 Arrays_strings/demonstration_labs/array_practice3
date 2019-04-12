@@ -89,17 +89,16 @@ int main(void)
 	*/
 
 	// Most efficient method
-	myCharArray[0] = 72;	// H
-	myCharArray[1] = 97;	// a
+	myCharArray[0] = 84;	// T
+	myCharArray[1] = 101;	// e
 	myCharArray[2] = 114;	// r
-	myCharArray[3] = 107;	// k
-	myCharArray[4] = 108;	// l
-	myCharArray[5] = 101;	// e
-	myCharArray[6] = 114;	// r
-	myCharArray[7] = 111;	// o
-	myCharArray[8] = 97;	// a
-	myCharArray[9] = 100;	// d
-
+	myCharArray[3] = 99;	// c
+	myCharArray[4] = 105;	// i
+	myCharArray[5] = 107;	// l
+	myCharArray[6] = 105;	// i
+	myCharArray[7] = 97;	// a
+	myCharArray[8] = 110;	// n
+	
 	printf("\n");
 	printf("The third element of my modified int array is:  %d\n", myIntArray[2]);
 	printf("The third element of my modified float array is:  %f\n", myFloatArray[2]);
