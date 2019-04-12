@@ -9,5 +9,5 @@ In this lab, you will declare and initialize variables of the following types:
 * double
 * char
 
-Then print the variables and their sizes.
+Then print the variables and their sizes, using the previous lab as a reference.  We will discuss printing in later topics.
 
