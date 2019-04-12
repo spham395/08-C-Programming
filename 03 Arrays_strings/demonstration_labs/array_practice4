@@ -19,9 +19,9 @@ int main(void)
 	}
 
 	// Option #1 - Element by element
-//	char favoriteSaying[] = { 10, 'B', 'a', 'z', 'i', 'n', 'g', 'a', '!', 10, 0};
+//	char favoriteSaying[] = { 10, 'B', 'a', 's', 't', 'i', 'o', 'n', 33, 0};
 	// Option #2 - String method
-	char favoriteSaying[] = { "\nBazinga!\n"};
+	char favoriteSaying[] = { "\nBastion!\n"};
 	printf("My favorite saying is: %s\n", favoriteSaying);
 
 	getchar();
