@@ -59,6 +59,6 @@ int main(void)
 
 ---
 
-## Lab 2A
+## Lab 1A
 
 Proceed to performance_labs/LabA
