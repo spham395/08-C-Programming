@@ -36,8 +36,8 @@ Cast will ignore any unneeded or additional information, but will never add info
 
 ---
 
-## Demonstration Lab 2a
-Review lab demo3, and Practice the following tasks:
+## Demonstration Lab 2
+Review labs demo 2a & 2b, and Practice the following tasks:
 
 Declare and initialize variables of data types: 
 * int
