@@ -36,7 +36,7 @@ Cast will ignore any unneeded or additional information, but will never add info
 
 ---
 
-## Demonstration Lab 3
+## Demonstration Lab 2a
 Review lab demo3, and Practice the following tasks:
 
 Declare and initialize variables of data types: 
