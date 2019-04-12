@@ -37,6 +37,7 @@ Cast will ignore any unneeded or additional information, but will never add info
 ---
 
 ## Demonstration Lab 3
+Review demo3 lab, and Practice the following tasks:
 
 Declare and initialize variables of data types: 
 * int
@@ -57,7 +58,7 @@ Type cast and print the following:
 
 ---
 
-## Lab 2B
+## Lab 1B
 
 Proceed to performance_labs/labB
 
