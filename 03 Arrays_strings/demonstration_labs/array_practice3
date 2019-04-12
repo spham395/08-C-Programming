@@ -7,7 +7,7 @@ int main(void)
 	// Data Type	Name			Dimension	Initialize to:
 	// ---------------------------------------------------------------------
 	// int			myIntArray		10			100 (every index)
-	// float		myFloatArray	5			1 - 5
+	// float		myFloatArray		5			1 - 5
 	// char			myCharArray		256			0
 	////////////////////////////////////////////////////////////////////////
 	int myIntArray[10] = { 100, 100, 100, 100, 100, 100, 100, 100, 100, 100 }; // Option #1
