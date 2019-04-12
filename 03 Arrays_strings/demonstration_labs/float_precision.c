@@ -10,7 +10,6 @@ int main(void)
 	double num2 = 1.0;
 	double result = 0;
 
-
 	int counter = 0;
 
 	while (num1 + num2 != num1)
