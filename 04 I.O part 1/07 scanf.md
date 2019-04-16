@@ -111,7 +111,7 @@ scanf(“%64[^e\n]s”, Gadsby);     // Stops reading at first e or newline
 
 **NOTE**: Any field width specification also stops scanf\(\) from reading any more input regardless of any matched characters.
 
-# Demonstration Lab
+# Demonstration Lab 4
 
 ## Formatted I/O
 
@@ -122,7 +122,7 @@ scanf(“%64[^e\n]s”, Gadsby);     // Stops reading at first e or newline
 * Ensure the field-width leaves room for the nul-terminator 
 * Stop reading at the first capital letter or new line
 
-# Demonstration Lab 2
+# Demonstration Lab 5
 
 ## Formatted I/O \(scanf\)
 
