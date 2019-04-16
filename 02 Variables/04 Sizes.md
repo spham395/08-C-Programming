@@ -13,7 +13,7 @@ YOU take control. YOU allocate, or de-allocate memory. YOU manage buffers. YOU k
 **sizeof()** is used to determine the amount of memory taken up. Never guess; let the system tell us.
 
 ---
-### Demonstration Lab 1-2
+### Demonstration Lab 2
 
 ```c
 #include <stdio.h>
