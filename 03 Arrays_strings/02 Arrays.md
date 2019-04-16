@@ -74,7 +74,7 @@ char availableGrades [4] = {65, 66};
 
 ---
 
-## Array Practice
+## Array Practice 1
 
 Fill in the blanks for the following arrays.
 
