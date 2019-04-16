@@ -38,7 +38,7 @@ putc(userInput, stdout);               // Writes to stdout
 
 # Demonstration Lab
 
-## Basic I/O
+## Basic I/O b
 
 * Input a single character then write that character to stdout
 
