@@ -110,7 +110,7 @@ fputs(buff, stdout);                    // Writes to stdout
 
 **NOTE:** Ensure C strings are nul-terminated
 
-# Demonstration Lab 1
+# Demonstration Lab 3
 
 ## String I/O
 
@@ -131,7 +131,7 @@ puts(buff);                          // Writes to stdout
 * Enter a string: **31398**
 * Enter a string: **Superman**
 
-# Demonstration Lab 2
+# Practice Lab
 
 ## String I/O
 
