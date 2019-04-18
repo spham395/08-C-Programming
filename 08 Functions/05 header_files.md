@@ -109,7 +109,7 @@ int main(void)
 
 ---
 
-# Demo Lab "String Theory"
+# Demo Labs 1 and 2 "String Theory"
 
 * Write a header named *MyStringHeader.h*
 * Write a function for the header of prototype: 
