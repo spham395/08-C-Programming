@@ -279,7 +279,7 @@ int main(void)
 ```
 
 ---
-# Demo Lab: Recursion
+# Demo Lab 3: Recursion
 
 ```c
 int fibonacci_number(int sequenceNumber);
