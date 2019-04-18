@@ -27,4 +27,4 @@ for(i = 0; i < 10; i++) //loops 10 times
 ```
 
 ## DEMO LAB 6
-## PERFORMANCE LAB A
+## PERFORMANCE LAB H
