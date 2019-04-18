@@ -74,7 +74,7 @@ i = 13
 i = 14
 i = 15
 ```
-## SEE DEMO LAB 1
+## SEE DEMO LAB 5
 ## PERFORMANCE LAB A
 
 ### WHILE Loops
