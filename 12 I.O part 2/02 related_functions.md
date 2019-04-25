@@ -109,7 +109,6 @@ int main(void)
 
 ### When reading a file...
 
-
 Verify fopen() succeeded by checking for NULL pointers.
 
 fclose() everything you fopen().
@@ -176,6 +175,7 @@ int main(void)
 **DemoLab:** Funk
 
 **Performance Lab:** Mighty Morphin
+
 **Performance Lab:** Your Song
 
 **Performance Lab:** CONTENT COPY (CHAR-BY-CHAR)
