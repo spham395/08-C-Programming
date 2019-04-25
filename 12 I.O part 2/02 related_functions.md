@@ -103,7 +103,7 @@ int main(void)
     return 0
 }
 ```
-NOTE: fclose() every stream you fopen()!!!
+**Note:** fclose() every stream you fopen()!!!
 
 ---
 
@@ -171,7 +171,7 @@ int main(void)
     return 0;
 }
 ```
-## NOTE: REMEMBER TO BUILD IN SAFETY CHECKS!!!
+### Note: REMEMBER TO BUILD IN SAFETY CHECKS!!!
 
 ### DEMOLAB: FUNK
 
