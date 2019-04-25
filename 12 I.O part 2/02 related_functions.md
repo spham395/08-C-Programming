@@ -178,8 +178,8 @@ int main(void)
 
 **Performance Lab:** Your Song
 
-**Performance Lab:** CONTENT COPY (CHAR-BY-CHAR)
+**Performance Lab:** Content copy (CHAR-BY-CHAR)
 
-**Performance Lab:** CONTENT COPY (LINE-BY-LINE)
+**Performance Lab:** Content copy (LINE-BY-LINE)
 
 **Performance Lab:** USERNAMES
