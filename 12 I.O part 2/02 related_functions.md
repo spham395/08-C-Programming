@@ -171,16 +171,15 @@ int main(void)
     return 0;
 }
 ```
-### Note: REMEMBER TO BUILD IN SAFETY CHECKS!!!
+**Note:** Remember to build in safety checks!
 
-### DEMOLAB: FUNK
+**DemoLab:** Funk
 
-### PERFORMANCE LAB: MIGHTY MORPHIN'
+**Performance Lab:** Mighty Morphin
+**Performance Lab:** Your Song
 
-### PERFORMANCE LAB: YOUR SONG
+**Performance Lab:** CONTENT COPY (CHAR-BY-CHAR)
 
-### PERFORMANCE LAB: CONTENT COPY (CHAR-BY-CHAR)
+**Performance Lab:** CONTENT COPY (LINE-BY-LINE)
 
-### PERFORMANCE LAB: CONTENT COPY (LINE-BY-LINE)
-
-### PERFORMANCE LAB: USERNAMES
+**Performance Lab:** USERNAMES
