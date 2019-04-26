@@ -29,9 +29,9 @@ void *realloc(void *ptr, size_t size);
 4. Should we zeroize a pointer variable that’s been freed?
 ---
 ### DEMO LABS
-    functions.c
-    lab1.c
-    lab2.c
+    DemoLab_3.functions
+    DemoLab_1
+    DemoLab_2
 
 ### PEFORMANCE LABS
     haystack-needle.c
