@@ -122,4 +122,4 @@ int main(void)
 
 
 ### PEFORMANCE LAB
-PerLab_1.string
+PerfLab_1.string
