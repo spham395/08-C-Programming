@@ -29,7 +29,7 @@ Many I/O functions update ERRNO
 
 
 ### DEMO LAB: 
-DemoLab_2.INPUT
+DemoLab_3.INPUT
 
 ### PERFORMANCE LAB:
 PerfLab_3.OUTPUT
