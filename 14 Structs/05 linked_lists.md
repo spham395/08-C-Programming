@@ -92,6 +92,7 @@ struct Linked = {NULL, 1001, "Record1", NULL};
 
 ### DEMONSTRATION LAB:
 DemoLab_2
+
 DemoLab_3
 
 ### PERFORMANCE LAB:
