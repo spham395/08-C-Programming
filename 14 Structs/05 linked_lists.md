@@ -90,7 +90,9 @@ struct Linked = {NULL, 1001, "Record1", NULL};
 
 ![](/assets/circList.JPG)
 
-### DemoLab 2
-### DemoLab 3
+### DEMONSTRATION LAB:
+DemoLab_2
+DemoLab_3
 
-### PerfLab 2
+### PERFORMANCE LAB:
+PerfLab_2
