@@ -121,4 +121,5 @@ int main(void)
 
 
 
-### PEFORMANCE LAB: "arrgh, matey ye walkin' thee STRING!"
+### PEFORMANCE LAB
+PerLab_1.string
