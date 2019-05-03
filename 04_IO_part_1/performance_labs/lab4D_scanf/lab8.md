@@ -1,4 +1,4 @@
-# Lab 4D: scanf
+# Lab 8: scanf
 
 ## Part 1
 
