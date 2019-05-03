@@ -1,4 +1,4 @@
-# Lab 8A: Function - "Healthy Substitutions"
+# Lab 20: Function - "Healthy Substitutions"
 
 ```c
 int replace_character(char * string, const char findThisChar, const char replaceItWithThis);
