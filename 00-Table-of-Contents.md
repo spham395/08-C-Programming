@@ -39,6 +39,7 @@
   * [Logical Operators](05_Operators_expressions/04_logical-operators.md)
   * [Assignment Operators](05_Operators_expressions/05_assignment-operators.md)
   * [Precedence](05_Operators_expressions/06_precedence.md)
+  * [Lab 9](05_Operators_expressions/performance_labs/Lab9.md)
 * [Bitwise Operators](06_Bitwise_operators/README.md)
   * [Bitwise Operations](06_Bitwise_operators/01_bitwise-operations.md)
   * [Numbering Systems](06_Bitwise_operators/02_numbering-systems.md)
