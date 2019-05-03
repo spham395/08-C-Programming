@@ -91,7 +91,8 @@ There are much more efficient ways to iterate through an array such as loops (wh
 
 ---
 
-## PRACICAL LABS:
+## Practical Lab:
+
 ## Lab 3
 
 Proceed to performance_labs/lab3A and follow the instructions. 
