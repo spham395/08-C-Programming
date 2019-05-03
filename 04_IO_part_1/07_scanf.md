@@ -133,5 +133,9 @@ scanf(“%64[^e\n]s”, Gadsby);     // Stops reading at first e or newline
 * Output the results as a date with leading zeros &lt;mm&gt;/&lt;dd&gt;/&lt;yyyy&gt;
 * Specify the field width of the output appropriately
 
+# Performance Lab 8
+
+Complete performance lab 8
+
 
 
