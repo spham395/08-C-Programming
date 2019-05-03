@@ -75,7 +75,7 @@ i = 14
 i = 15
 ```
 ## SEE DEMO LAB 5
-## PERFORMANCE LAB E
+## PERFORMANCE LAB 15
 
 ### WHILE Loops
 While loops utilize a control structure with one component written as an expression.
@@ -141,7 +141,7 @@ i = 1
 //this goes through a total of 10 loops.
 ```
 
-## PERFORMANCE LAB F
+## PERFORMANCE LAB 16
 
 
 ### DO WHILE Loops
@@ -215,7 +215,7 @@ r
 14 characters.
 ```
 
-## PERFORMANCE LAB G
+## PERFORMANCE LAB 17
 
 ### When do I use FOR loops?
 
