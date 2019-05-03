@@ -1,4 +1,4 @@
-# Lab 4C: String I/O
+# Lab 5: String I/O
 
 ![](/assets/t3_7klgvr.jpg)
 
