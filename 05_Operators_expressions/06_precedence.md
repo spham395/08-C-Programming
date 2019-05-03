@@ -48,6 +48,8 @@ x = 9; y = 3;
 // What would be a better way of writing these?
 ```
 
+## Performance Lab 9
+
 #### NOTE: Best practice is to be explicit with parentheses
 
 
