@@ -59,6 +59,6 @@ int main(void)
 
 ---
 
-## Lab 1
+## Performance Lab 1:
 
 Proceed to performance_labs/Lab1
