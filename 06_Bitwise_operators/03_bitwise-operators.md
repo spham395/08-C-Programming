@@ -177,7 +177,7 @@ The bitwise shift right operator shifts bits a certain amount of positions right
 
 #### ![](/assets/bin22.PNG)Note: This example asserts "unsigned short x = 3" which is typically 2 bytes and, according to limits.h, USHRT\_MAX = 65535... meaning that's the max for a unsigned short int**
 
-# Demonstration Lab 
+# Performance Lab 10 
 
 ## Bitwise Shift Right
 
