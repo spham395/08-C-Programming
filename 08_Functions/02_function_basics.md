@@ -158,7 +158,7 @@ int remove_newline(char * buffer);
     * Return ERR_NULL_POINTER if buffer is NULL
     * Return ERR_NONE_FOUND if no newlines are found
 
-# Performance Lab "Healthy Substitutions"
+# Performance Lab 20 "Healthy Substitutions"
 
  * Proceed to performance_labs/lab8A and follow the instructions
 
