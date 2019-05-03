@@ -1,4 +1,4 @@
-# Lab 3A: Arrays
+# Lab 3: Arrays
 
 ![](/assets/781.jpg)
 

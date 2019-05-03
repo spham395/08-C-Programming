@@ -58,7 +58,7 @@ Type cast and print the following:
 
 ---
 
-## Lab 1B
+## Lab 2
 
 Proceed to performance_labs/labB
 

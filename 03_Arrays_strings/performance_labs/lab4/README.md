@@ -1,4 +1,4 @@
-# Lab 3B: Strings
+# Lab 4: Strings
 
 1. ### Declare and zeroize a char array with a dimension of 256
 2. ### Assign your chosen phrase to the leading elements of that array
