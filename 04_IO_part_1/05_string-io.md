@@ -132,6 +132,7 @@ puts(buff);                          // Writes to stdout
 * Enter a string: **Superman**
 
 # Performance Lab 7
+Proceed to performance lab 7
 
 * Read a string from stdout and then write that string to stdout:
 
