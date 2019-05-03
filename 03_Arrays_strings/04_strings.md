@@ -148,6 +148,6 @@ printf("My favorite word is %s!\n", myFavWord);
 
 ---
 
-## Lab3B
+## Performance Lab 4:
 
-Proceed to performance_labs/lab3B and follow the instructions. 
+Proceed to performance_labs/lab4 and follow the instructions. 
