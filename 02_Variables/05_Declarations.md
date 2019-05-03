@@ -61,4 +61,4 @@ int main(void)
 
 ## Lab 1
 
-Proceed to performance_labs/LabA
+Proceed to performance_labs/Lab1
