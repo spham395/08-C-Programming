@@ -43,7 +43,7 @@ printf("apparently, this works and i evaluates to TRUE. \n");
 NOTE: Do not leave if statements unwrapped, watch those { } !!
 
 ## SEE TO DEMO LAB 1
-## PERFORMANCE LAB A
+## PERFORMANCE LAB 11
 
 
 ### IF-ELSE statements
@@ -92,7 +92,7 @@ else
 NOTE: Do not leave if-else statements unwrapped {}.
 
 ## SEE TO DEMO LAB 2
-## PERFORMANCE LAB B
+## PERFORMANCE LAB 12
 
 ### ELSE-IF statements
 
@@ -151,7 +151,7 @@ else
 NOTE: Do not leave else-if statements unwrapped {}!
 
 ## SEE TO DEMO LAB 3
-## PERFORMANCE LAB C
+## PERFORMANCE LAB 13
 
 ### Switch Statements
 
@@ -231,7 +231,7 @@ switch (binaryInput)
 }
 ```
 ## SEE TO DEMO LAB 4
-## PERFORMANCE LAB D
+## PERFORMANCE LAB 14
 
 
 ### When do I use an IF statement?
