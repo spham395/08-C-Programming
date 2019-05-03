@@ -49,6 +49,14 @@
 * [Control Flow](07_Control_flow/README.md)
   * [Statements & Blocks](07_Control_flow/01_statements-and-blocks.md)
   * [Conditional Statements](07_Control_flow/02_conditional-statements.md)
+  * [Lab 11](07_Control_flow/performance_labs/Lab11.md)
+  * [Lab 11](07_Control_flow/performance_labs/Lab12.md)
+  * [Lab 12](07_Control_flow/performance_labs/Lab13.md)
+  * [Lab 13](07_Control_flow/performance_labs/Lab14.md)
+  * [Lab 14](07_Control_flow/performance_labs/Lab15.md)
+
+
+
   * [Loops](07_Control_flow/03_loops.md)
   * [Break](07_Control_flow/04_break.md)
   * [Nested Control Flow](07_Control_flow/05_nested-control-flow.md)
