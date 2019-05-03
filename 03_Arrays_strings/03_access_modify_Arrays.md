@@ -91,5 +91,5 @@ There are much more efficient ways to iterate through an array such as loops (wh
 
 ---
 
-## Performance Lab:
-**Lab 3**
+## Performance Lab 3:
+
