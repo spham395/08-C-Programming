@@ -44,6 +44,7 @@
   * [Bitwise Operations](06_Bitwise_operators/01_bitwise-operations.md)
   * [Numbering Systems](06_Bitwise_operators/02_numbering-systems.md)
   * [Bitwise Operators](06_Bitwise_operators/03_bitwise-operators.md)
+  * [Lab 10](06_Bitwise_operators/performance_labs/lab10.md)
   * [Capstone](06_Bitwise_operators/capstone-1.md)
 * [Control Flow](07_Control_flow/README.md)
   * [Statements & Blocks](07_Control_flow/01_statements-and-blocks.md)
