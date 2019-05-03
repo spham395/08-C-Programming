@@ -1,4 +1,4 @@
-# Lab 4B: Basic I/O Pt 2
+# Lab 6: Basic I/O Pt 2
 
 ![](/assets/programmers-meme-no-errors.jpg)
 
@@ -7,7 +7,7 @@
 3. Test it with the following input:
 
 ```
-- 7
+- 7a
 - H
 - 1337
 - abc
