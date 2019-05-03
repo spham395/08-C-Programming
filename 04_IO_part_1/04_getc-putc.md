@@ -57,5 +57,5 @@ putc(userInput, stdout);          // Writes to stdout
 * Enter a character: **54**
 * Enter a character: **JasV**
 
-
+# Performance Lab 6
 
