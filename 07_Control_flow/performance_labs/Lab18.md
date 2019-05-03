@@ -1,4 +1,4 @@
-# PERFORMANCE LAB H
+# PERFORMANCE LAB 18
 ### CONTINUE
 
 * Input an unsigned integer "x".
