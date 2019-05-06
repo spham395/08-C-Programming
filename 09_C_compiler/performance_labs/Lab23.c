@@ -1,4 +1,4 @@
-# PERFORMANCE LAB 9.2 A
+# PERFORMANCE LAB 23
 
 1. Write a C program or use a previous one.
 2. Walk the source code through the following phases:
