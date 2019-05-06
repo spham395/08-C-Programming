@@ -91,9 +91,9 @@ struct Linked = {NULL, 1001, "Record1", NULL};
 ![](/assets/circList.JPG)
 
 ### DEMONSTRATION LAB:
-DemoLab_2
+Demo Struct 1
 
-DemoLab_3
+Demo Struct 2
 
 ### PERFORMANCE LAB:
-PerfLab_2
+Lab Linked List
