@@ -127,7 +127,7 @@
   * [Function Pointers](14_Structs/06_functions_pointers.md)
 * [Error Handling](15_Error_handling/README.md)
   * [Assert](15_Error_handling/01_assert.md)
-  * [Demo Assert](15_Error_handling/Demonstration_Lab/Demo_assert.md)
+  * [Demo Assert](15_Error_handling/Demonstration_Labs/Demo_assert.md)
   * [Lab String](15_Error_handling/Performance_Labs/Lab_string.md)
   * [Errno](15_Error_handling/02_errno.md)
   * [Demo EOL](15_Error_handling/Demonstration_Labs/Demo_EOL.c)
