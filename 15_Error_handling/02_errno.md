@@ -69,7 +69,7 @@ if (myFunc() == -1) 			// -1 typically an error
 ```
 
 ### DEMO LAB: 
-DemoLab_2.EOL
+Demo EOL
 
 ### PERFORMANCE LAB: 
-PerfLab_2.ERRNO
+Lab ERRNO
