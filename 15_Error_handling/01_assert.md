@@ -120,7 +120,7 @@ int main(void)
 ```
 
 ### DEMONSTRATION LAB
-DemoLab_1.Assert
+Demo_Assert
 
 ### PEFORMANCE LAB
 PerfLab_1.string
