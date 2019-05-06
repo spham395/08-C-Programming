@@ -1,4 +1,4 @@
-# DEMO LAB 1 9.3
+# DEMO LAB manual_linking
 
 ## Manual Linking
 
