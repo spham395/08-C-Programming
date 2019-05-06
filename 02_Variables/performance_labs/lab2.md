@@ -1,4 +1,4 @@
-# Lab 1B: Type Conversion
+# Lab 2: Type Conversion
 
 ### Did someone say 2B???![](/assets/bug.png)
 
