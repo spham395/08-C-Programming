@@ -1,4 +1,4 @@
-# PERFORMANCE LAB E
+# PERFORMANCE LAB 15
 ### FOR LOOP: OCCUPANDI TEMPORIS
 
 Following demo lab 1 for 7.3, you should have identified your past code/programs where a for loop would have been more economical. Well NOW is your chance. Create a C file where your previous code is commented out and directly underneath, you implement a for loop.
