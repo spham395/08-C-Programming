@@ -79,7 +79,7 @@
   * [Lab 22](09_C_compiler/performance_labs/Lab22.c)
   * [Manual Linking](09_C_compiler/03_manual_linking.md)
   * [Demo Manual Linking](09_C_compiler/demonstration_labs/Manual_lining.md)
-  * [Lab 23](09_C_compiler/performance_labs/Lab23.c)
+  * [Lab 23](09_C_compiler/performance_labs/Lab23.md)
 * [Preprocessor](10_Preprossessor/01_coding_style_guide.md)
   * [Coding Style guide](10_Preprocessor/01_coding_style_guide.md)
   * [Stub Code](10_Preprocessor/02_stub_code.md)
@@ -91,7 +91,7 @@
   * [Lab 24](10_Preprocessor/performance_labs/lab24.md)
   * [Conditional Compilation](10_Preprocessor/07_conditional_compilation.md)
   * [Demo Conditional Compilation](10_Preprocessor/demonstration_labs/Conditional_Comp.md)
-  * [Lab 25]
+  * [Lab 25](10_Preprocessor/performance_labs/Lab25.md)
 * [Pointers & Arrays](11_Pointers_Arrays/README.md)
   * [Coding Style Guide](11_Pointers_Arrays/01_coding_style_guide.md)
   * [Definitions](11_Pointers_Arrays/02_definitions.md)
@@ -102,6 +102,8 @@
 * [I.O part 2](12_IO_part_2/Objectives.md)
   * [File Data Type](12_IO_part_2/01_file_data_type.md)
   * [Related Functions](12_IO_part_2/02_related_functions.md)
+  * [Demo Funk](12_IO_part_2/demonstration_labs/funk.c)
+  * []
 * [Memory Management](13_Memory_Management/01_concepts.md)
   * [Concepts](13_Memory_Management/02_stack_based_memory.md)
   * [Stack Based Memory](13_Memory_Management/03_heap_based_memory.md)
