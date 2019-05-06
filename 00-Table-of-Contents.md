@@ -1,4 +1,4 @@
-# Table of contents
+# C Programming Table of contents
 
 * [Introduction](README.md)
 * [Variables](02_Variables/README.md)
