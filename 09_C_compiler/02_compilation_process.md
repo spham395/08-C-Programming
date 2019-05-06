@@ -136,7 +136,7 @@ External objects and functions must not be defined more than once in a program.
     3. -c ASSEMBLES but does not link
     4. gcc without any of the above options will LINK files
 
-## PERFORMANCE LAB 9.2A
+## PERFORMANCE LAB 22
 
 
 
