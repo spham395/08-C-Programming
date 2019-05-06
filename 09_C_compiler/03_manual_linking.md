@@ -67,8 +67,8 @@ Property pages --&gt; C/C++ --&gt; output files --&gt; object file name
 
 Add the .obj to your project as an "existing item"
 
-## DEMO LAB 1 9.3
-## PERFORMANCE LAB A 9.3
+## DEMO LAB Manual Linking
+## PERFORMANCE LAB 23
 
 
 
