@@ -1,4 +1,4 @@
-# PERFORMANCE LAB 9.3 A
+# PERFORMANCE LAB 23
 
 1. Define the function prototype found in student_header.h
 2. Assemble the header's source code into an object file
