@@ -1,3 +1,5 @@
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+
 # Bitwise Operations
 
 A bit is the smallest unit of information on a computer. Bits are normally represented by 1 and 0. 1 generally meaning \[on, true, set, yes\] and 0 generally meaning \[off, false, cleared, no\]. Bitwise operators test and/or modify bits. We use bit manipulations to control the machine at the lowest level. 
