@@ -62,7 +62,7 @@ Type cast and print the following:
 
 ## Performance Lab 2
 
-Proceed to performance_labs/lab2
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/02_Variables/performance_labs/lab2.md" rel="PERFORMANCE LAB 2"> PERFORMANCE LAB 2 </a>
 
 
 
