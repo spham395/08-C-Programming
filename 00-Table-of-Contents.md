@@ -28,7 +28,7 @@
   * [Lab 5](04_IO_part_1/performance_labs/lab5/lab5.md)
   * [GetC & PutC](04_IO_part_1/04_getc-putc.md)
   * [Lab 6](04_IO_part_1/performance_labs/lab6/lab6.md)
-  * [String IO](04_IO__part_1/05_string-io.md)
+  * [String IO](04_IO_part_1/05_string-io.md)
   * [Lab 7](04_IO_part_1/performance_labs/lab7/lab7.md)
   * [Printf](04_IO_part_1/06_printf.md)
   * [scanf](04_IO_part_1/07_scanf.md)
