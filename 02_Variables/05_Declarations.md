@@ -61,6 +61,4 @@ int main(void)
 
 ---
 
-## Performance Lab 1:
-
-Proceed to performance_labs/Lab1
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/02_Variables/performance_labs/lab1.md" rel="PERFORMANCE LAB 1"> PERFORMANCE LAB 1 </a>
