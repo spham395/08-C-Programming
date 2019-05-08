@@ -1,3 +1,5 @@
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+
 # Type Conversions
 
 Type conversion is possible in C. Type conversion simply yields a value in a new data type. The original value is preserved if the new type is capable of representing it. For example, floating point numbers may be rounded on conversion from double to float. There are two methods to convert type:
