@@ -1,5 +1,7 @@
 # Data Types
 
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+
 Objects, functions, and expressions have a property called type, which are used to intrepret the binary value stored in an object or expression.
 
 A variable's type regulates:
