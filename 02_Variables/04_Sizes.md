@@ -1,3 +1,5 @@
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+
 # Sizes - Why Does Size Matter?
 
 Size sets limits on the information that can be stored. Computers have a finite amount of free memory. Thus, data type sizes vary depending on hardware and software environments. So it's important to keep the above in mind when allocating blocks of memory. It's **NEVER** safe to presume the size of any data type.
