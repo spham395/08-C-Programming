@@ -34,7 +34,7 @@
   * [scanf](04_IO_part_1/07_scanf.md)
   * [Lab 8](04_IO_part_1/performance_labs/lab8/lab8.md)
   * [fprintf & fscanf](04_IO_part_1/08_fprintf-fscanf.md)
-* [Operators_Expressions](05_Operations_expressions/README.md)
+* [Operators_Expressions](05_Operators_expressions/README.md)
   * [Definitions](05_Operators_expressions/01_definitions.md)
   * [Aritmetic Operators](05_Operators_expressions/02_arithmetic-operators.md)
   * [Relational Operators](05_Operators_expressions/03_relational-operators.md)
