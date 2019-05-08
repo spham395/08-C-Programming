@@ -52,6 +52,8 @@ x = 9; y = 3;
 
 ## Performance Lab 9
 
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/05_Operators_expressions/performance_labs/Lab9.md" rel="PERFORMANCE LAB 9"> PERFORMANCE LAB 9 </a>
+
 #### NOTE: Best practice is to be explicit with parentheses
 
 
