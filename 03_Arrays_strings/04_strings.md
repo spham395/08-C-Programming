@@ -1,3 +1,5 @@
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+
 # Strings
 
 Strings are merely an array of characters that are terminated by the nul character ('\0'). The array must be at least one byte longer than the string stored within. The length of the string is the number of characters excluding the string terminator ('\0').
