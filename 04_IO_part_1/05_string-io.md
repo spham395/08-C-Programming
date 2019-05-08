@@ -133,6 +133,8 @@ puts(buff);                          // Writes to stdout
 * Enter a string: **31398**
 * Enter a string: **Superman**
 
+## Proceed to Performance Lab 7
+
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/04_IO_part_1/performance_labs/lab7/lab7.md" rel="PERFORMANCE LAB 7"> PERFORMANCE LAB 7 </a>
 
 * Read a string from stdout and then write that string to stdout:
