@@ -1,3 +1,5 @@
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+
 # I/O Functions
 
 Believe it or not, this class has already been using standard functions, libraries and headers. Keep in mind, we will continue to travel mostly blind until we reach **Chapter 8: Functions.**
