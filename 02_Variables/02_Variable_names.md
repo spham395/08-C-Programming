@@ -1,6 +1,6 @@
-# Variable Names
-
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+
+# Variable Names
 
 **Variables** are a name given to a place in the computer's memory for storing a value that our programs can manipulate. Each variable has a specific **type**, which determines the **size** and **layout** of the variable's memory; **range of values** that can be stored in that memory; and **operations** applied to that variable.  
 
