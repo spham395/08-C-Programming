@@ -1,3 +1,5 @@
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+
 # Logical Operators
 
 Logical operators test for a condition. Or more specifically, compares the binary state of one or more operands. Binary state is represented as True \(1\) or False \(0\). Main operations include:
