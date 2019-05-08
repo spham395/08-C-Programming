@@ -1,6 +1,6 @@
-# Coding Style Guide
-
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+
+# Coding Style Guide
 
 This is a generic coding style guide. Different guides will be released for different languages. The entire guide won't apply to every section. Newly applicable sections will be covered in each objective. The **requirements** section will be evaluated during all Progress Checks. The **recommended** section will NOT be evaluated but do represent best practices.
 
