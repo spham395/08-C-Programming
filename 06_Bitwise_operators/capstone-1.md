@@ -1,3 +1,5 @@
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+
 # Capstone 1: Flip a single bit using XOR
 
 1. Initialize an unsigned int with an arbitrary value
