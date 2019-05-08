@@ -43,8 +43,12 @@ printf("apparently, this works and i evaluates to TRUE. \n");
 NOTE: Do not leave if statements unwrapped, watch those { } !!
 
 ## SEE TO DEMO LAB 1
+
 ## PERFORMANCE LAB 11
 
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/performance_labs/Lab11.md" rel="PERFORMANCE LAB 11"> PERFORMANCE LAB 11 </a>
+
+---
 
 ### IF-ELSE statements
 
@@ -92,7 +96,12 @@ else
 NOTE: Do not leave if-else statements unwrapped {}.
 
 ## SEE TO DEMO LAB 2
+
 ## PERFORMANCE LAB 12
+
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/performance_labs/Lab12.md" rel="PERFORMANCE LAB 12"> PERFORMANCE LAB 12 </a>
+
+---
 
 ### ELSE-IF statements
 
@@ -151,7 +160,12 @@ else
 NOTE: Do not leave else-if statements unwrapped {}!
 
 ## SEE TO DEMO LAB 3
+
 ## PERFORMANCE LAB 13
+
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/performance_labs/Lab13.md" rel="PERFORMANCE LAB 13"> PERFORMANCE LAB 13 </a>
+
+---
 
 ### Switch Statements
 
@@ -231,8 +245,12 @@ switch (binaryInput)
 }
 ```
 ## SEE TO DEMO LAB 4
+
 ## PERFORMANCE LAB 14
 
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/performance_labs/Lab14.md" rel="PERFORMANCE LAB 11"> PERFORMANCE LAB 11 </a>
+
+---
 
 ### When do I use an IF statement?
 
