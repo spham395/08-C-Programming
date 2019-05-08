@@ -7,7 +7,7 @@
 
 /*
  * FUNCTION:   int print_the_count(char * inputString, int strLen)
- *
+ 
  * ARGUMENTS:  inputString is a pointer to a character array (see: string) and is *NOT* 
  *                 guaranteed to be NULL terminated.  This is why the length of the 
  *                 string is also passed as an argument.
