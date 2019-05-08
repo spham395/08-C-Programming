@@ -24,7 +24,7 @@
 * [I.O Part 1](04_IO_part_1/Objectives.md)
   * [C Streams](04_IO_part_1/01_c-streams.md)
   * [Functions](04_IO_part_1/02_functions.md)
-  * [GetChar & PutChar](04_IO_part_1/03_getc-putc.md)
+  * [GetChar & PutChar](04_IO_part_1/03_getchar-putchar.md)
   * [Lab 5](04_IO_part_1/performance_labs/lab5/lab5.md)
   * [GetC & PutC](04_IO_part_1/04_getc-putc.md)
   * [Lab 6](04_IO_part_1/performance_labs/lab6/lab6.md)
