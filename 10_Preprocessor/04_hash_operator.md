@@ -1,3 +1,5 @@
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+
 # (#) OPERATOR
 
 This is where the magic happens. #token becomes "token". It will make sense a bit later on, but for now just remember that a hash (#) will string-ize something.
