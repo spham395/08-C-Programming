@@ -17,19 +17,25 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #define MAXIMUM_SEQ_NUM (2300)
+
 #define ERROR_VALUE (105)
+
 #define _CRT_SECURE_NO_WARNINGS 1
+
 #include <stdio.h>
 
 /*
- * This pre-processing directive determines whether the program will
- *     run unit tests and/or prompt the user for input depending on
- *     what #define statements are uncommented.
+ * This pre-processing directive determines whether the program will run unit tests and/or prompt the user for input depending on
+what #define statements are uncommented.
+
 #define MANUAL_TEST // Allows the programmer to manually provide input to test the response of the program as a whole
+
 #define AUTO_TEST // Runs unit tests on unsigned long shadow_sequence_number(int placeNumber)
- * Uncomment out multiple #defines to multiple tests in a single run
- */
+ 
+Uncomment out multiple #defines to multiple tests in a single run
+/
 #define MANUAL_TEST
+
 //#define AUTO_TEST
 
 unsigned long shadow_sequence_number(int placeNumber);
