@@ -88,7 +88,7 @@ char studentLastName [32] = {89, 111, 117, 0};
 
 The above example declares and inits an array of dimension 32 that begins with the string "You".
 
-# Demonstration Lab 2
+## Demonstration Lab 2
 
 ---
 
@@ -150,6 +150,7 @@ printf("My favorite word is %s!\n", myFavWord);
 
 ---
 
-## Performance Lab 4:
+## Complete Performance Lab 4:
 
-Proceed to performance_labs/lab4 and follow the instructions. 
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/03_Arrays_strings/performance_labs/lab4/lab4.md" rel="PERFORMANCE LAB 4"> PERFORMANCE LAB 4 </a>
+
