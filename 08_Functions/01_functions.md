@@ -1,3 +1,5 @@
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+
 # Functions
 
 **NOTE:** Shell code will no longer be used as the focus now will be on external functions written in STUB code. Shell code will be written by the student.
