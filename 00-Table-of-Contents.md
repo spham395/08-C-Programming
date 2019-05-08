@@ -82,7 +82,7 @@
   * [Manual Linking](09_C_compiler/03_manual_linking.md)
   * [Demo Manual Linking](09_C_compiler/demonstration_labs/manual_linking.md)
   * [Lab 23](09_C_compiler/performance_labs/Lab23.md)
-* [Preprocessor](10_Preprossessor/01_coding_style_guide.md)
+* [Preprocessor](10_Preprocessor/README.md)
   * [Coding Style guide](10_Preprocessor/01_coding_style_guide.md)
   * [Stub Code](10_Preprocessor/02_stub_code.md)
   * [Directives](10_Preprocessor/03_directives.md)
