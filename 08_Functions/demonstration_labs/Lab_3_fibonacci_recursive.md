@@ -1,13 +1,19 @@
 #define _CRT_SECURE_NO_WARNINGS 1
+
 #include <stdio.h>
+
 #include <assert.h>
+
 #include <errno.h>
 
 #ifndef ASSERR
+
 #define ASSERR
+
 #endif
 
 int fibonacci_number(int sequenceNumber);
+
 void error_reporting(int currentErrno);
 
 int main(void)
