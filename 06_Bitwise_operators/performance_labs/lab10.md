@@ -1,6 +1,6 @@
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
 
-# Lab 6A: Bitwise Shift Right
+# Lab 10: Bitwise Shift Right
 
 1. Input a uint32\_t userInput from stdin utilizing fscanf\(\)
 2. Initialize another uint32\_t bitChecker to 0x01
