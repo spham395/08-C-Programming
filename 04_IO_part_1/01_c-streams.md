@@ -1,3 +1,5 @@
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+
 # C Streams
 
 C Streams are a common, logical interface to various computer devices. Input/Output, whether physical, electronic or both, are mapped into logical streams. Specifically, it's a sequence of bytes of data. There are two types of streams:
