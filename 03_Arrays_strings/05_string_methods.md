@@ -1,3 +1,5 @@
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+
 # Another Method for Strings
 
 There are multiple ways to create strings in C. We will demonstrate a method that is generally easier and more readable.
