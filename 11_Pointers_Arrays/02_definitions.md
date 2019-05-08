@@ -1,3 +1,5 @@
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+
 # Definitions
 
 **NOTE:** Pointers are fundamental to C programming and in many ways are key to the power and flexibility of C. Pointers are commonly used with *arrays*, *structures*, and *functions*.
