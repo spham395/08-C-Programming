@@ -95,3 +95,6 @@ There are much more efficient ways to iterate through an array such as loops (wh
 
 ## Performance Lab 3:
 
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/03_Arrays_strings/performance_labs/lab3/lab3.md
+
+" rel="Performance Lab 3"> Performance Lab 3 </a>
