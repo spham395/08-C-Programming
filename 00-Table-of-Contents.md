@@ -79,7 +79,7 @@
   * [C Compiler General](09_C_compiler/01_compiler_general.md)
   * [Compilation Process](09_C_compiler/02_compilation_process.md)
   * [Lab 22](09_C_compiler/performance_labs/Lab22.md)
-  * [Manual Linking](09_C_compiler/manual_linking.md)
+  * [Manual Linking](09_C_compiler/03_manual_linking.md)
   * [Demo Manual Linking](09_C_compiler/demonstration_labs/manual_linking.md)
   * [Lab 23](09_C_compiler/performance_labs/Lab23.md)
 * [Preprocessor](10_Preprossessor/01_coding_style_guide.md)
