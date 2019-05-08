@@ -1,3 +1,5 @@
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+
 # Precedence
 
 Precedence determines the grouping of operands with operators in expressions with more than one operator. In other words, precedence is how and when a group of expressions is ran.
