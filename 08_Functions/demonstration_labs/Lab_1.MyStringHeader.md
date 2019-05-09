@@ -15,9 +15,10 @@
  
  * RETURNS:    # of alphabet letters found in inputString ERR_NULL_POINTER is inputString is NULL ERR_INVALID_LENGTH is strLen is unreasonable (zero or less)
  
- * NOTES:      Not only does this function return the total number of alphabet letters that were counted, it should also print a table of letters from the string with their count.  Do not print any letters that were not found in inputString.  
-* The "case" of the letter (upper or lower) should not matter for the count.  There are different ways to ignore the case of a char.  
-*It is up to the student to determine the method.
+ * NOTES:      Not only does this function return the total number of alphabet letters that were counted, it should also print a table of letters from the string with their count.  
+ * Do not print any letters that were not found in inputString.  
+ * The "case" of the letter (upper or lower) should not matter for the count.  There are different ways to ignore the case of a char.  
+ * It is up to the student to determine the method.
 
  */
 
