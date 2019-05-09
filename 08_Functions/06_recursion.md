@@ -178,16 +178,13 @@ int main(void)
 {
     int factNum, i; // forgive me
     int factResult = 1;
-
     printf(“factorial this… “);
     scanf(“%d”, &factNum);
-
     for (i = 2; i <= factNum; i++)
     {
         factResult *= i;
     } 
     printf(“Ans: %d”, factResult);
-
     return 0;
 }
 
@@ -196,12 +193,10 @@ int main(void)
 int factor(int factThis)
 {
     int answer = 1;
-
     if (factThis > 1)
     {
         answer = factThis * \ factor(factThis – 1);
     }
-
     return answer;
 }
 
@@ -219,7 +214,6 @@ int main(void)
 
     factResult = factor(factNum);
     printf(“Ans: %d”, factResult);
-
     return 0;
 }
 ```
@@ -235,15 +229,12 @@ int main(void)
     int numNum = 0;
     int i = 0;
     int sumNatNum = 0;
-
     scanf(“%d”, &numNum);
-
     for (i = 1; i <= numNum; i++)
     {
         sumNatNum += i;
     }
     printf(“ans: %d”, sumNatNum);
-
     return 0;
 }
 
@@ -252,30 +243,23 @@ int main(void)
 int sum_nats(int howMany)
 {
     int answer = 1;
-
     if (howMany > 1)
     {
         answer = howMany + \ sum_nats(howMany – 1);
     }
-
     return answer;
 }
 
 ///recursive function example 4 v2///
 //it's natural
 int sum_nats(int howMany);
-
 int main(void)
 {
     int numNum = 0;
     int sumNatNum = 0;
-
     scanf(“%d”, &numNum);
-
     sumNatNum = sum_nats(numNum);
-
     printf(“Ans: %d”, sumNatNum);
-
     return 0;
 }
 ```
@@ -298,7 +282,5 @@ int fibonacci_number(int sequenceNumber);
 * The Fibonacci Sequence:
     * Starts with 0 and 1 then each subsequent number is calculated by adding the two previous sequence numbers
     * F(n) = F(n-1) + F(n-2)
-
 # Performance Lab: Recursion
-
 * Proceed to performance_labs/lab8c/ and follow the instructions 
