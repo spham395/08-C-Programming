@@ -25,13 +25,13 @@ I/O functions typically return useful values
 
 Many I/O functions update ERRNO
 
+### DEMO LAB - INPUT
 
+Use appropriate error handling (assert vs errno) to handle I/O errors.
 
+Replicate the error to test your implementations.
 
+---
+### COMPLETE PERFORMANCE LAB - OUTPUT
 
-
-### DEMO LAB: 
-DemoLab_3.INPUT
-
-### PERFORMANCE LAB:
-PerfLab_3.OUTPUT
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/15_Error_handling/Performance_Labs/Lab_output.md" rel="OUTPUT"> OUTPUT </a>
