@@ -132,7 +132,7 @@
   * [Demo Assert](15_Error_handling/Demonstration_Labs/Demo_assert.md)
   * [Lab String](15_Error_handling/Performance_Labs/Lab_string.md)
   * [Errno](15_Error_handling/02_errno.md)
-  * [Demo EOL](15_Error_handling/Demonstration_Labs/Demo_EOL.c)
+  * [Demo EOL](15_Error_handling/Demonstration_Labs/Demo_EOL.md)
   * [Lab ERRNO](15_Error_handling/Performance_Labs/Lab_errno.md)
   * [Assert & Errno](15_Error_handling/03_assert_vs_errno.md)
   * [Demo Input](15_Error_handling/Demonstration_Labs/Demo_input.md)
