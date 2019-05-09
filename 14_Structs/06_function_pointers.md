@@ -4,7 +4,7 @@
 
 Now before you do a double take, remember that functions are the backbone of the C language. As such FUNCTION POINTERS can be included as a member of a STRUCT.
 
-These function pointers can be used to operate on STRUCT MEMBERS in a technique known as Object Oriented C (object oriented programming). This OOC/OOP will be later discussed in C++. For know remember that code is executed in blocks and blocks are used by programmers to break down problems/goals into smaller, more achievable steps.
+These function pointers can be used to operate on STRUCT MEMBERS in a technique known as Object Oriented C (object oriented programming). Remember that code is executed in blocks and blocks are used by programmers to break down problems/goals into smaller, more achievable steps.
 
 ```c
 struct ModifyNumbers{
