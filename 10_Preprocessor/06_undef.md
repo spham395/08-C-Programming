@@ -84,6 +84,18 @@ C:\Temp>
 ```
 
 ### DEMO LAB 1 10.6
-### PERFORMANCE LAB A 10.6
+
+* Write a simple C program that utilizes a header file
+* Write a definition file for the header file
+* Utilize the following preprocessor directives:
+    * #include
+    * #define
+    * (#) Operator
+    * (##)
+    * #undef
+
+### COMPLETE PERFORMANCE LAB 24
+
+<a href="https://https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/10_Preprocessor/performance_labs/lab24.md" rel="PERFOMANCE LAB 24"> PERFORMANCE LAB 24 </a>
 
 
