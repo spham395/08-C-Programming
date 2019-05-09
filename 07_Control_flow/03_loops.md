@@ -152,8 +152,9 @@ i = 1
 //this goes through a total of 10 loops.
 ```
 
-## PERFORMANCE LAB 16
+## COMPLETE PERFORMANCE LAB 16
 
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/performance_labs/Lab16.md" rel="PERFORMANCE LAB 16"> PERFORMANCE LAB 16 </a>
 
 ### DO WHILE Loops
 Do while loops utilize a control structure with one of the components written as an expression.
@@ -226,7 +227,9 @@ r
 14 characters.
 ```
 
-## PERFORMANCE LAB 17
+## COMPLET PERFORMANCE LAB 17
+
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/performance_labs/Lab17.md" rel="PERFORMANCE LAB 17"> PERFORMANCE LAB 17 </a>
 
 ### When do I use FOR loops?
 
