@@ -1,3 +1,5 @@
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+
 # C Programming Table of contents
 
 <a href="https://github.com/CyberTrainingUSAF/01-Course-Introduction-and-setup/blob/master/README.md" rel="Return to Course Introduction"> Return to Course introduction </a>
