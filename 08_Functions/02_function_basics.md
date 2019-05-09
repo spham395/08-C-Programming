@@ -164,4 +164,4 @@ int remove_newline(char * buffer);
     
 # Complete Performance Lab 20 "Healthy Substitutions"
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/performance_labs/lab8A/Lab20.md" rel="Solution to Demo"> Solution to Demo </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/performance_labs/lab8A/Lab20.md" rel="PERFORMANCE LAB 20"> PERFORMANCE LAB 20 </a>
