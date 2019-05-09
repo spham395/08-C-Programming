@@ -179,9 +179,7 @@ The bitwise shift right operator shifts bits a certain amount of positions right
 
 #### ![](/assets/bin22.PNG)Note: This example asserts "unsigned short x = 3" which is typically 2 bytes and, according to limits.h, USHRT\_MAX = 65535... meaning that's the max for a unsigned short int**
 
-# Performance Lab 10 
-
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/06_Bitwise_operators/performance_labs/lab10.md" rel="PERFOMANCE LAB 10"> PERFORMANCE LAB 10 </a>
+## Practice 
 
 ## Bitwise Shift Right
 
@@ -202,4 +200,8 @@ Your number now: 0x13ADE68B
 ```
 
 #### Note: In hex, the last digit becomes the first digit**
+
+## Performance Lab 10 
+
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/06_Bitwise_operators/performance_labs/lab10.md" rel="PERFOMANCE LAB 10"> PERFORMANCE LAB 10 </a>
 
