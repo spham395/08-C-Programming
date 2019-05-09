@@ -70,7 +70,6 @@
   * [Scope Rules](08_Functions/03_scope_rules.md)
   * [Header Files](08_Functions/04_storage_class_specifiers.md)
   * [Recursion](08_Functions/06_recursion.md)
-  * [Demo Recursion](08_Functions/demonstration_labs/Lab_3_fibonacci_recursive.md)
   * [Lab 21](08_Functions/performance_labs/lab8c/Lab21.md)
 * [C Compiler](09_C_compiler/README.md)
   * [C Compiler General](09_C_compiler/01_compiler_general.md)
