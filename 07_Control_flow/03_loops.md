@@ -227,7 +227,7 @@ r
 14 characters.
 ```
 
-## COMPLET PERFORMANCE LAB 17
+## COMPLETE PERFORMANCE LAB 17
 
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/performance_labs/Lab17.md" rel="PERFORMANCE LAB 17"> PERFORMANCE LAB 17 </a>
 
