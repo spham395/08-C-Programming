@@ -71,15 +71,11 @@ Add the .obj to your project as an "existing item"
 
 ## DEMO LAB Manual Linking
 
-## Manual Linking
-
 1. Declare and define a simple function as a header
 2. Write a source file that calls the header's function
 3. Manually link the header's definition and your source file
 
 
-## PERFORMANCE LAB 23
+## COMPLETE PERFORMANCE LAB 23
 
-
-
-
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/09_C_compiler/performance_labs/Lab23.md" rel="PERFORMANCE LAB 23"> PERFORMANCE LAB 23 </a>
