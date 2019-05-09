@@ -1,3 +1,5 @@
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+
 # Function Pointers and OOC
 
 Now before you do a double take, remember that functions are the backbone of the C language. As such FUNCTION POINTERS can be included as a member of a STRUCT.
