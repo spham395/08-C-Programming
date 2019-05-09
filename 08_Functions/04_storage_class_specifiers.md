@@ -123,3 +123,74 @@ NONE...will result in a compiler error!!!!
 * Extern references can be referenced multiple times over multiple files but should only be defined once
 * Not utilized for single file programs
 
+---
+## Demo Lab1 MyStringHeader
+
+```c
+#ifndef MY_STRING_HEADER_
+#define MY_STRING_HEADER_
+
+/*
+ * FUNCTION:   int print_the_count(char * inputString, int strLen)
+ 
+ * ARGUMENTS:  inputString is a pointer to a character array (see: string) and is *NOT* guaranteed to be NULL terminated.  This is why the length of the string is also passed as an argument.  
+ * strLen is the length of the inputString.  
+ * strLen is required as a safety measure since inputString is not guaranteed to be null-terminated.  
+ * strLen does not need to be long enough to include any null character, even if there was one.
+ 
+ * RETURNS:    # of alphabet letters found in inputString ERR_NULL_POINTER is inputString is NULL ERR_INVALID_LENGTH is strLen is unreasonable (zero or less)
+ 
+ * NOTES:      Not only does this function return the total number of alphabet letters that were counted, it should also print a table of letters from the string with their count.  
+ * Do not print any letters that were not found in inputString.  
+ * The "case" of the letter (upper or lower) should not matter for the count.  There are different ways to ignore the case of a char.  
+ * It is up to the student to determine the method.
+
+ */
+
+* int print_the_count(char * inputString, int strLen);
+* int reverse_it(char * forwardString, int strLen);
+#endif
+```
+---
+
+## Demo Lab1 MyStringHeader
+
+```c
+// MyStringHeader.c
+#include <stdio.h>
+#include <ctype.h>
+#define ERR_NULL_POINTER -1;        // string is null
+#define ERR_INVALID_LENGTH -2;      // string length is zero or less
+extern int print_the_count(char * inputString, int strLen)
+{
+    char tempChar = 0;      // Current char being acted on
+    int table[26] = {0};    // Alpha
+    int count = 0;
+    if (!inputString)
+    {
+        return ERR_NULL_POINTER;
+    }
+    else if (!strLen)
+    {
+        return ERR_INVALID_LENGTH;
+    }
+    for (int i = 0; i < strLen; i++)
+    {
+        if (inputString[i] >= 65 && inputString[i] <= 122)
+        {
+            tempChar = inputString[i];
+            tempChar = toupper(tempChar);
+            table[tempChar - 65] += 1;
+            count++;
+        }
+    }
+
+    // Print the table
+    for (int i = 0; i < sizeof(table)/sizeof(table[0]); i++)
+    {
+        printf("%c: %d\n", i + 65, table[i]);
+    }
+    return count;
+}
+// extern reverse_it(char * forwardString, int strLen);
+```
