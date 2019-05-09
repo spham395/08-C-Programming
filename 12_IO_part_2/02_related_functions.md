@@ -176,12 +176,50 @@ int main(void)
 
 **DemoLab:** Funk
 
+```c
+#define _CRT_SECURE_NO_WARNINGS 1
+#include <stdio.h>
+int main(void)
+{
+	FILE * myFile_ptr = fopen("CCCP.txt", "r"); // Opens a read-only file
+	char readFromFile = 0; // Store char-by-char input from myFile_ptr
+	if (myFile_ptr != NULL) 	// Verify fopen() succeeded
+	{
+		while (readFromFile != EOF) // Continue reading until the end of file
+		{
+			readFromFile = getc(myFile_ptr); 	// Read one character
+			putc(readFromFile, stdout); 		// Print that character
+		}
+		fclose(myFile_ptr); // Always fclose anything you fopen
+		system("start https://youtu.be/YgGzAKP_HuM");
+	}
+	else 			// Otherwise, fopen() failed
+	{
+		puts("Error opening file!"); 	// Tell the user and...
+		getchar(); getchar();
+		return -1;			// Return an error value
+	}
+	getchar(); getchar();
+	return 0;
+}
+```
+
 **Performance Lab:** Mighty Morphin
+
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/12_IO_part_2/performance_labs/PL_mighty_morphin.md" rel="Mighty Morphin"> Mighty Morphin </a>
 
 **Performance Lab:** Your Song
 
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/12_IO_part_2/performance_labs/PL_your_song.md" rel="Your Song"> Your Song</a>
+
 **Performance Lab:** Content copy (CHAR-BY-CHAR)
+
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/12_IO_part_2/performance_labs/PL_content_copy_char.md" rel="Content Copy Char"> Content Copy Char </a>
 
 **Performance Lab:** Content copy (LINE-BY-LINE)
 
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/12_IO_part_2/performance_labs/PL_content_copy_line.md" rel="Content Copy Line"> Content Copy Line </a>
+
 **Performance Lab:** USERNAMES
+
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/12_IO_part_2/performance_labs/PL_usernames.md" rel="USERNAMES"> USERNAMES </a>
