@@ -1,5 +1,7 @@
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
 
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/02_Variables/06_Keywords.md" rel="Next Section"> Next Section </a>
+
 # Lab 1A: Declaring Variables
 
 ![](/assets/817d317eecb8af559b39be77577c2b2e--engineer-humor-computer-jokes.jpg)
