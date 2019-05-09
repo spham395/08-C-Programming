@@ -44,7 +44,13 @@ printf("apparently, this works and i evaluates to TRUE. \n");
 
 NOTE: Do not leave if statements unwrapped, watch those { } !!
 
-## SEE TO DEMO LAB 1
+## DEMO LAB 1
+
+IF statement:
+* Initialize a char array to zero.
+* Safely store a user-input string in the char array.
+* Safely print the string  **IF** the first element is not equal to zero (array897[0] != 0).
+
 
 ## PERFORMANCE LAB 11
 
@@ -97,7 +103,15 @@ else
 
 NOTE: Do not leave if-else statements unwrapped {}.
 
-## SEE TO DEMO LAB 2
+## DEMO LAB 2: EVEN IT OUT
+
+IF-ELSE statement:
+* Input a number from the user.
+* Determine if the number is odd or even utilizing the "mod" operator  (N00b-tier efficiency).
+* Utilizing an IF-ELSE statement:
+    * If the number is odd, multiply the number by 2, store the result in the original variable, and print the new number.
+    * If the number is even SAY SO!!
+* BONUS: Determine if the number is odd or even utilizing a **bitwise** operator instead (god-tier efficiency).
 
 ## PERFORMANCE LAB 12
 
@@ -161,7 +175,14 @@ else
 
 NOTE: Do not leave else-if statements unwrapped {}!
 
-## SEE TO DEMO LAB 3
+## DEMO LAB 3: WHATS THE DIFFERENCE?
+
+* Initialize ONLY three **int** variables to 0.
+* Safely scan user input into variables #1 and #2 utilizing a single line.
+* Using a single ELSE-IF statement:
+    * If variable #1 is equal to variable #2, assign 0 to variable #3.
+    * Otherwise, subtract the smallest from the largest (i.e. 3-2, 42-(-45), (-11)-(-1337), etc...) and assign the result to variable #3.
+* Print the value of variable #3 if it is positive otherwise print and ERROR.
 
 ## PERFORMANCE LAB 13
 
@@ -246,7 +267,18 @@ switch (binaryInput)
             break;
 }
 ```
-## SEE TO DEMO LAB 4
+## DEMO LAB 4: MAY I SEE A MENU?
+
+* Input an integer from the user
+* Create a menu allowing the user to:
+    * Print their input as the following...
+        * Binary
+        * Octal
+        * Decimal
+        * Hexadecimal
+    * Input a new character
+    * Input a new number
+    * exit
 
 ## PERFORMANCE LAB 14
 
@@ -587,42 +619,3 @@ switch (inputDecimal)
 }
 /*SWITCH will result in a compiling error!*/
 ```
-
-## DEMO LAB 1
-
-IF statement:
-* Initialize a char array to zero.
-* Safely store a user-input string in the char array.
-* Safely print the string  **IF** the first element is not equal to zero (array897[0] != 0).
-
-## DEMO LAB 2: EVEN IT OUT
-
-IF-ELSE statement:
-* Input a number from the user.
-* Determine if the number is odd or even utilizing the "mod" operator  (N00b-tier efficiency).
-* Utilizing an IF-ELSE statement:
-    * If the number is odd, multiply the number by 2, store the result in the original variable, and print the new number.
-    * If the number is even SAY SO!!
-* BONUS: Determine if the number is odd or even utilizing a **bitwise** operator instead (god-tier efficiency).
-
-## DEMO LAB 3: WHATS THE DIFFERENCE?
-
-* Initialize ONLY three **int** variables to 0.
-* Safely scan user input into variables #1 and #2 utilizing a single line.
-* Using a single ELSE-IF statement:
-    * If variable #1 is equal to variable #2, assign 0 to variable #3.
-    * Otherwise, subtract the smallest from the largest (i.e. 3-2, 42-(-45), (-11)-(-1337), etc...) and assign the result to variable #3.
-* Print the value of variable #3 if it is positive otherwise print and ERROR.
-
-## DEMO LAB 4: MAY I SEE A MENU?
-
-* Input an integer from the user
-* Create a menu allowing the user to:
-    * Print their input as the following...
-        * Binary
-        * Octal
-        * Decimal
-        * Hexadecimal
-    * Input a new character
-    * Input a new number
-    * exit
