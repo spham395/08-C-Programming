@@ -1,21 +1,16 @@
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
 
+```c
+
 #define _CRT_SECURE_NO_WARNINGS 1
-
 #include <stdio.h>
-
 #include <assert.h>
-
 #include <errno.h>
-
 #ifndef ASSERR
-
 #define ASSERR
-
 #endif
 
 int fibonacci_number(int sequenceNumber);
-
 void error_reporting(int currentErrno);
 
 int main(void)
@@ -44,7 +39,6 @@ int main(void)
 	{
 		currentFibNum = fibonacci_number(i);
 		printf("%d\n", currentFibNum);
-
 	}
 
 	getchar(); getchar();
@@ -54,7 +48,6 @@ int main(void)
 int fibonacci_number(int sequenceNumber)
 {
 	int returnValue;
-
 	if (sequenceNumber < 0)
 	{
 		returnValue = -1;
@@ -74,7 +67,6 @@ int fibonacci_number(int sequenceNumber)
 
 	return returnValue;
 }
-
 void error_reporting(int currErrno)
 {
 	if (currErrno)
