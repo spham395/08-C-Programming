@@ -66,7 +66,6 @@
 * [Functions](08_Functions/README.md)
   * [Functions](08_Functions/01_functions.md)
   * [Functions Basics](08_Functions/02_function_basics.md)
-  * [Demo Newline Records](08_Functions/demonstration_labs/newline_records.md)
   * [Lab 20](08_Functions/performance_labs/lab8A/Lab20.md)
   * [Scope Rules](08_Functions/03_scope_rules.md)
   * [Header Files](08_Functions/04_storage_class_specifiers.md)
