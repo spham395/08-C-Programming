@@ -70,6 +70,14 @@ Property pages --&gt; C/C++ --&gt; output files --&gt; object file name
 Add the .obj to your project as an "existing item"
 
 ## DEMO LAB Manual Linking
+
+## Manual Linking
+
+1. Declare and define a simple function as a header
+2. Write a source file that calls the header's function
+3. Manually link the header's definition and your source file
+
+
 ## PERFORMANCE LAB 23
 
 
