@@ -104,7 +104,7 @@
 * [I.O part 2](12_IO_part_2/Objectives.md)
   * [File Data Type](12_IO_part_2/01_file_data_type.md)
   * [Related Functions](12_IO_part_2/02_related_functions.md)
-  * [Demo Funk](12_IO_part_2/demonstration_labs/funk.c)
+  * [Demo Funk](12_IO_part_2/demonstration_labs/funk.md)
   * [Lab Mighty Morphin](12_IO_part_2/performance_labs/PL_mighty_morphin.md)
   * [Lab Your Song](12_IO_part_2/performance_labs/PL_your_song.md)
   * [Lab Content copy Char](12_IO_part_2/performance_labs/PL_content_copy_char.md)
