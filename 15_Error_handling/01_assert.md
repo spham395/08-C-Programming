@@ -1,3 +1,5 @@
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+
 # assert.h
 
 Assert.h is part of the C standard library. This header file is intended for use as a "debugging" aid.
