@@ -1,4 +1,4 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/02_function_basics.md" rel="Return to Topic"> Return to Topic </a>
 
 ```c
 
