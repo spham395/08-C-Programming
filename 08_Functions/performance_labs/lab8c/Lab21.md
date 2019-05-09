@@ -1,6 +1,6 @@
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
 
----
+```c
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////// PERFORMANCE LAB 1.3.a-4 ////////////////////////////////////////////////
@@ -21,54 +21,42 @@
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 #define MAXIMUM_SEQ_NUM (2300)
-
 #define ERROR_VALUE (105)
-
 #define _CRT_SECURE_NO_WARNINGS 1
-
 #include <stdio.h>
 
 /*
- * This pre-processing directive determines whether the program will run unit tests and/or prompt the user for input depending on
-what #define statements are uncommented.
+ * This pre-processing directive determines whether the program will run unit tests and/or prompt the user for input depending on what #define statements are uncommented.
 
 #define MANUAL_TEST // Allows the programmer to manually provide input to test the response of the program as a whole
-
 #define AUTO_TEST // Runs unit tests on unsigned long shadow_sequence_number(int placeNumber)
  
 Uncomment out multiple #defines to multiple tests in a single run
 /
 #define MANUAL_TEST
-
 //#define AUTO_TEST
 
 unsigned long shadow_sequence_number(int placeNumber);
-
 int main(void)
 {
 	unsigned long tempValue = 0;
 	unsigned long myTempValue = 0;
 	int i = 0;
 	int j = 0;
-
 #ifdef MANUAL_TEST
 	int howManyToCalculate = 0;
 	tempValue = 0;
-
 	printf("How many numbers would you like to calculate?\n");
 	_flushall();
 	scanf("%d", &howManyToCalculate);
 	putchar(10);
-
 	for (i = 1; i <= howManyToCalculate; i++)
 	{
 		tempValue = shadow_sequence_number(i);
 		printf("%d:\t%lu \n", i, tempValue);
 	}
 #endif
-
 #ifdef AUTO_TEST
-
 #define BUFF_SIZE 24
 	tempValue = 0;
 	int numberOfTestsRun = 0;
