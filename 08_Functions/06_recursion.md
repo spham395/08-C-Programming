@@ -287,6 +287,6 @@ int fibonacci_number(int sequenceNumber);
 
 # Complete Performance Lab: Recursion
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/performance_labs/lab8c/Lab21.md" rel="Solution to Demo lab3"> Solution to Demo lab3 </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/performance_labs/lab8c/Lab21.md" rel="Recursion Lab"> Recursion Lab </a>
 
 * Proceed to performance_labs/lab8c/ and follow the instructions 
