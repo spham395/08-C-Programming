@@ -7,9 +7,10 @@ Purpose:
 Remove the needle from the haystack
 AKA: Move the substring from the string using memory operators and functions
 
+*/
+
 ```c
 
-*/
 // TODO: Include any needed headers
 
 int haystack_needle(char *haystack, char *needle, char *buffer);
@@ -45,6 +46,7 @@ return 0 on success
 return -1 on error .... only needed if userinput is enabled.
 */
 int haystack_needle(char *haystack, char *needle, char *buffer)
+
 {
     int needleLength = strlen(needle);
 
