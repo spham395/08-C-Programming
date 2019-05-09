@@ -1,3 +1,5 @@
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/03_loops.md" rel="Return to Topic"> Return to Topic </a>
+
 # Loops
 A loop consists of a statement or block called the "loop body".
 
@@ -75,7 +77,16 @@ i = 14
 i = 15
 ```
 ## SEE DEMO LAB 5
-## PERFORMANCE LAB 15
+
+/*///THREE OR MORE? USE A FOR!///
+This lab is more of a thought experiment...
+Looking back, what previous labs could have benefited from a 
+FOR loop? Were there...arrays to manipulate?...repetitious calculations...
+and or places where code was copy-pasta?*/
+
+## COMPLETE PERFORMANCE LAB 15
+
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/02_conditional-statements.md" rel="Return to Topic"> Return to Topic </a>
 
 ### WHILE Loops
 While loops utilize a control structure with one component written as an expression.
