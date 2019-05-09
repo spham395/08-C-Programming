@@ -324,27 +324,10 @@ Conditional compilation:
 * #ifndef – a common, specific application of #if
 * #endif – used as a tailing wrapper for #if[anything]
 
+## DEMO LAB - CONDITIONAL COMPILATION
 
+### Write a simple C program that utilizes conditional compilation
 
+### PERFORMANCE LAB 25
 
-
-
-### DEMO LAB 1 10.7
-### PERFORMANCE LAB 24
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/10_Preprocessor/performance_labs/Lab25.md" rel="PERFORMANCE LAB 25"> PERFORMANCE LAB 25 </a>
