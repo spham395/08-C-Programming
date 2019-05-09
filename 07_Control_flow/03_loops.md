@@ -86,7 +86,7 @@ and or places where code was copy-pasta?*/
 
 ## COMPLETE PERFORMANCE LAB 15
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/02_conditional-statements.md" rel="Return to Topic"> Return to Topic </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/performance_labs/Lab15.md" rel="PERFORMANCE LAB 15"> PERFORMANCE LAB 15 </a>
 
 ### WHILE Loops
 While loops utilize a control structure with one component written as an expression.
