@@ -59,5 +59,6 @@ putc(userInput, stdout);          // Writes to stdout
 * Enter a character: **54**
 * Enter a character: **JasV**
 
-# Performance Lab 6
+## Complete Performance Lab 6
 
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/04_IO_part_1/05_string-io.md" rel="PERFORMAMCE LAB 6"> PERFORMANCE LAB 6 </a>
