@@ -1,3 +1,5 @@
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+
 # File I/O
 
 In this chapter, we will re-iterate our Coding style expectations and presentation of Stub Code throughout ch12.
