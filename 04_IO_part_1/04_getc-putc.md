@@ -61,4 +61,4 @@ putc(userInput, stdout);          // Writes to stdout
 
 ## Complete Performance Lab 6
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/04_IO_part_1/05_string-io.md" rel="PERFORMAMCE LAB 6"> PERFORMANCE LAB 6 </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/04_IO_part_1/performance_labs/lab6/lab6.md" rel="PERFORMAMCE LAB 6"> PERFORMANCE LAB 6 </a>
