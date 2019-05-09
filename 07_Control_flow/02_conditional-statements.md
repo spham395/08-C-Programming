@@ -250,7 +250,7 @@ switch (binaryInput)
 
 ## PERFORMANCE LAB 14
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/performance_labs/Lab14.md" rel="PERFORMANCE LAB 11"> PERFORMANCE LAB 11 </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/performance_labs/Lab14.md" rel="PERFORMANCE LAB 14"> PERFORMANCE LAB 14 </a>
 
 ---
 
