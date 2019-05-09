@@ -1,4 +1,4 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/14_Structs/06_function_pointers.md rel="Next Topic"> Next Topic </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/14_Structs/06_function_pointers.md" rel="Next Topic"> Next Topic </a>
 
 # Linked Lists Lab 1
 
