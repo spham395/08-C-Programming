@@ -23,5 +23,7 @@
   * initializing them
   * etc
 
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/02_Variables/01_Coding_style_guide.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+
 
 
