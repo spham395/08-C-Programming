@@ -18,6 +18,9 @@ The *FILE* data type utilizes pointers and should be treated as such.
 
 Missing files coupled with certain *modes* will create ERRNOs and return NULL.
 
+
+---
+
 End Of Subject
 
 Please continue to practice C Programming.  There are several useful online sites that can provide challenges that will help you improve your skills. Best of Luck!  
