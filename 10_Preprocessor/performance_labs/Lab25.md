@@ -1,4 +1,4 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/11_Pointers_Arrays/README.md" rel="Next Topic"> Next Topic </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
 
 # PERFORMANCE LAB 25
 
@@ -11,3 +11,4 @@
     * Use a #else 'fall through' for ease of use and safety
 * Use your preprocessor directives on FOPEN_MAX, FILENAME_MAX, and EOF
 
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/11_Pointers_Arrays/README.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
