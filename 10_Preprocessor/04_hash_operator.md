@@ -119,4 +119,5 @@ int main(void)
 
 It!
 ```
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/10_Preprocessor/05_double_hash.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
 
