@@ -14,4 +14,4 @@ Save the lyrics for the Mighty Morphin' Power Rangers theme song into a text fil
 * Print each char as it is read
 * Close the file at the end
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/12_IO_part_2/02_related_functions.md" rel="Continue to Next Lab"> Continue to Lab Your Song </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/12_IO_part_2/performance_labs/PL_your_song.md" rel="Continue to Next Lab"> Continue to Lab Your Song </a>
