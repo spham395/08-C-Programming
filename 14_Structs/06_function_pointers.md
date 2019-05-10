@@ -27,3 +27,4 @@ case2.results = case2.mathFunc_ptr(case2.num1, case2.num2);
 case3.results = case3.mathFunc_ptr(case3.num1, case3.num2);
 ```
 
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/15_Error_handling/README.md" rel="Return to TOC"> Return to TOC </a>
