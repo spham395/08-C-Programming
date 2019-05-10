@@ -1,4 +1,4 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/04_IO_part_1/08_fprintf-fscanf.md" rel="Next Topic"> Next Topic </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
 
 # Lab 8: scanf
 
@@ -31,5 +31,6 @@ INPUT:   11*14
 OUTPUT:  The result of 11 multiplied by 14 is 154.
 ```
 
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/04_IO_part_1/08_fprintf-fscanf.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
 
 
