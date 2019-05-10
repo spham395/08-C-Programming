@@ -1,4 +1,4 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/14_Structs/06_function_pointers.md" rel="Next Topic"> Next Topic </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
 
 # Linked Lists Lab 1
 
@@ -39,3 +39,5 @@
         * ex: You finished an entire requirment
         * ex: You changed a large amount of code
         * ex: You have a ton of commits 
+
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/14_Structs/06_function_pointers.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
