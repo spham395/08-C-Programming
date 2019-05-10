@@ -195,4 +195,4 @@ extern int print_the_count(char * inputString, int strLen)
 // extern reverse_it(char * forwardString, int strLen);
 ```
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/06_recursion.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/05_header_files.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
