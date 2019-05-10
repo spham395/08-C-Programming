@@ -1,4 +1,4 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/14_Structs/05_linked_lists.md" rel="Next Topic"> Next Topic </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
 
 # PERFORMANCE LAB: SURFIN BIRD TEST STRUCT
 
@@ -27,3 +27,5 @@ char * find_the_word(char * sentence_ptr, char * searchWord_ptr, int * errorCode
     * errorCode_ptr is NULL
     * Two occurrences of searchWord
     * No occurrences of searchWord
+
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/14_Structs/05_linked_lists.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
