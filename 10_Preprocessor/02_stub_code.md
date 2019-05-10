@@ -30,5 +30,5 @@ The **PREPROCESSOR** is a specialized text editor that provides certain language
 
 A **PREPROCESSING DIRECTIVE** is any processor command, beginning with a hash symbol \(\#\), that provides a particular function.
 
-
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/10_Preprocessor/03_directives.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
 
