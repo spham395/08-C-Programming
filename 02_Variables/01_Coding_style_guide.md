@@ -57,6 +57,11 @@ Ensure you use the correct extensions. The first character of the file name shou
 
 ---
 
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/02_Variables/02_Variable_names.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+
+
+---
+
 ## More Information
 
 [https://www.gnu.org/prep/standards/html\_node/Writing-C.html](https://www.gnu.org/prep/standards/html_node/Writing-C.html)
