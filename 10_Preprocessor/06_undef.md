@@ -97,4 +97,4 @@ C:\Temp>
 ## COMPLETE PERFORMANCE LAB 24
 
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/10_Preprocessor/performance_labs/lab24.md
-" rel="Return to TOC"> Return to TOC </a>
+" rel="PERFORMANCE LAB 24"> PERFORMANCE LAB 24 </a>
