@@ -1,4 +1,4 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/13_Memory_Management/01_concepts.md" rel="Next Topic"> Next Topic </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
 
 ## PERFORMANCE LAB: USERNAMES
 
@@ -15,3 +15,5 @@ File I/O – fprintf()
     * For George Herbert Dubya Bush, write the following to the the file...George H. Dubya Bush has a username of ghdbush.
 
 ### BUILD THOSE SAFETY CHECKS!!!!!a
+
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/13_Memory_Management/01_concepts.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
