@@ -29,5 +29,5 @@
 putc(yourVar - 1, stdout);
 ```
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/04_IO_part_1/05_string-io.md" rel="Next Topic"> Next Topic </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/04_IO_part_1/05_string-io.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
 
