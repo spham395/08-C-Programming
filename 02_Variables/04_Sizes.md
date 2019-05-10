@@ -41,6 +41,6 @@ int main(void)
 * Is there a size difference between **singleChar** and **singleChar2**
 * Why did we change all format specifiers to %d
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/02_Variables/05_Declarations.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
 
 
