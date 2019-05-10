@@ -1,4 +1,4 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/README.md" rel="Next Topic"> Next Topic </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/README.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
 
 # Capstone 1: Flip a single bit using XOR
 
