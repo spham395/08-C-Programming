@@ -1,4 +1,4 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/README.md" rel="Next Topic"> Next Topic </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
 
 # PERFORMANCE LAB 19
 
@@ -11,3 +11,5 @@
 
 #### BONUS: Ask the user to continue with a DO-WHILE loop
     * write a version with the counting loop written as a FOR loop, and a WHILE loop version.
+
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/README.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
