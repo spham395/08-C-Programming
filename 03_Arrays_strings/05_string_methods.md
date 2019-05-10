@@ -12,3 +12,5 @@ char name[] = {'W', 'i', 'l', 'l', '/0'};
 ```
 
 As you can tell, the string is automatically NULL terminated. There is no need to include that within your string. For the time being, use the previous method until you get a hang of it, then switch to the method shown here.
+
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/04_IO_part_1/Objectives.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
