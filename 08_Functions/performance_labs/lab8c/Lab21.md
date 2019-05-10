@@ -1,4 +1,4 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/09_C_compiler/README.md" rel="Next Topic"> Next Topic </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
 
 ```c
 
@@ -123,3 +123,5 @@ unsigned long shadow_sequence_number(int placeNumber)
 
 	return 90; // Modify this return statement
 }
+
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/09_C_compiler/README.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
