@@ -1,4 +1,4 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/10_Preprocessor/07_conditional_compilation.md" rel="Next Topic"> Next Topic </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
 
 # PERFORMANCE LAB 24
 
@@ -14,3 +14,5 @@
 2. Assign the wrapped string literals to the array
 
 ## **Print the array**
+
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/10_Preprocessor/07_conditional_compilation.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
