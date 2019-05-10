@@ -111,7 +111,7 @@ int main(void)
 
 ---
 
-# Demo Labs 1 and 2 "String Theory"
+## Demo Lab - String Theory
 
 * Write a header named *MyStringHeader.h*
 * Write a function for the header of prototype: 
