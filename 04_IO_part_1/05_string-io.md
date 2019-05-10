@@ -158,5 +158,5 @@ fputs(buff, stdout);                 // Writes to stdout
 * Enter a string: **31398**
 * Enter a string: **Superman**
 
-
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/04_IO_part_1/04_getc-putc.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
 
