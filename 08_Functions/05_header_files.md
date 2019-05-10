@@ -1,3 +1,5 @@
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+
 # Header Files
 
 * Header files are a way of sharing code between several source files
@@ -127,3 +129,6 @@ int print_the_count(char * inputString, int strLen);
 * Purpose - Print a table of letters from the string with their count
     * Write a program that reads a string from user input and then calls print_the_count()
     * When satisfied, run "Unit Test Code 2.c"
+    
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/06_recursion.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+ 
