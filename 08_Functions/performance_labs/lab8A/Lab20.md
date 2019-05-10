@@ -1,4 +1,4 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/03_scope_rules.md" rel="Next Topic"> Next Topic </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
 
 # Lab 20: Function - "Healthy Substitutions"
 
@@ -14,5 +14,5 @@ int replace_character(char * string, const char findThisChar, const char replace
 * **Purpose** - replace all occurrences of **findThisChar** with **replaceItWithThis**
 * Use pre-defined return values as indicated in shell code
 
-
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/03_scope_rules.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
 
