@@ -68,6 +68,6 @@ NOTE 4: The representations of the memory address values are written in hexadeci
 
 DISCLAIMER: Elements in an array should be stored in contiguous memory addresses.
 
-
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/11_Pointers_Arrays/04_memory_visualization.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
 
 
