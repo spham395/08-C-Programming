@@ -144,3 +144,5 @@ guy1->age = 32;
 // Lastly, we can use the opaque type method above to pre set sizes and act on the nodes individually. This will be displayed in the demonstration lab for linked lists
 
 ```
+
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/14_Structs/03_arrays_of_structs.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
