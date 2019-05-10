@@ -25,5 +25,5 @@ A variable name can be composed of letters and digits. They may not begin with a
 | get$ | no | $ is not a number or letter |
 | end Pointer | no | spaces are not allowed |
 
-
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/02_Variables/03_Data_types.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
 
