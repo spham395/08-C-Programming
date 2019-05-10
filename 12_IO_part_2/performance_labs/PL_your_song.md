@@ -15,3 +15,5 @@ Save your favorite song into a text file.
 * Read it line-by-line
 * Print each line as it is read
 * Close the file at the end
+
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/12_IO_part_2/performance_labs/PL_content_copy_char.md" rel="Continue to Content Copy Lab"> Continue to Content Copy Lab </a>
