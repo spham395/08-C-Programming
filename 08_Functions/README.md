@@ -60,4 +60,6 @@
     * #define constants should be in all CAPS
     * Function, typedef, variable names as well as struct, union and enum tag names should be **lower case**
     * Avoid names that look like each other. Avoid small names with characters that look similar, etc
-    * Make the name related to the variable, task, etc
+    * Make the name related to the variable, task, etc...
+    
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/01_functions.md" rel="Continue to Next Topic"> Continue to Next Topic </a>    
