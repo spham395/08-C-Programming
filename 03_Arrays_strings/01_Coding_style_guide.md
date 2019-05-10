@@ -32,3 +32,5 @@ int main(void)
      return 0;   
 }
 ```
+
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/03_Arrays_strings/02_Arrays.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
