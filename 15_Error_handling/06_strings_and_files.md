@@ -27,4 +27,4 @@ Please continue to practice C Programming.  There are several useful online site
 
 Now feel free to select a new subject area, by following the link below
 
-<a href="https://github.com/CyberTrainingUSAF/01-Course-Introduction-and-setup/blob/master/README.md" rel="Return to Course Introduction"> Course Outline </a>
+<a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/blob/master/00-Table-of-Contents.md" rel="Go to Debugging & Assembly Subjects"> Go to Debugging & Assembly Subjects </a>
