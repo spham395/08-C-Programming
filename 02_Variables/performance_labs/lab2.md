@@ -22,4 +22,6 @@ Type cast and print the following:
 
 **Note: Initialize int to a value between 32 and 126**
 
+---
+
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/03_Arrays_strings/README.md" > Continue to Next Topic </a>
