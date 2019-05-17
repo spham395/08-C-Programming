@@ -1,4 +1,4 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/03_Arrays_strings/README.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
 
 # Lab 2: Type Conversion
 
@@ -22,3 +22,4 @@ Type cast and print the following:
 
 **Note: Initialize int to a value between 32 and 126**
 
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/03_Arrays_strings/README.md" > Continue to Next Topic </a>
