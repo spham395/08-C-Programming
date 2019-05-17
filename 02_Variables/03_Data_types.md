@@ -68,5 +68,7 @@ int main(void)
   * Output
   * Printf Format Specifiers
   
+  ---
+  
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/02_Variables/04_Sizes.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
 
