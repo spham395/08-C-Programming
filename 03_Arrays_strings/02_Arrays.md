@@ -96,4 +96,6 @@ char catchPharse [10] = {76, 101, 103, 101, 111};
 
 ![](/assets/arrayBlank.png)
 
+---
+
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/03_Arrays_strings/03_access_modify_Arrays.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
