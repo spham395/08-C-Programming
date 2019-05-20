@@ -11,4 +11,6 @@
    3. Bitwise AND & 
    4. Relational Operator \(e.g., &gt;\)
 
+---
+
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/06_Bitwise_operators/capstone-1.md" rel="Go on to Capstone"> Go on to Capstone </a>
