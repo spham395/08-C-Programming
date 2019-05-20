@@ -9,4 +9,5 @@ OBJECTIVES:
 3. STEP #1- SAFELY WRITE TO THE ARRAY.
 4. STEP #2- BREAK ASSERT() BY UNSAFELY READING INPUT INTO THE CHAR ARRAY.
 
+---
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/15_Error_handling/02_errno.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
