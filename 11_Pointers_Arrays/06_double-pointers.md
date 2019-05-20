@@ -52,5 +52,7 @@ int main() {
 
 ### It's really that simple.
 
+---
+
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/12_IO_part_2/Objectives.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
 
