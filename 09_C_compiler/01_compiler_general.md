@@ -38,4 +38,6 @@ Produced as the output of the compiler and consists of function definitions in b
 
 Produced as the output of the linker. The linker "links" one or more object files to produce a binary.
 
+---
+
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/09_C_compiler/02_compilation_process.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
