@@ -13,4 +13,5 @@ Replicate some error to test your implementation…
 * Write to a locked file.
 * Misuse a math function .
 
+---
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/15_Error_handling/03_assert_vs_errno.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
