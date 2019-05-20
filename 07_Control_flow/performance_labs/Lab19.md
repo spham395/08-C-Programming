@@ -12,4 +12,6 @@
 #### BONUS: Ask the user to continue with a DO-WHILE loop
     * write a version with the counting loop written as a FOR loop, and a WHILE loop version.
 
+---
+
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/README.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
