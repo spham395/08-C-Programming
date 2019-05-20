@@ -9,4 +9,6 @@
 
 #### NOTE: This capstone requires a lot of logic and almost all the previously used bitwise operators.
 
+---
+
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/README.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
