@@ -56,5 +56,7 @@ y || y
 (0 && 1) || (2 && 3)        // Bonus
 ```
 
+---
+
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/05_Operators_expressions/05_assignment-operators.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
 
