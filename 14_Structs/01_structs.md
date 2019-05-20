@@ -37,4 +37,6 @@
 * Beneficial to organizing complicated data.
 * Related variables can be treated as a unit instead of separate entities.
 
+---
+
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/14_Structs/02_struct_format.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
