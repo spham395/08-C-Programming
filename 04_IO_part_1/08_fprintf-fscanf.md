@@ -75,5 +75,7 @@ fscanf(stdin, “%19s”, nickName);    // Safer string read from stdin
 
 #### NOTE: When using field-width on fscanf string input, leave room for the *nul terminator*
 
+---
+
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/05_Operators_expressions/README.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
 
