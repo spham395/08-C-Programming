@@ -22,5 +22,6 @@
 * How to utilize Assignment Operators
 * The precedence of operators
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/05_Operators_expressions/01_definitions.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+---
 
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/05_Operators_expressions/01_definitions.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
