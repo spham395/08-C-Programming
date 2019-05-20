@@ -1,4 +1,4 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/06_recursion.md" rel="Return to Topic"> Return to Topic </a>
+
 
 ```c
 
@@ -76,3 +76,7 @@ void error_reporting(int currErrno)
 
 	return;
 }
+
+---
+
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/06_recursion.md" rel="Return to Topic"> Return to Topic </a>
