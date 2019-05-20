@@ -1,4 +1,4 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/README.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/06_Bitwise_operators/capstone-1.md" rel="Go on to Capstone"> Go on to Capstone </a>
 
 # Capstone 1: Flip a single bit using XOR
 
@@ -8,3 +8,5 @@
 4. XOR the original value with the inputMask and print the result
 
 #### NOTE: This capstone requires a lot of logic and almost all the previously used bitwise operators.
+
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/README.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
