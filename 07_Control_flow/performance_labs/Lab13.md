@@ -1,5 +1,4 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/02_conditional-statements.md" rel="Return to Topic"> Return to Topic </a>
-
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
 
 # PERFORMANCE LAB 13
 
@@ -12,3 +11,7 @@
     * If variable #1 is equal to variable #2, print an ERROR.
     * Otherwise, exchange the value of the largest variable with variable #3 while preserving the other value.
 * Print the values of all three variables if the SUM of the three variables is greater than 2 regardless of the previous  ELSE-IF statement.
+
+---
+
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/02_conditional-statements.md" rel="Return to Topic"> Return to Topic </a>
