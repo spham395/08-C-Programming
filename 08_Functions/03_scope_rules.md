@@ -74,4 +74,6 @@ global
 ```
 **NOTE:** Use unique variable names, it will help avoid summoning another variable by mistake.
 
+---
+
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/04_storage_class_specifiers.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
