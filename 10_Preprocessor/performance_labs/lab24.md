@@ -13,6 +13,8 @@
 1. Of standard buffer size
 2. Assign the wrapped string literals to the array
 
+---
+
 ## **Print the array**
 
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/10_Preprocessor/07_conditional_compilation.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
