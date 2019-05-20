@@ -18,13 +18,12 @@ The *FILE* data type utilizes pointers and should be treated as such.
 
 Missing files coupled with certain *modes* will create ERRNOs and return NULL.
 
-
----
-
-End Of Subject
-
 Please continue to practice C Programming.  There are several useful online sites that can provide challenges that will help you improve your skills. Best of Luck!  
 
-Now feel free to select a new subject area, by following the link below
+---
+**End of C Programming**
 
+---
 <a href="https://github.com/CyberTrainingUSAF/06-Debugging-Assembly/blob/master/00-Table-of-Contents.md" rel="Go to Debugging & Assembly Subjects"> Go to Debugging & Assembly Subjects </a>
+
+<a href="https://github.com/CyberTrainingUSAF/01-Course-Introduction-and-setup/blob/master/README.md" rel="Return to Course Introduction"> Return to Course introduction </a>
