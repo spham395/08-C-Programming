@@ -369,4 +369,6 @@ replacement_text               //replaces the above
 ### 4. Surround macros that contain complete statements with curly braces ( { } ).
 ### 5. Consider using CONST declarations instead of #define.
 
+---
+
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/10_Preprocessor/04_hash_operator.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
