@@ -73,4 +73,6 @@ void my_function(void)                  //function definition
 
 *4 and 5 are taken from the practices of NASA's JPL*
 
+---
+
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/02_function_basics.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
