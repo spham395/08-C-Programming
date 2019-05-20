@@ -51,6 +51,7 @@ IF statement:
 * Safely store a user-input string in the char array.
 * Safely print the string  **IF** the first element is not equal to zero (array897[0] != 0).
 
+---
 
 ## PERFORMANCE LAB 11
 
@@ -112,6 +113,8 @@ IF-ELSE statement:
     * If the number is odd, multiply the number by 2, store the result in the original variable, and print the new number.
     * If the number is even SAY SO!!
 * BONUS: Determine if the number is odd or even utilizing a **bitwise** operator instead (god-tier efficiency).
+
+---
 
 ## PERFORMANCE LAB 12
 
@@ -183,6 +186,8 @@ NOTE: Do not leave else-if statements unwrapped {}!
     * If variable #1 is equal to variable #2, assign 0 to variable #3.
     * Otherwise, subtract the smallest from the largest (i.e. 3-2, 42-(-45), (-11)-(-1337), etc...) and assign the result to variable #3.
 * Print the value of variable #3 if it is positive otherwise print and ERROR.
+
+---
 
 ## PERFORMANCE LAB 13
 
@@ -279,6 +284,8 @@ switch (binaryInput)
     * Input a new character
     * Input a new number
     * exit
+
+---
 
 ## PERFORMANCE LAB 14
 
@@ -619,5 +626,7 @@ switch (inputDecimal)
 }
 /*SWITCH will result in a compiling error!*/
 ```
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/05_nested-control-flow.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
 
+---
+
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/05_nested-control-flow.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
