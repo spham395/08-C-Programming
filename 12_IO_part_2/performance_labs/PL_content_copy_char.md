@@ -14,4 +14,6 @@ File I/O – putc()
 * Close and open the new file in *read* mode.
 * Print the new file **char-by-char**.
 
+---
+
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/12_IO_part_2/performance_labs/PL_content_copy_line.md" rel="Continue to Content Copy Line Lab"> Continue to Content Copy Line Lab </a>
