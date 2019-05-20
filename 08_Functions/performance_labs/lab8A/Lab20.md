@@ -14,5 +14,6 @@ int replace_character(char * string, const char findThisChar, const char replace
 * **Purpose** - replace all occurrences of **findThisChar** with **replaceItWithThis**
 * Use pre-defined return values as indicated in shell code
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/03_scope_rules.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+---
 
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/03_scope_rules.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
