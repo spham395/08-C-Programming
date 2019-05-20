@@ -16,4 +16,6 @@ File I/O – fprintf()
 
 ### BUILD THOSE SAFETY CHECKS!!!!!a
 
+---
+
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/13_Memory_Management/01_concepts.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
