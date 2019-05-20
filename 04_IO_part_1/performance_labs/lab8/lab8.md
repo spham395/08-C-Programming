@@ -31,6 +31,8 @@ INPUT:   11*14
 OUTPUT:  The result of 11 multiplied by 14 is 154.
 ```
 
+---
+
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/04_IO_part_1/08_fprintf-fscanf.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
 
 
