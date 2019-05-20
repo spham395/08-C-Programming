@@ -204,21 +204,30 @@ int main(void)
 }
 ```
 
+---
 **Performance Lab:** Mighty Morphin
 
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/12_IO_part_2/performance_labs/PL_mighty_morphin.md" rel="Mighty Morphin"> Mighty Morphin </a>
+
+---
 
 **Performance Lab:** Your Song
 
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/12_IO_part_2/performance_labs/PL_your_song.md" rel="Your Song"> Your Song</a>
 
+---
+
 **Performance Lab:** Content copy (CHAR-BY-CHAR)
 
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/12_IO_part_2/performance_labs/PL_content_copy_char.md" rel="Content Copy Char"> Content Copy Char </a>
 
+---
+
 **Performance Lab:** Content copy (LINE-BY-LINE)
 
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/12_IO_part_2/performance_labs/PL_content_copy_line.md" rel="Content Copy Line"> Content Copy Line </a>
+
+---
 
 **Performance Lab:** USERNAMES
 
