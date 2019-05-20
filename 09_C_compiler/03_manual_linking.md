@@ -75,6 +75,7 @@ Add the .obj to your project as an "existing item"
 2. Write a source file that calls the header's function
 3. Manually link the header's definition and your source file
 
+---
 
 ## COMPLETE PERFORMANCE LAB 23
 
