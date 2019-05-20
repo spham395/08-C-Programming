@@ -1,4 +1,4 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/02_function_basics.md" rel="Return to Topic"> Return to Topic </a>
+
 
 ```c
 
@@ -147,3 +147,7 @@ int remove_newline(char * buffer)
 		return ERR_NONE_FOUND;					// Because the function found no newline characters
 	}
 }
+
+---
+
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/02_function_basics.md" rel="Return to Topic"> Return to Topic </a>
