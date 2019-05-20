@@ -1,4 +1,4 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/02_conditional-statements.md" rel="Return to Topic"> Return to Topic </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
 
 # PERFORMANCE LAB 12
 
@@ -11,3 +11,8 @@
     * INDICATE if the number is negative
     * Otherwise, print the original value in binary, and use a **bitwise** operation to flip one bit to make it negative
 * Print the binary
+
+---
+
+
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/02_conditional-statements.md" rel="Return to Topic"> Return to Topic </a>
