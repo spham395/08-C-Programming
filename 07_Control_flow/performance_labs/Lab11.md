@@ -1,4 +1,3 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/02_conditional-statements.md" rel="Return to Topic"> Return to Topic </a>
 
 
 # PERFORMANCE LAB 11
@@ -12,3 +11,7 @@
     * The first element is less than decimal value 126.
 
 ***NOTE: decimal values 32-126 represent printable ASCII characters***
+
+---
+
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/07_Control_flow/02_conditional-statements.md" rel="Return to Topic"> Return to Topic </a>
