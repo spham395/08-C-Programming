@@ -120,6 +120,8 @@ Hexadecimal is useful for representing binary data. Each hexadecimal digit repre
 | 1011 0001 0000 0101 1111 0000 0000 1101 | 0x???????? |
 | 1101 1110 1010 1101 0001 0000 1100 1100 | 0x???????? |
 
+---
+
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/06_Bitwise_operators/03_bitwise-operators.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
 
 #### Check out: [https://en.wikipedia.org/wiki/Hexspeak](https://en.wikipedia.org/wiki/Hexspeak)
