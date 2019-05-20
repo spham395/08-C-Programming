@@ -22,4 +22,6 @@ file * <file pointer variable>;         //example syntax
 file * myFile_ptr;                      //real syntax
 ```
 
+---
+
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/12_IO_part_2/02_related_functions.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
