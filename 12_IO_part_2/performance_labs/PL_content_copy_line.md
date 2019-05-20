@@ -13,4 +13,6 @@ File I/O – fputs()
 * Close and open the new file in *read* mode.
 * Print the new file **line-by-line**.
 
+---
+
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/12_IO_part_2/performance_labs/PL_usernames.md" rel="Continue to USERNAMES Lab"> Continue to USERNAMES Lab </a>
