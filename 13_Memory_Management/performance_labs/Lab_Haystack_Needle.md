@@ -66,4 +66,5 @@ int haystack_needle(char *haystack, char *needle, char *buffer)
 
 ```
 
+---
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/14_Structs/README.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
