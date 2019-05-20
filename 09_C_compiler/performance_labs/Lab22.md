@@ -10,4 +10,6 @@
     4. LINKING
 3. View the output file in an IDE/text-editor, from each phase.
 
+---
+
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/09_C_compiler/03_manual_linking.md" rel="Continue to Next Topoic"> Continue to Next Topic </a>
