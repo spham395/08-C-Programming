@@ -20,4 +20,6 @@
 
 **NOTE: \* use your best guess**
 
+---
+
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/03_Arrays_strings/04_strings.md" > Continue to Next Topic </a>
