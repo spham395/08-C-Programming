@@ -57,6 +57,7 @@ putchar(userInput);               // Prints output
 * Enter a character: **54**
 * Enter a character: **JasV**
 
+---
 # Complete Performance Lab 5
 
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/04_IO_part_1/performance_labs/lab5/lab5.md" rel="PERFORMANCE LAB 5"> PERFORMANCE LAB 5 </a>
