@@ -128,7 +128,7 @@ int print_the_count(char * inputString, int strLen);
 * Parameters - A non-NULL terminated string and the length of that string
 * Purpose - Print a table of letters from the string with their count
     * Write a program that reads a string from user input and then calls print_the_count()
-    * When satisfied, run "Unit Test Code 2.c"
+    * When satisfied, run "string_theory.c"
     
 ## Demo Lab1 MyStringHeader
 
