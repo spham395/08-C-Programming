@@ -107,8 +107,8 @@ scanf(“*%lf”, &posSqrtTwo);      // Waits for asterisk before reading
 scanf(“%[abcd]c”, &ansNum1);     // Will only read an a, b, c, or d
 scanf(“%[A-Z]c”, &capsChar);     // Will only read a capital letter
 scanf(“%[A-z]c”, &rngOfChar);    // Only chars of decimal value 65–122
-scanf(“%32[01]s”, binaryStr);    // Stops reading at first non 0 or 1 
-scanf(“%64[^e\n]s”, Gadsby);     // Stops reading at first e or newline
+scanf(“%32[01]s”, &binaryStr);    // Stops reading at first non 0 or 1 
+scanf(“%64[^e\n]s”, &Gadsby);     // Stops reading at first e or newline
 ```
 
 **NOTE**: Any field width specification also stops scanf\(\) from reading any more input regardless of any matched characters.
