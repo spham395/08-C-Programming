@@ -4,6 +4,10 @@
 
 * [Introduction](README.md)
   * [Definitions](01_Introduction/01_Definitions.md)
+  * [Features](01_Introduction/02_C-language-features.md)
+  * [C Specifics](01_Introduction/03_C-specifics.md)
+  * [Definitions](01_Introduction/04_gcc.md)
+  * [Definitions](01_Introduction/05_cmake.md)
 * [Variables](02_Variables/README.md)
   * [Coding Style guide](02_Variables/01_Coding_style_guide.md)
   * [Variable Names](02_Variables/02_Variable_names.md)
