@@ -1,4 +1,4 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" > Return to TOC </a>
 
 # GNU C Compiler
 
@@ -169,3 +169,7 @@ All the same rules apply to compiling C++ programs except we use ***g++*** inste
 $ g++ -o hello hello.c
 $ ./hello
 ```
+
+---
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/01_Introduction/05_cmake.md" > Continue to Next Topic </a>
+
