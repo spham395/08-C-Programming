@@ -3,6 +3,7 @@
 # C Programming Table of contents
 
 * [Introduction](README.md)
+  * [Definitions](01_Introduction/01_Definitions.md)
 * [Variables](02_Variables/README.md)
   * [Coding Style guide](02_Variables/01_Coding_style_guide.md)
   * [Variable Names](02_Variables/02_Variable_names.md)
