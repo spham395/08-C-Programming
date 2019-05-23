@@ -26,4 +26,4 @@
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/02_Variables/README.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/01_Introduction/01_Definitions.md" > Continue to Next Topic </a>
