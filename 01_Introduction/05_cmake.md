@@ -147,3 +147,7 @@ add_executable(hello ${PROJECT_SOURCE_DIR}/test.cpp)
 ### For more information reference the man pages:
 
 https://linux.die.net/man/1/cmake
+
+---
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/02_Variables/README.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+
