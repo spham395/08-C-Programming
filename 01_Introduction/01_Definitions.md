@@ -1,3 +1,5 @@
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+
 # Definitions
 
 Below are some general programming terms, knowledge base and definitions every developer needs to know. We will be touching on all of these topics, in greater detail, as we advance through the course. 
