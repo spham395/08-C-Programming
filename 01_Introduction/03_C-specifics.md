@@ -72,4 +72,4 @@ int main()
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/01_Introduction/04_gcc.md" > Return to TOC </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/01_Introduction/04_gcc.md" > Continue to Next Topic </a>
