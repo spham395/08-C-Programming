@@ -62,7 +62,7 @@ x = 32 bits per line
 
 This measurement changes, of course, if the students open their own “Memory 1” windows and resize them to something other than four columns of values.
 
-DATA IN MEMORY:
+### DATA IN MEMORY:
 * Note:  This area allows the instructor to translate the information contained in the given memory values.  The IDE’s Memory window may happen to know this is a character array (because we told it) but it’s not smart enough to figure out that we’re using uinti_32s as bit masks.  This visualization gives the instructor a standardized location to translate that information for the benefit of the student.
 
 * Note:  This is where the memory visualization differs from Visual Studio’s debug mode memory window.  The Memory window in Visual Studio interprets the memory values off to the right.  This visualization has a different approach.  This visualization provides a bit more organization and/or interpretation of the values found in memory.  For instance, take 0x0090C08F.  This memory address actually holds the null character for the C string “string1”.  In a memory window, the null character would appear as another “.” (period), which is how Visual Studio presents 00s.  In this memory visualization, we are able to present it as what it truly is… the string’s null-terminating character.  
