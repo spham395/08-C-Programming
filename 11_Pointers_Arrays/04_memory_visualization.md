@@ -6,7 +6,7 @@
 As we discussed previously, memory is simply a location where data is stored.  To access this data, your program must know how to find it.  This is accomplished by addressing the data in memory.  
   * 
  ### Memory Addresses
-  * 1. Memory addresses are normally displayed in hexadecimal.  Each memory address refers to one byte of memory.  Each line in this display (see: dword) represents four bytes of memory values/data.  Thus, each line in this display (see: dword) actually contains four memory addresses.  The memory address listed on a line doesn’t represent an entire line.  It merely represents the address of the first byte of information (See "Memory Values" below for more information). 
+  **1.** Memory addresses are normally displayed in hexadecimal.  Each memory address refers to one byte of memory.  Each line in this display (see: dword) represents four bytes of memory values/data.  Thus, each line in this display (see: dword) actually contains four memory addresses.  The memory address listed on a line doesn’t represent an entire line.  It merely represents the address of the first byte of information (See "Memory Values" below for more information). 
 <p float="left">
   <img src="/assets/Memory_Address.png" width="300" />
   <img src="/assets/Data_Mem.png" width="520" /> 
@@ -20,14 +20,14 @@ As we discussed previously, memory is simply a location where data is stored.  T
 The next line (dword 02) begins with memory address 0x0090C054 which represents memory value 39 (memory value: row 2, left most column).  
 	
 ---	
-  * 2. Keep in mind that these memory addresses are represented in hexadecimal.  That means **“Memory math”** can be counter-intuitive.  For example, the next memory address after 0x0090C079 is 0x0090C07A.  As another example, the next memory address after 0x0090C09F is 0x0090C0A0.  If you hve difficulty with “Memory math”, you may utilize windows calculator.  Change the “View” to “Programmer”.  Set the numbering system to “Hex” and change the length to “DWORD”.  This should easily allow you to remove the mystery from “Memory math”.
+  **2.** Keep in mind that these memory addresses are represented in hexadecimal.  That means **“Memory math”** can be counter-intuitive.  For example, the next memory address after 0x0090C079 is 0x0090C07A.  As another example, the next memory address after 0x0090C09F is 0x0090C0A0.  If you hve difficulty with “Memory math”, you may utilize windows calculator.  Change the “View” to “Programmer”.  Set the numbering system to “Hex” and change the length to “DWORD”.  This should easily allow you to remove the mystery from “Memory math”.
 	
-  * 3. The memory addresses in this particular visualization are not necessarily representative of real memory addresses.  Actual memory addresses are more likely to resemble something like **0x00c8f864**.  The memory addresses in this example are actually an easter egg.  Example memory addresses are modified for more of a visualization for understanding concepts; but many of them will also be easter eggs.
+  **3.** The memory addresses in this particular visualization are not necessarily representative of real memory addresses.  Actual memory addresses are more likely to resemble something like **0x00c8f864**.  The memory addresses in this example are actually an easter egg.  Example memory addresses are modified for more of a visualization for understanding concepts; but many of them will also be easter eggs.
 
-### Notes:
+### Line References:
 
-**1.** In computer software and media, an Easter egg is a hidden message or image, or secret feature of a work. 
-**2**  The title “dword” was chosen for a couple different reasons.  One, it is a reference to the total number of bits (values) that are represented on a single line.  “DWORD” is a Microsoft data type.  “DWORD” is declared in IntSafe.h as typdef unsigned long DWORD.  It represents a 32-bit unsigned integer.  Each line of this static memory visualization presents a line of four hexadecimal values in memory.  Each hexadecimal value is represented by two digits.  Each hexadecimal digit represents 4 binary bits.  Thus, each line represents x bits if:
+  **1.** In computer software and media, an Easter egg is a hidden message or image, or secret feature of a work. 
+  **2.**  The title “dword” was chosen for a couple different reasons.  One, it is a reference to the total number of bits (values) that are represented on a single line.  “DWORD” is a Microsoft data type.  “DWORD” is declared in IntSafe.h as typdef unsigned long DWORD.  It represents a 32-bit unsigned integer.  Each line of this static memory visualization presents a line of four hexadecimal values in memory.  Each hexadecimal value is represented by two digits.  Each hexadecimal digit represents 4 binary bits.  Thus, each line represents x bits if:
 x = 4 values * 2 digits * 4 bits
 x = 4 * 2 * 4
 x = 32 bits per line
