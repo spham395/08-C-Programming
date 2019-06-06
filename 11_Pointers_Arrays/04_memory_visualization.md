@@ -27,6 +27,7 @@ The next line (dword 02) begins with memory address 0x0090C054 which represents 
 ### Line References:
 
   **1.** In computer software and media, an Easter egg is a hidden message or image, or secret feature of a work. 
+  
   **2.**  The title “dword” was chosen for a couple different reasons.  One, it is a reference to the total number of bits (values) that are represented on a single line.  “DWORD” is a Microsoft data type.  “DWORD” is declared in IntSafe.h as typdef unsigned long DWORD.  It represents a 32-bit unsigned integer.  Each line of this static memory visualization presents a line of four hexadecimal values in memory.  Each hexadecimal value is represented by two digits.  Each hexadecimal digit represents 4 binary bits.  Thus, each line represents x bits if:
 x = 4 values * 2 digits * 4 bits
 x = 4 * 2 * 4
