@@ -76,4 +76,4 @@ The data in memmory is where the memory visualization differs from Visual Studio
 * Answer:  0x0090C055, 0x0090C073, and 0x0090C08B
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/11_Pointers_Arrays/05_UC_pointers-arrays.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/11_Pointers_Arrays/12_double_pointers.md"> Continue to Next Topic </a>
