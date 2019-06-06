@@ -7,7 +7,7 @@ As we discussed previously, memory is simply a location where data is stored.  T
   * Memory addresses are normally displayed in hexadecimal.  Each memory address refers to one byte of memory.  Each line in this display (see: dword) represents four bytes of memory values/data.  Thus, each line in this display (see: dword) actually contains four memory addresses.  The memory address listed on a line doesn’t represent an entire line.  It merely represents the address of the first byte of information (see: Memory Values). 
 
 
-![](/assets/Memory_Address.png ) | ![](/assets/Data_Mem.png)
+![alt-text-1](/assets/Memory_Address.png ) | ![alt-text-2](/assets/Data_Mem.png)
 
 ---
 
