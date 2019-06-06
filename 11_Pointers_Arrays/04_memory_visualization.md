@@ -25,7 +25,7 @@ The next line (dword 02) begins with memory address 0x0090C054 which represents 
  
  Keep in mind that these memory addresses are represented in hexadecimal.  That means **“Memory math”** can be counter-intuitive.  For example, the next memory address after 0x0090C079 is 0x0090C07A.  As another example, the next memory address after 0x0090C09F is 0x0090C0A0.  If you hve difficulty with “Memory math”, you may utilize windows calculator.  Change the “View” to “Programmer”.  Set the numbering system to “Hex” and change the length to “DWORD”.  This should easily allow you to remove the mystery from “Memory math”.
 	
-The memory addresses in this particular visualization are not necessarily representative of real memory addresses.  Actual memory addresses are more likely to resemble something like **0x00c8f864**.  The memory addresses in this example are actually an easter egg.  Example memory addresses will be modified as more visualizations are presented but many of them will also be easter eggs.
+The memory addresses in this particular visualization are not necessarily representative of real memory addresses.  Actual memory addresses are more likely to resemble something like **0x00c8f864**.  The memory addresses in this example are actually an easter egg.  Example memory addresses are modified for more of a visualization for understanding concepts; but many of them will also be easter eggs.
 
 * **Note:** In computer software and media, an Easter egg is a hidden message or image, or secret feature of a work. 
 
