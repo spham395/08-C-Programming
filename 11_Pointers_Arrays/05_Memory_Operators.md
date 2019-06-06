@@ -25,22 +25,22 @@ that = *int_ptr;	// “that” assigned value at int_ptr address
 ```
 | Memory 1| |
 |-------- | -------------|
-| 0x0090C050 cc cc cc cc | <- dword 01 - I I I I |
-| 0x0090C054 cc cc cc cc | <- dword 01 - IIII |
-| 0x0090C058 cc cc cc cc | <- dword 01 - IIII |
-| 0x0090C05C cc cc cc cc | <- dword 01 - IIII |
-| 0x0090C060 cc cc cc cc | <- dword 01 - IIII |
-| 0x0090C064 cc cc cc cc | <- dword 01 - IIII |
-| 0x0090C068 cc cc cc cc | <- dword 01 - IIII |
-| 0x0090C06C cc cc cc cc | <- dword 01 - IIII |
-| 0x0090C070 cc cc cc cc | <- dword 01 - IIII |
-| 0x0090C074 cc cc cc cc | <- dword 01 - IIII |
-| 0x0090C078 cc cc cc cc | <- dword 01 - IIII |
-| 0x0090C07C cc cc cc cc | <- dword 01 - IIII |
-| 0x0090C080 cc cc cc cc | <- dword 01 - IIII |
-| 0x0090C084 cc cc cc cc | <- dword 01 - IIII |
-| 0x0090C088 cc cc cc cc | <- dword 01 - IIII |
-| 0x0090C08C cc cc cc cc | <- dword 01 - IIII |
+| 0x0090C050 cc cc cc cc | <- dword 01 - IIII |
+| 0x0090C054 cc cc cc cc | <- dword 02 - IIII |
+| 0x0090C058 cc cc cc cc | <- dword 03 - IIII | **->**
+| 0x0090C05C cc cc cc cc | <- dword 04 - IIII |
+| 0x0090C060 cc cc cc cc | <- dword 05 - IIII |
+| 0x0090C064 cc cc cc cc | <- dword 06 - IIII |
+| 0x0090C068 cc cc cc cc | <- dword 07 - IIII |
+| 0x0090C06C cc cc cc cc | <- dword 08 - IIII |
+| 0x0090C070 cc cc cc cc | <- dword 09 - IIII |
+| 0x0090C074 cc cc cc cc | <- dword 10 - IIII |
+| 0x0090C078 cc cc cc cc | <- dword 11 - IIII |
+| 0x0090C07C cc cc cc cc | <- dword 12 - IIII |
+| 0x0090C080 cc cc cc cc | <- dword 13 - IIII |
+| 0x0090C084 cc cc cc cc | <- dword 14 - IIII |
+| 0x0090C088 cc cc cc cc | <- dword 15 - IIII |
+| 0x0090C08C cc cc cc cc | <- dword 16 - IIII |
 
 
 
