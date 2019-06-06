@@ -4,6 +4,15 @@
 
 # Memory Operators
 
+---
+Operator | Meaning | Example | Result for each bit pos
+-------- | ------- | ------- | -----------------------
+& | Address of | &x | A constant pointer to x
+* | Dereference | * p | The object (or function) point to by p
+[] | Array element | x[i] | * (x+i), the element with index i in the array x
+
+---
+
 ```
 int this = 9;		// Integer variable “this” defined as 9
 int that = 0;		// Integer variable “that” defined as 0
