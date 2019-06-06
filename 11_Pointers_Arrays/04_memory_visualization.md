@@ -50,20 +50,11 @@ This measurement changes, of course, if you open your own “Memory 1” windows
 
 ---
 
-### Answers to Quiz:
-
-* Answer:  53	
-* Answer:  30	
-* Answer:  00	
-* Answer:  0x0090C088	
-* Answer:  0x0090C055, 0x0090C073, and 0x0090C08B
-
----
-
 ### MEMORY VALUES:
 The values in memory are typically displayed in hexadecimal as well.  It’s not so obvious because they are prefixed with **0x** like the memory addresses.  Hexadecimal is commonly chosen because it is useful for representing binary data.  Each hexadecimal digit represents 4 binary bits (see: Bitwise Operations – Numbering Systems).
 
 **Memory addresses** point to a storage location.  That storage location may or may not contain a value.  The value at the memory address does not have a “data type”.  
+
 **Data types** are an abstraction fabricated by higher level languages.  This means the value stored in a given isn’t data (Data is raw, unorganized facts that need to be processed. Data can be something simple and seemingly random and useless until it is organized.) or even information (When data is processed, organized, structured or presented in a given context so as to make it useful, it is called information.).  The value stored at a given memory address is merely a raw fact that needs to be processed.  Determining that value’s “data type” is one easy way to transform that raw fact into something more meaningful.  For instance, the value at address 0x0090C071 (value 0x20) is a char.  Now it is data because we realize 0x20 represents a “space”.  That still doesn’t put this data into context though.  
 When data is made useful, it becomes information.  The fact that value at address 0x0090C071 (value 0x20) represents a char as part of an array of chars helps transform this “data” into “information”.  The point of this exercise is to inform the students that the values contained at specific memory addresses still requirement interpretation.
 
@@ -74,6 +65,15 @@ The data in memmory is where the memory visualization differs from Visual Studio
 
 **Note:**  The null terminating character was explicitly included in string’s initialization in order to further draw the parallel between the array, the memory addresses, the memory values and the data in memory.
 
+---
+
+### Answers to Quiz:
+
+* Answer:  53	
+* Answer:  30	
+* Answer:  00	
+* Answer:  0x0090C088	
+* Answer:  0x0090C055, 0x0090C073, and 0x0090C08B
 ---
 
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/11_Pointers_Arrays/05_UC_pointers-arrays.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
