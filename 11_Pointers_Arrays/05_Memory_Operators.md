@@ -5,11 +5,16 @@
 # Memory Operators
 
 ---
+<p float="left">
+  
  |Operator | Meaning | Example | Result for each bit pos
 -------- | ------- | ------- | -----------------------
  | & | Address of | &x | A constant pointer to x
  | * | Dereference | * p | The object (or function) point to by p
  | [] | Array element | x[i] | * (x+i), the element with index i in the array x
+
+<img src="/assets/Memory_Address.png" width="300" />
+<img src="/assets/Data_Mem.png" width="520" /> 
 
 ---
 
