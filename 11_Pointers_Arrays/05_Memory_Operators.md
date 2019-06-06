@@ -23,10 +23,8 @@ that = *int_ptr;	// “that” assigned value at int_ptr address
 *int_ptr = 1;		// Value at int_ptr address assigned 1
 /* “this” is now equal to 1 */ 
 ```
-
----
-| Memory 1|
--------- | -------------| --------------|
+| Memory 1| | |
+|-------- | -------------| --------------|
 | 0x0090C050 cc cc cc cc | <-- dword 01 - IIII | int main (void)
 | 0x0090C054 cc cc cc cc | <-- dword 01 - IIII | {
 | 0x0090C058 cc cc cc cc | <-- dword 01 - IIII |    int this = 9;
