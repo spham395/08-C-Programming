@@ -8,7 +8,7 @@ As we discussed previously, memory is simply a location where data is stored.  T
 
 <p float="left">
   <img src="/assets/Memory_Address.png" width="400" />
-  <img src="/assets/Data_Mem.png" width="400" /> 
+  <img src="/assets/Data_Mem.png" width="600" /> 
 	
 ---
 
