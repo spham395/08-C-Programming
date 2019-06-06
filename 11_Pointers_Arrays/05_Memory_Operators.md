@@ -26,7 +26,6 @@ that = *int_ptr;	// “that” assigned value at int_ptr address
 /* “this” is now equal to 1 */ 
 ```
 
-<p float="left">
 | Memory 1| |
 |-------- | -------------|
 | 0x0090C050 cc cc cc cc | <- dword 01 - IIII |
@@ -46,8 +45,6 @@ that = *int_ptr;	// “that” assigned value at int_ptr address
 | 0x0090C088 cc cc cc cc | <- dword 15 - IIII |
 | 0x0090C08C cc cc cc cc | <- dword 16 - IIII |
 
-<img src="/assets/ArrowR.png" width="100" />
-<img src="/assets/Code pic.png" width="100" /> 
 
 
 
