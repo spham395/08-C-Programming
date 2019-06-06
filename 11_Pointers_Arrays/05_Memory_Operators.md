@@ -4,7 +4,7 @@
 
 # Memory Operators
 
-'''
+```
 int this = 9;		// Integer variable “this” defined as 9
 int that = 0;		// Integer variable “that” defined as 0
 int * int_ptr;		// Pointer variable for an integer declared 
@@ -13,7 +13,7 @@ that = *int_ptr;	// “that” assigned value at int_ptr address
 /* “that”, now 9, should now equal “this” */
 *int_ptr = 1;		// Value at int_ptr address assigned 1
 /* “this” is now equal to 1 */ 
-'''
+```
 
 
 
