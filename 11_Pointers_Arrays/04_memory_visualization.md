@@ -7,10 +7,8 @@ As we discussed previously, memory is simply a location where data is stored.  T
   * Memory addresses are normally displayed in hexadecimal.  Each memory address refers to one byte of memory.  Each line in this display (see: dword) represents four bytes of memory values/data.  Thus, each line in this display (see: dword) actually contains four memory addresses.  The memory address listed on a line doesn’t represent an entire line.  It merely represents the address of the first byte of information (see: Memory Values). 
 
 
-![](/assets/Memory_Address.png )
+![](/assets/Memory_Address.png ) ![](/assets/Data_Mem.png)
 
-
-![](/assets/Data_Mem.png)
 ---
 
 **Eample**, 0x0090C050 (line: dword 01) is the memory address for the memory value “54” (memory value: top row, left most column).  0x0090C050 doesn’t represent any other memory values on the “dword 01” line.  Mathematics must be applied to determine the memory addresses for the remaining memory values on the rest of the “dword 01” line (see: 68, 65, and 20).  In fact, here are the memory address for each of the four bytes of memory values on the “dword 1” line:
