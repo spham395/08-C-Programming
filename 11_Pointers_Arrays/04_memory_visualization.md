@@ -2,8 +2,6 @@
 
 ---
 
-# This entire section is under development and contains notes to the instructor
-
 # Memory Visualization
 As we discussed previously, memory is simply a location where data is stored.  To access this data, your program must know how to find it.  This is accomplished by addressing the data in memory.  
   
