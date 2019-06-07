@@ -140,23 +140,24 @@ someList + 2 points to the memory address of index 2 and someList + 3 is equival
 
 After the address arithmetic (see: someList + 2), that memory address is then dereferenced.  Lastly, the value 0x1BADD00D is assigned to the memory location pointed at by (someList + 2) because it is dereferenced.
 
-###Notice:
+### Notice:
 
-You may have noticed that 0x0002F320 + 2 is 0x0002F322 as opposed to 0x0002F328.  
+You may have noticed that **0x0002F320** + 2 is **0x0002F322** as opposed to **0x0002F328**.  
 
-In fact, 0x0002F320 + 2 ≠ 0x0002F328 in *math* math.  This is *pointer* math (AKA Address Arithmetic).  
-someList is a pointer variable of data type int.  This implementation provides four bytes of memory space to a single int.  
+In fact, **0x0002F320** + 2 ≠ **0x0002F328** in *math* math.  
+This is *pointer* math (AKA Address Arithmetic).  someList is a pointer variable of data type int.  This implementation provides four bytes of memory space to a single int.  
 
 This means each integer an int pointer references takes up four bytes.  The compiler knows this and the language has abstracted “pointer math” (AKA Address Arithmetic) to (supposedly) make life easier on the programmer.  someList + 2 (in Address Arithmetic) is equivalent to (someList + (2 * sizeof(int)) in *real* math.  
-This disparity is covered in more depth in the **“Address Arithmetic”** section.  
 
-When reviewing the Address Arithmetic portion of training, refering to this slide could be a good way of introducing yourself to the concept.  
+**Note**: This disparity is covered in more depth in the **“Address Arithmetic”** section.  
 
 ---
 
 | **Example code will be executed per line and displayed in memory** |
 |----------------------------------------------------------------------|
 ![](/assets/Arrays_Rev_7.png)
+
+
 
 ---
 
