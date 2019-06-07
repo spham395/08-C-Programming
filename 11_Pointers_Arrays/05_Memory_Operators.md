@@ -32,7 +32,7 @@ The intent of this “memory operator” segment is to walk through relatively s
 
 ![](/assets/code_1.png)
 
-### Prior to beginning this demonstration, there are some items to address:
+### Prior to beginning this section, there are some items to address:
 
 * **cc’s and Ì’s?”** - Represent uninitialized memory in Visual Studio debug mode.  
   * Long Answer:  Hexadecimal value 0xCC is used as a “magic number” by Microsoft's C++ debugging runtime library and many DOS environments to mark uninitialized stack memory. CC resembles the opcode of the INT 3 debug breakpoint interrupt on x86 processors. (https://en.wikipedia.org/wiki/Magic_number_%28programming%29)  When viewed in the Visual Studio Debug mode memory window, the 0xCCs are part of the extended ASCII codes and interpreted as an Ì which is described as “Latin capital letter I with grave”.  (http://www.ascii-code.com/)
@@ -52,21 +52,19 @@ The intent of this “memory operator” segment is to walk through relatively s
 ---
 ![](/assets/code_2.png)
 
-NARRATIVE:  At this point the integer variable “this” has been initialized with 9.  As we can see, its value is stored at memory address 0x0090C088.  Assignment operators (see: =) are old hat so we’ll skip discussing it.
+At this point the integer variable “this” has been initialized with 9.  As we can see, its value is stored at memory address 0x0090C088.  Assignment operators (see: =) are old hat so we’ll skip discussing it.
 
-CODE NOTE:  A macro was utilized to print the pointer location without adding another variable on to the stack.
+Code Note:  A macro was utilized to print the pointer location without adding another variable on to the stack.
 #define PRINT_POINTER(thing) printf(#thing “ is at %p\n”, &##thing)
 
-INSTRUCTOR NOTE:  The intent of this “memory operator” segment is to walk the students through relatively simple C code with focus on memory operators.  The visual format attempts to replicate the appearance and behavior (see below) of Visual Studio as closely as possible to aid in the learning process.  
+The intent of this “memory operator” segment is to walk through relatively simple C code with a focus on memory operators.  The visual format attempts to replicate the appearance and behavior (see below) of Visual Studio as closely as possible to aid in the learning process.  
 
-NOTE:  Student(s) may ask, “Why is it at the bottom?”  Short Answer:  Because it was placed on top of the stack.  Running Out Of Time Answer:  That question will be completely addressed in depth as part of a longer objective.  Medium Answer:  Since “this” has a storage class of “temporary” (reference: Objective (I.3.a) Functions – Scope Rules), it is “pushed” on top of the stack memory.  Long Answer:  <fill in later> *or* refer to the “Running Out Of Time Answer”
-
-DESIGN NOTE:  A certain shade of blue (Blue, Accent 2) has frequently been used to call the attention of the students to modifications in this and previous slide shows.  This “memory visualization” will use shades of red for multiple reasons.  1. Visual Studio sometimes uses this color to highlight values in the debug mode memory window.  2. “Blue, Accent 2” doesn’t look good against a black background.  3. The same shade of red (Dark Red, Background 2, Lighter 60%) was chosen to best replicate call outs in the VS memory window, be aesthetically pleasing against both a black and gray background, and match (for the sake of learning and association). 
+Note: the Memory Operator in "red" is at the bottom because it was placed on top of the stack.  Since “this” has a storage class of “temporary” (reference: Functions – Scope Rules), it is “pushed” on top of the stack memory.  
 
 ---
 ![](/assets/code_3.png)
 
-NARRATIVE:  In a similar fashion, the integer variable “that” has been initialized with 0.  As we can see, its value is stored at memory address 0x0090C07C.  Assignment operators (see: [=]) are old hat so we’ll skip discussing it.
+In a similar fashion, the integer variable “that” has been initialized with 0.  As we can see, its value is stored at memory address 0x0090C07C.  Assignment operators (see: [=]) are old hat so we’ll skip discussing it.
 
 CODE NOTE:  A macro was utilized to print the pointer location without adding another variable on to the stack.
 #define PRINT_POINTER(thing) printf(#thing “ is at %p\n”, &##thing)
