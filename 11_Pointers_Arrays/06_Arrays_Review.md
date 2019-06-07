@@ -71,7 +71,7 @@ This line of code defines an integer array of dimension 4.
 Each element of the array has been initialized with a hexadecimal value that should fill the memory space, and be easily recognizable (because they are hexspeak).  (https://en.wikipedia.org/wiki/Hexspeak)  
 
 The notes off to the side indicate that each of the memory addresses are equivalent to *&someList[]* (as appropriate).  
-For instance, *&someList[0]* is equivalent to 0x0002F320.
+For instance, *&someList[0]* is equivalent to **0x0002F320c**.
 
 ---
 
@@ -79,30 +79,27 @@ For instance, *&someList[0]* is equivalent to 0x0002F320.
 |----------------------------------------------------------------------|
 ![](/assets/Arrays_Rev_3.png)
 
-### Explaination:
-The above statement assigns the hex value 0x8BADF00D to the first element (index 0) of the someList int array.  
+The above statement assigns the hex value **0x8BADF00D** to the first element (index 0) of the someList int array.  
 
-The note off to the sde indicates tha the memory address 0x0002F320 is equivalent to &&someList[0]
+The note off to the sde indicates tha the memory address **0x0002F320** is equivalent to *&&someList[0]*
 
 ---
 
-| **Example code will be executed per line and displayed in memory** |
+| **int * someList_ptr = &someList[1];** |
 |----------------------------------------------------------------------|
 ![](/assets/Arrays_Rev_4.png)
 
-### Explaination
-
 **1.** someList_ptr is a pointer variable as indicated by the dereference operator (*) utilized in its definition. 
 
-**2.** The someList_ptr pointer variable points to an integer as indicated by the data type (int) it was declared with.  That’s the left operand of this assignment operator.  The right operand of this assignment operator, &someList[1] is also a bit complicated.  The right operand is the memory address, as indicated by the “address of” operator (&), of someList’s second element (index 1).  
+**2.** The someList_ptr pointer variable points to an integer as indicated by the data type (int) it was declared with.  That’s the left operand of this assignment operator.  The right operand of this assignment operator, *&someList[1]* is also a bit complicated.  The right operand is the memory address, as indicated by the “address of” operator (&), of someList’s second element (index 1).  
 
-* To put it all together, the memory address of someList[1] is being assigned to the integer pointer variable “someList_ptr”.
+* To put it all together, the memory address of *someList[1]* is being assigned to the integer pointer variable *someList_ptr*.
 
-* As we can see from the notes to the right of this memory visualization, &someList[1] is equivalent to 0x0002F324.  
+* As we can see from the notes to the right of this memory visualization, *&someList[1]* is equivalent to **0x0002F324**.  
 someList_ptr is defined and placed on “the stack”. 
-We can see this at memory address 0x0002F314 (as noted off to the side as &someList_ptr).  
+We can see this at memory address **0x0002F314** (as noted off to the side as *&someList_ptr*).  
 
-* The value found at memory address 0x0002F314 happens to be another memory address (which should be readily apparent becase someList_ptr is a pointer variable).
+* The value found at memory address **0x0002F314** happens to be another memory address (which should be readily apparent becase *someList_ptr* is a pointer variable).
 
 * The movie Inception was complicated to follow because of it’s multiple levels of nested plots and scenarios.  This topic is a similar when you think about it. 
 
@@ -116,29 +113,31 @@ We can see this at memory address 0x0002F314 (as noted off to the side as &someL
 |----------------------------------------------------------------------|
 ![](/assets/Arrays_Rev_5.png)
 
-### Explaination:
+The above statement dereferences the *someList_ptr* pointer variable, and assigns the value of **0xC0DEDEAD** to that memory address.  
 
-The above statement dereferences the someList_ptr pointer variable, and assigns the value of 0xC0DEDEAD to that memory address.  
-To be more explicit, someList_ptr is an integer pointer variable.  
-The memory address stored in someList_ptr currently happens to be &someList[1] (see previous slide).  
-When dereferencing this memory address, we find the value 0xC001C0DE stored there.  
-The statement listed at the top of slide assigns a new value (0xC0DEDEAD) as the value at that dereferenced memory address (*someList_ptr).
+To be more explicit, *someList_ptr* is an integer pointer variable.  
+The memory address stored in *someList_ptr* currently happens to be *&someList[1]* (see previous slide).  
+
+When dereferencing this memory address, we find the value **0xC001C0DE** stored there.  
+The statement listed at the top of slide assigns a new value (**0xC0DEDEAD**) as the value at that dereferenced memory address (*someList_ptr).
 
 ---
 
-| **Example code will be executed per line and displayed in memory** |
+**| * someList_ptr = 0xC0DEDEAD; |**
 |----------------------------------------------------------------------|
 ![](/assets/Arrays_Rev_6.png)
 
-### Explaination:
 The example above shows how an array’s name is an alias to the memory address of its first element (index 0) at the time of its definition.  
+
 **DISCLAIMER:**  An array’s pointer may be modified post-definition (see: Address Arithmetic))  
 
 Pointer arithmetic is used to reference an element after the first element.  
-Here, someList points to 0x0002F320 (the beginning of the array).  As you can see from the notes on the side, someList + 1 points to the memory address of the next element (index 1).  
-someList + 2 points to the memory address of index 2 and someList + 3 is equivalent to the memory address of the last element.  
 
-After the address arithmetic (see: someList + 2), that memory address is then dereferenced.  Lastly, the value 0x1BADD00D is assigned to the memory location pointed at by (someList + 2) because it is dereferenced.
+Here, *someList* points to **0x0002F320** (the beginning of the array).  As you can see from the notes on the side, *someList + 1* points to the memory address of the next element (index 1).  
+
+*someList + 2* points to the memory address of index 2 and *someList + 3* is equivalent to the memory address of the last element.  
+
+After the address arithmetic (see: *someList + 2*), that memory address is then dereferenced.  Lastly, the value **0x1BADD00D** is assigned to the memory location pointed at by (*someList + 2*) because it is dereferenced.
 
 ### Notice:
 
@@ -153,17 +152,32 @@ This means each integer an int pointer references takes up four bytes.  The comp
 
 ---
 
-| **Example code will be executed per line and displayed in memory** |
-|----------------------------------------------------------------------|
+**| * (someList + 2) = 0x1BADD00D; |**
+|----------------------------------|
 ![](/assets/Arrays_Rev_7.png)
 
+Above is another example of “Address Arithmetic”.  
 
+This statement is equivalent to *someList_ptr = someList_ptr + 2*.  
+Meaning… *someList_ptr* is a pointer variable and it holds the memory address of an integer.  Adding 2 to a pointer value essentially moves that memory address two “integer” “spots” in memory.  
+
+If *someList_ptr* holds the memory address of index 0, (*someList_ptr + 1*) resolves to the memory address of index 1 (regardless of the data type).  
+
+Resolution is different than assignment, however, and this example uses an assignment operator.  The memory address of index 2 is reassigned to the someList_ptr pointer variable.
+
+### Reflection
+
+It may have been easier to execute a *someList_ptr = &someList[2]* (which has the same result as *someList_ptr += 2*) but there is merit in Pointer Math.  
+Sometimes a programmer needs to utilize memory addresses that are **“near”** the current address (relative position) rather that starting at the beginning each time (absolute position).  
+
+A similar argument can be made regarding absolute and relative paths.  The honest answer is, there are situations in which absolute paths are more advantageous over relative paths.  The reverse is also true.  
+
+This example is just showcasing various methods of accessing and modifying array elements utilizing pointers.
 
 ---
 
-
-| **Example code will be executed per line and displayed in memory** |
-|----------------------------------------------------------------------|
+**| someList_ptr += 2; |**
+|----------------------------|
 ![](/assets/Arrays_Rev_8.png)
 
 
