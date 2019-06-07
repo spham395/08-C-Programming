@@ -66,69 +66,34 @@ Note: the Memory Operator in "red" is at the bottom because it was placed on top
 
 In a similar fashion, the integer variable “that” has been initialized with 0.  As we can see, its value is stored at memory address 0x0090C07C.  Assignment operators (see: [=]) are old hat so we’ll skip discussing it.
 
-CODE NOTE:  A macro was utilized to print the pointer location without adding another variable on to the stack.
-#define PRINT_POINTER(thing) printf(#thing “ is at %p\n”, &##thing)
-
-INSTRUCTOR NOTE:  The intent of this “memory operator” segment is to walk the students through relatively simple C code with focus on memory operators.  The visual format attempts to replicate the appearance and behavior (see below) of Visual Studio as closely as possible to aid in the learning process.  
-
-NOTE:  If the students haven’t already asked why the variables are showing up on the bottom, the likelihood will increase with this slide.  Short Answer:  Because it was placed on top of the stack.  Running Out Of Time Answer:  That question will be completely addressed in depth as part of a longer objective.  Medium Answer:  Since “this” has a storage class of “temporary” (reference: Objective (I.3.a) Functions – Scope Rules), it is “pushed” on top of the stack memory.  Long Answer:  <fill in later> *or* refer to the “Running Out Of Time Answer”
-
-DESIGN NOTE:  A certain shade of blue (Blue, Accent 2) has frequently been used to call the attention of the students to modifications in this and previous slide shows.  This “memory visualization” will use shades of red for multiple reasons.  1. Visual Studio sometimes uses this color to highlight values in the debug mode memory window.  2. “Blue, Accent 2” doesn’t look good against a black background.  3. The same shade of red (Dark Red, Background 2, Lighter 60%) was chosen to best replicate call outs in the VS memory window, be aesthetically pleasing against both a black and gray background, and match (for the sake of learning and association). 
-
 ---
 ![](/assets/code_4.png)
 
-NARRATIVE:  Here, a pointer variable, int_ptr, has been declared but not defined.  int_ptr will hold a memory address that contains an integer.  To be more specific, the memory address stored in int_ptr point to a memory address whose value should be interpreted as an integer.  The values found at its memory address, which we can see is 0x0090C070, are still unitialized (as indicated by the 0xCC) because it hasn’t been defined yet.  An important note here is that the “dereferencing” operator (see: [*]) has different meanings depending on it’s use.  Here, it is used to declare a pointer variable.
-
-CODE NOTE:  A macro was utilized to print the pointer location without adding another variable on to the stack.
-#define PRINT_POINTER(thing) printf(#thing “ is at %p\n”, &##thing)
-
-INSTRUCTOR NOTE:  The intent of this “memory operator” segment is to walk the students through relatively simple C code with focus on memory operators.  The visual format attempts to replicate the appearance and behavior (see below) of Visual Studio as closely as possible to aid in the learning process.  
-
-DESIGN NOTE:  A certain shade of blue (Blue, Accent 2) has frequently been used to call the attention of the students to modifications in this and previous slide shows.  This “memory visualization” will use shades of red for multiple reasons.  1. Visual Studio sometimes uses this color to highlight values in the debug mode memory window.  2. “Blue, Accent 2” doesn’t look good against a black background.  3. The same shade of red (Dark Red, Background 2, Lighter 60%) was chosen to best replicate call outs in the VS memory window, be aesthetically pleasing against both a black and gray background, and match (for the sake of learning and association). 
+Here, a pointer variable, int_ptr, has been declared but not defined.  int_ptr will hold a memory address that contains an integer.  To be more specific, the memory address stored in int_ptr point to a memory address whose value should be interpreted as an integer.  The values found at its memory address, which we can see is 0x0090C070, are still unitialized (as indicated by the 0xCC) because it hasn’t been defined yet.  An important note here is that the “dereferencing” operator (see: [*]) has different meanings depending on it’s use.  Here, it is used to declare a pointer variable.
 
 ---
 ![](/assets/code_5.png)
 
-NARRATIVE:  This line of code assigns the memory address of “this“ to the integer pointer variable “int_ptr”.  “this” is an integer variable.  “this” is currently assigned the value of 9.  “this” is currently at the memory address 0x0090C088.  In fact, operation “&this” provides the memory address of the “this” variable.  That memory address is then assigned to “int_ptr”.  Also, keep in mind that this implementation example utilizes “little endian” (see: backwards) byte ordering.
-
-CODE NOTE:  A macro was utilized to print the pointer location without adding another variable on to the stack.
-#define PRINT_POINTER(thing) printf(#thing “ is at %p\n”, &##thing)
-
-INSTRUCTOR NOTE:  The intent of this “memory operator” segment is to walk the students through relatively simple C code with focus on memory operators.  The visual format attempts to replicate the appearance and behavior (see below) of Visual Studio as closely as possible to aid in the learning process.  
-
-DESIGN NOTE:  A certain shade of blue (Blue, Accent 2) has frequently been used to call the attention of the students to modifications in this and previous slide shows.  This “memory visualization” will use shades of red for multiple reasons.  1. Visual Studio sometimes uses this color to highlight values in the debug mode memory window.  2. “Blue, Accent 2” doesn’t look good against a black background.  3. The same shade of red (Dark Red, Background 2, Lighter 60%) was chosen to best replicate call outs in the VS memory window, be aesthetically pleasing against both a black and gray background, and match (for the sake of learning and association). 
+This line of code assigns the memory address of “this“ to the integer pointer variable “int_ptr”.  “this” is an integer variable.  “this” is currently assigned the value of 9.  “this” is currently at the memory address 0x0090C088.  In fact, operation “&this” provides the memory address of the “this” variable.  That memory address is then assigned to “int_ptr”.  Also, keep in mind that this implementation example utilizes “little endian” (see: backwards) byte ordering.
 
 ---
 ![](/assets/code_6.png)
 
-NARRATIVE:  Here, we see an alternate use of the “dereference” operator.  Here, it is used to dereference the pointer variable “int_ptr”.  To “dereference” a memory address means to look at the value stored there.  The type (see: data type) of pointer determines how far to look into memory.  In this case, “int_ptr” currently holds the memory address 0x0090C088.  “int_ptr” is an integer variable.  From this implementation, we can extrapolate that integers are 4 bytes.  When you “dereference” a pointer, you view the value stored in the number of bytes as determined by the pointer type, starting at the given memory address.  Let’s walk through this statement:
+Here, we see an alternate use of the “dereference” operator.  Here, it is used to dereference the pointer variable “int_ptr”.  To “dereference” a memory address means to look at the value stored there.  The type (see: data type) of pointer determines how far to look into memory.  In this case, “int_ptr” currently holds the memory address 0x0090C088.  “int_ptr” is an integer variable.  From this implementation, we can extrapolate that integers are 4 bytes.  When you “dereference” a pointer, you view the value stored in the number of bytes as determined by the pointer type, starting at the given memory address.  
+
+Let’s walk through this statement:
 When you “dereference” a pointer… (in this case, “int_ptr”) 
-…you view the value stored… (that’s what dereferencing means)
-…in the number of bytes… (each pair of hex values represent a single byte)
-…as determined by the pointer type… (“int_ptr” is an integer pointer)
-…starting at the given memory address.  (“int_ptr” starts us off at 0x0090C088)
+  * you view the value stored… (that’s what dereferencing means)
+  * in the number of bytes… (each pair of hex values represent a single byte)
+  * as determined by the pointer type… (“int_ptr” is an integer pointer)
+  * starting at the given memory address.  (“int_ptr” starts us off at 0x0090C088)
 
 This means that “int_ptr” stores a value.  The value spans four bytes of memory since “int_ptr” is an integer pointer and integers have a width of four bytes in this implementation.  Those four bytes of “values” begin at memory address 0x0090C088 and continue through memory addresses 0x0090C089, 0x0090C08A, and 0x0090C08B.
-
-CODE NOTE:  A macro was utilized to print the pointer location without adding another variable on to the stack.
-#define PRINT_POINTER(thing) printf(#thing “ is at %p\n”, &##thing)
-
-INSTRUCTOR NOTE:  The intent of this “memory operator” segment is to walk the students through relatively simple C code with focus on memory operators.  The visual format attempts to replicate the appearance and behavior (see below) of Visual Studio as closely as possible to aid in the learning process.  
-
-DESIGN NOTE:  A certain shade of blue (Blue, Accent 2) has frequently been used to call the attention of the students to modifications in this and previous slide shows.  This “memory visualization” will use shades of red for multiple reasons.  1. Visual Studio sometimes uses this color to highlight values in the debug mode memory window.  2. “Blue, Accent 2” doesn’t look good against a black background.  3. The same shade of red (Dark Red, Background 2, Lighter 60%) was chosen to best replicate call outs in the VS memory window, be aesthetically pleasing against both a black and gray background, and match (for the sake of learning and association). 
 
 ---
 ![](/assets/code_7.png)
 
-NARRATIVE:  This line assigns 1 to a “dereferenced” “int_ptr”.  To be more specific, the value of 1 is assigned to memory location indicated by “int_ptr”.  It is very important to remember that the “dereference” operator has two uses.  1.  When used to declare a variable, it indicates that variable is a pointer variable and will hold a memory address.  2. When used in conjunction with a pointer variable, it is used to view/modify the value found at the address of that pointer variable.
-
-CODE NOTE:  A macro was utilized to print the pointer location without adding another variable on to the stack.
-#define PRINT_POINTER(thing) printf(#thing “ is at %p\n”, &##thing)
-
-INSTRUCTOR NOTE:  The intent of this “memory operator” segment is to walk the students through relatively simple C code with focus on memory operators.  The visual format attempts to replicate the appearance and behavior (see below) of Visual Studio as closely as possible to aid in the learning process.  
-
-DESIGN NOTE:  A certain shade of blue (Blue, Accent 2) has frequently been used to call the attention of the students to modifications in this and previous slide shows.  This “memory visualization” will use shades of red for multiple reasons.  1. Visual Studio sometimes uses this color to highlight values in the debug mode memory window.  2. “Blue, Accent 2” doesn’t look good against a black background.  3. The same shade of red (Dark Red, Background 2, Lighter 60%) was chosen to best replicate call outs in the VS memory window, be aesthetically pleasing against both a black and gray background, and match (for the sake of learning and association). 
+This line assigns 1 to a “dereferenced” “int_ptr”.  To be more specific, the value of 1 is assigned to memory location indicated by “int_ptr”.  It is very important to remember that the “dereference” operator has two uses.  1.  When used to declare a variable, it indicates that variable is a pointer variable and will hold a memory address.  2. When used in conjunction with a pointer variable, it is used to view/modify the value found at the address of that pointer variable.
 
 ---
 ### Demonstration Lab - Memory Operators
