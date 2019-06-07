@@ -55,51 +55,58 @@ The first line was a comment so we’ll take this opportunity to setup our memor
 
 | **Example code will be executed per line and displayed in memory** |
 |----------------------------------------------------------------------|
-![](/assets/Array_Rev_1.png)
+
+![](/assets/Arrays_Rev_1.png)
 
 ---
 
 | **Example code will be executed per line and displayed in memory** |
 |----------------------------------------------------------------------|
 
-![](/assets/Array_Rev_2.png)
+![](/assets/Arrays_Rev_2.png)
 
 ---
 
 | **Example code will be executed per line and displayed in memory** |
 |----------------------------------------------------------------------|
-![](/assets/Array_Rev_3.png)
+
+![](/assets/Arrays_Rev_3.png)
 
 ---
 
 | **Example code will be executed per line and displayed in memory** |
 |----------------------------------------------------------------------|
-![](/assets/Array_Rev_4.png)
+
+![](/assets/Arrays_Rev_4.png)
 
 ---
 
 | **Example code will be executed per line and displayed in memory** |
 |----------------------------------------------------------------------|
-![](/assets/Array_Rev_5.png)
+
+![](/assets/Arrays_Rev_5.png)
 
 ---
 
 | **Example code will be executed per line and displayed in memory** |
 |----------------------------------------------------------------------|
-![](/assets/Array_Rev_6.png)
+
+![](/assets/Arrays_Rev_6.png)
 
 ---
 
 | **Example code will be executed per line and displayed in memory** |
 |----------------------------------------------------------------------|
-![](/assets/Array_Rev_7.png)
+
+![](/assets/Arrays_Rev_7.png)
 
 ---
 
 
 | **Example code will be executed per line and displayed in memory** |
 |----------------------------------------------------------------------|
-![](/assets/Array_Rev_8.png)
+
+![](/assets/Arrays_Rev_8.png)
 
 
 
