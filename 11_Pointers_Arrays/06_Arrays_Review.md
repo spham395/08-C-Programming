@@ -38,66 +38,124 @@ int * someList_ptr = &someList[1];	// By pointer referenc...
 someList_ptr += 2;			// ...AKA Address arithmetic
 * someList_ptr = 0xDEADBEEF;		// Dereference a pointer
 ```
-|At definition, an array name is a pointer to the first index|
+|**At definition, an array name is a pointer to the first index**|
 |------------------------------------------------------------|
 
----
 * The above code is the combined from the next eight examples.  Prior to reviewing this code, complete with memory visualization, review this combined code to determine what happens and how it happens.  
 * The banner at the bottom says “at definition” because an array name can be modified to point at another memory address.  
 * When an array is first defined, the name of the array acts as a pointer variable. This pointer variable points to the first element (index 0) of the array.  It can be dereferenced, incremented or decremented.  This pointer is guaranteed to *always* point to the first index (as we will explore during the “Address Arithmetic” section).
 
 ---
-
-**Stepping through the code**  (shown above):
+### Stepping through the code  (shown above):
 The first line was a comment so we’ll take this opportunity to setup our memory visualization.  As before, the 0xCC hex values represent uninitialized memory values in Visual Studio’s debug mode.  The notes in the grey box off to the represent are interpretations of the memory address(es) they’re lined up with, not the values found within.
 
 ---
-
 | **Example code will be executed per line and displayed in memory** |
 |----------------------------------------------------------------------|
-
 ![](/assets/Arrays_Rev_1.png)
 
+The first line was a comment, so we’ll take this opportunity to setup our memory visualization.  
+As before, the **0xCC** hex values represent *Uninitialized* memory values in Visual Studio’s debug mode.  The notes in the grey box off to the represent are interpretations of the memory address(es) they’re lined up with, not the values found within.
+
+Note: Four different methods will be used to modify the elements of the someList integer array in order to showcase some new methods of utilizing pointers and pointer operators used to access/modify arrays.
+
+**Easter Egg**: The first memory address (0x0002F2F4) is a very subtle reference to *Too Fast, Too Furious 4*.
+
 ---
 
-| **Example code will be executed per line and displayed in memory** |
+| **int someList[] = { 0xFEEDFACE, 0xC001C0DE, 0xCAFEF00D, 0xFACEB00C };** |
 |----------------------------------------------------------------------|
-
 ![](/assets/Arrays_Rev_2.png)
 
+This line of code defines an integer array of dimension 4.  
+Each element of the array has been initialized with a hexadecimal value that should fill the memory space, and be easily recognizable (because they are hexspeak).  (https://en.wikipedia.org/wiki/Hexspeak)  
+
+The notes off to the side indicate that each of the memory addresses are equivalent to *&someList[]* (as appropriate).  
+For instance, *&someList[0]* is equivalent to 0x0002F320.
+
 ---
 
-| **Example code will be executed per line and displayed in memory** |
+| **someList[0] = 0x8BADF00D;** |
 |----------------------------------------------------------------------|
-
 ![](/assets/Arrays_Rev_3.png)
 
+### Explaination:
+The above statement assigns the hex value 0x8BADF00D to the first element (index 0) of the someList int array.  
+
+The note off to the sde indicates tha the memory address 0x0002F320 is equivalent to &&someList[0]
+
 ---
 
 | **Example code will be executed per line and displayed in memory** |
 |----------------------------------------------------------------------|
-
 ![](/assets/Arrays_Rev_4.png)
 
+### Explaination
+
+**1.** someList_ptr is a pointer variable as indicated by the dereference operator (*) utilized in its definition. 
+
+**2.** The someList_ptr pointer variable points to an integer as indicated by the data type (int) it was declared with.  That’s the left operand of this assignment operator.  The right operand of this assignment operator, &someList[1] is also a bit complicated.  The right operand is the memory address, as indicated by the “address of” operator (&), of someList’s second element (index 1).  
+
+* To put it all together, the memory address of someList[1] is being assigned to the integer pointer variable “someList_ptr”.
+
+* As we can see from the notes to the right of this memory visualization, &someList[1] is equivalent to 0x0002F324.  
+someList_ptr is defined and placed on “the stack”. 
+We can see this at memory address 0x0002F314 (as noted off to the side as &someList_ptr).  
+
+* The value found at memory address 0x0002F314 happens to be another memory address (which should be readily apparent becase someList_ptr is a pointer variable).
+
+* The movie Inception was complicated to follow because of it’s multiple levels of nested plots and scenarios.  This topic is a similar when you think about it. 
+
+* *someList_ptr* is a "pointer variable" stored at *&someList_ptr*,  which currently contains the memory address to *&someList[1]*.  
+
+**Note:** Looking in memory, we see a memory address whose value is a memory address.
+
 ---
 
-| **Example code will be executed per line and displayed in memory** |
+| **someList_ptr = 0xC0DEDEAD;** |
 |----------------------------------------------------------------------|
-
 ![](/assets/Arrays_Rev_5.png)
 
+### Explaination:
+
+The above statement dereferences the someList_ptr pointer variable, and assigns the value of 0xC0DEDEAD to that memory address.  
+To be more explicit, someList_ptr is an integer pointer variable.  
+The memory address stored in someList_ptr currently happens to be &someList[1] (see previous slide).  
+When dereferencing this memory address, we find the value 0xC001C0DE stored there.  
+The statement listed at the top of slide assigns a new value (0xC0DEDEAD) as the value at that dereferenced memory address (*someList_ptr).
+
 ---
 
 | **Example code will be executed per line and displayed in memory** |
 |----------------------------------------------------------------------|
-
 ![](/assets/Arrays_Rev_6.png)
 
+### Explaination:
+The example above shows how an array’s name is an alias to the memory address of its first element (index 0) at the time of its definition.  
+**DISCLAIMER:**  An array’s pointer may be modified post-definition (see: Address Arithmetic))  
+
+Pointer arithmetic is used to reference an element after the first element.  
+Here, someList points to 0x0002F320 (the beginning of the array).  As you can see from the notes on the side, someList + 1 points to the memory address of the next element (index 1).  
+someList + 2 points to the memory address of index 2 and someList + 3 is equivalent to the memory address of the last element.  
+
+After the address arithmetic (see: someList + 2), that memory address is then dereferenced.  Lastly, the value 0x1BADD00D is assigned to the memory location pointed at by (someList + 2) because it is dereferenced.
+
+###Notice:
+
+You may have noticed that 0x0002F320 + 2 is 0x0002F322 as opposed to 0x0002F328.  
+
+In fact, 0x0002F320 + 2 ≠ 0x0002F328 in *math* math.  This is *pointer* math (AKA Address Arithmetic).  
+someList is a pointer variable of data type int.  This implementation provides four bytes of memory space to a single int.  
+
+This means each integer an int pointer references takes up four bytes.  The compiler knows this and the language has abstracted “pointer math” (AKA Address Arithmetic) to (supposedly) make life easier on the programmer.  someList + 2 (in Address Arithmetic) is equivalent to (someList + (2 * sizeof(int)) in *real* math.  
+This disparity is covered in more depth in the **“Address Arithmetic”** section.  
+
+When reviewing the Address Arithmetic portion of training, refering to this slide could be a good way of introducing yourself to the concept.  
+
 ---
 
 | **Example code will be executed per line and displayed in memory** |
 |----------------------------------------------------------------------|
-
 ![](/assets/Arrays_Rev_7.png)
 
 ---
@@ -105,7 +163,6 @@ The first line was a comment so we’ll take this opportunity to setup our memor
 
 | **Example code will be executed per line and displayed in memory** |
 |----------------------------------------------------------------------|
-
 ![](/assets/Arrays_Rev_8.png)
 
 
