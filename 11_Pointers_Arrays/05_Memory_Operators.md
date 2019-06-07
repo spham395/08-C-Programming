@@ -3,7 +3,7 @@
 ---
 
 # Memory Operators
-# UNDER CONSTRUCTION - has much editing requirments and instructor notes:
+
 ---
 
  |Operator | Meaning | Example | Result for each bit pos
