@@ -108,5 +108,9 @@ This line assigns 1 to a “dereferenced” “int_ptr”.  To be more specific,
 * Compare var1 to var2 and print human-readable results
 
 ---
+### Performance LAB
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/11_Pointers_Arrays/06_double-pointers.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+* Continue to Performance Lab 1 - Memory Operators "Reference Not Found"
+
+---
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/11_Pointers_Arrays/performance_labs/PerfLab_Mem_Op.md" > Continue to performance Lab 1 </a>
