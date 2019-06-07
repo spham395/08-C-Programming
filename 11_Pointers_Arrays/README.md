@@ -9,12 +9,13 @@
 * Endianness
 * Memory Visualization
 * Memory Operators
-* Arrays
+* Arrays Review
 * Address Arithmetic
 * Function Arguments
 * Pointer Arrays
 * Multi-Dimensional Arrays
 * Function Pointers
+* Double Pointers
 
 ## DISCLAIMER:
 
