@@ -56,7 +56,7 @@ The first line was a comment so we’ll take this opportunity to setup our memor
 | **Example code will be executed per line and displayed in memory** |
 |----------------------------------------------------------------------|
 
-![](//11_Pointers_Arrays/assets/Arrays_Rev_1.png)
+![](//assets/Arrays_Rev_1.png)
 
 ---
 
