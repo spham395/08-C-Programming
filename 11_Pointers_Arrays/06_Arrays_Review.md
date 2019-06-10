@@ -176,8 +176,8 @@ This example is just showcasing various methods of accessing and modifying array
 
 ---
 
-**
-| * someList_ptr += 2; ** |
+
+| * someList_ptr = 0xDEADBEEF; |
 |----------------------------|
 ![](/assets/Arrays_Rev_8.png)
 
