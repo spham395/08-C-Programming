@@ -123,7 +123,7 @@ The statement listed at the top of slide assigns a new value (**0xC0DEDEAD**) as
 
 ---
 
-| **    * someList_ptr = 0xC0DEDEAD;** |
+|* someList_ptr = 0xC0DEDEAD; |
 |----------------------------------------------------------------------|
 ![](/assets/Arrays_Rev_6.png)
 
@@ -152,7 +152,7 @@ This means each integer an int pointer references takes up four bytes.  The comp
 
 ---
 
-|**  * (someList + 2) = 0x1BADD00D; **|
+|**(someList + 2) = 0x1BADD00D;** |
 |----------------------------------|
 ![](/assets/Arrays_Rev_7.png)
 
@@ -176,7 +176,8 @@ This example is just showcasing various methods of accessing and modifying array
 
 ---
 
-**| someList_ptr += 2; |**
+**
+| * someList_ptr += 2; ** |
 |----------------------------|
 ![](/assets/Arrays_Rev_8.png)
 
