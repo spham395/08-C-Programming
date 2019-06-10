@@ -105,7 +105,7 @@ We can see this at memory address **0x0002F314** (as noted off to the side as *&
 
 * *someList_ptr* is a "pointer variable" stored at *&someList_ptr*,  which currently contains the memory address to *&someList[1]*.  
 
-**Note:** Looking in memory, we see a memory address whose value is a memory address.
+**Note:** Looking in memory, we see a memory address whose value **is** a memory address.
 
 ---
 
@@ -123,7 +123,7 @@ The statement listed at the top of slide assigns a new value (**0xC0DEDEAD**) as
 
 ---
 
-**| * someList_ptr = 0xC0DEDEAD; |**
+| **    * someList_ptr = 0xC0DEDEAD;** |
 |----------------------------------------------------------------------|
 ![](/assets/Arrays_Rev_6.png)
 
@@ -144,7 +144,7 @@ After the address arithmetic (see: *someList + 2*), that memory address is then 
 You may have noticed that **0x0002F320** + 2 is **0x0002F322** as opposed to **0x0002F328**.  
 
 In fact, **0x0002F320** + 2 ≠ **0x0002F328** in *math* math.  
-This is *pointer* math (AKA Address Arithmetic).  someList is a pointer variable of data type int.  This implementation provides four bytes of memory space to a single int.  
+This is *pointer* math (AKA Address Arithmetic).  *someList* is a pointer variable of data type int.  This implementation provides four bytes of memory space to a single int.  
 
 This means each integer an int pointer references takes up four bytes.  The compiler knows this and the language has abstracted “pointer math” (AKA Address Arithmetic) to (supposedly) make life easier on the programmer.  someList + 2 (in Address Arithmetic) is equivalent to (someList + (2 * sizeof(int)) in *real* math.  
 
@@ -152,7 +152,7 @@ This means each integer an int pointer references takes up four bytes.  The comp
 
 ---
 
-**| * (someList + 2) = 0x1BADD00D; |**
+|**  * (someList + 2) = 0x1BADD00D; **|
 |----------------------------------|
 ![](/assets/Arrays_Rev_7.png)
 
