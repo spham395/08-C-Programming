@@ -181,6 +181,29 @@ This example is just showcasing various methods of accessing and modifying array
 |----------------------------|
 ![](/assets/Arrays_Rev_8.png)
 
+This statement dereferences the memory address stored in the integer pointer variable “someList_ptr”.  At this point in the code, the memory someList_ptr still contains the memory address of someList[3] (see previous slide).  This means, 0xDEADBEEF will be assigned to the memory location of someList[3].
+
+| Comments |
+|----------|
+
+```
+/* Example code will be executed per line and displayed in memory */
+
+/* Define an integer array */
+int someList[] = { 0xFEEDFACE, 0XC001C0DE, 0xCAFEF00D, )xFACEB00C };
+/* Assign a value to index 0 */
+someList[0] = 0x8BADF00D;   // Normal
+/* Assign index 1's memory address to an interger pointer variable */
+int * someList_ptr - &someList[1];  //By pointer reference...
+/* Assign a value to this dereferenced pointer variable address */
+*someList_ptr = 0xC0DEDEAD;		// …and then dereferencing it
+/* Dereference and change the third memory address of this array */
+*(someList + 2) = 0x1BADD00D;		// Array name pointer math…
+/* Increment & assign the current memory address by two ints */
+someList_ptr += 2;			// …AKA Address arithmetic
+/* Dereference this memory address and assign the value */
+*someList_ptr = 0xDEADBEEF;		// Dereference a pointer
+```
 
 
 
