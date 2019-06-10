@@ -44,7 +44,7 @@ int * someNums_ptr = someNums;  //Points at &someNums[0]
 ```
 
 2. Array Name Math - Array names are converted to pointers
- * An arrays name is not a variable 1<sup>
+ * An arrays name is not a variable<sup>1</sup> text
 
 
 
