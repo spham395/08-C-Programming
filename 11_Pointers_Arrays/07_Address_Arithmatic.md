@@ -44,8 +44,55 @@ int * someNums_ptr = someNums;  //Points at &someNums[0]
 ```
 
 2. Array Name Math - Array names are converted to pointers
- * An arrays name is not a variable<sup>1</sup> text
+ * An arrays name is not a variable<sup>1</sup>
+ * You may not change an array's pointer
+ * You may, reference an array's pointer
 
+```
+//array is equivalant to &
+array[0]
+*someNums = 1;   // someNums[0] == 1
+//array[i] is equivalent to *(array + i)
+
+*(someNums + 4) = 2;    // someNums[4] == 2
+// &array[i] is equivalent to (array + i)
+someNums_ptr = someNums + 3;   // Pointer now set to &someNums[3]
+
+```
+
+| <sup>1</sup>The terms and conditions of this statemen are subject to change at any time |
+|-----------------------------------------------------------------------------------------|
+ 
+---
+
+3. Pointers vs Integers - Pointers and integers are not interchangeable
+  * Memory addresses are essentially large integers...
+  * ...*but* pointers do not have the same data type
+  * A pointer's type depends on what it points to
+  * Type casting is allowed but *dangerous*
+  
+  |int * someNums_ptr = (int * )0x1234;   //BAD!!1!11!!!eleven!! |
+  |--------------------------------------------------------------|
+  
+  * Zero (0) is the sole exception to this rule.
+  
+  ```
+  /* The constant zero (0) may be assigned to a pointer */
+int * someNums_ptr = 0;	// More or less equivalent to NULL
+/* A pointer may be compared with the constant zero */
+if (someNums_ptr != 0)		// If someNums_ptr is not NULL…
+{
+    // …then safely utilize it knowing it points to a valid object
+}
+
+```
+
+**Note:** 1 - Type casting integers to pointers is a dangerous practice in C programming.  Arbitrary pointer casting allows you to point anywhere in memory.
+
+**Note:** 2 - As discussed earlier, NULL is a MACRO constant that is type cast as some variant of 0. ((char * )0) and (( void * )0) are both common.
+
+
+  
 
 
 
