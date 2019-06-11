@@ -20,5 +20,20 @@ A good analogy for the difference between “pass by value” and “pass by ref
 
 ---
 
+|Pass by Value|  | Pass by Reference|
+|-------------|  |-------------------|
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/11_Pointers_Arrays/09_Pointer_Arrays.md"> Continue to Next Topic </a>
