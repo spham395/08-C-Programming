@@ -22,7 +22,7 @@ A good analogy for the difference between “pass by value” and “pass by ref
 
 |##Pass by Value                                ## Pass by Reference  |
 
-![](/assets/Function_1.png)
+![](/assets/Functional_Arg1.png)
 
 
 
