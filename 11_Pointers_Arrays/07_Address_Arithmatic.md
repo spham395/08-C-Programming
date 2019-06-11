@@ -149,4 +149,4 @@ int * moreNums_ptr = (someNums + 2);  // Points at &someNums[2]
  ---
  **Continue to Performance Lab - String Splitter**
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/11_Pointers_Arrays/performance_lab/PerLab_string_Spltter.md"> Continue to String Splitter Lab </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/11_Pointers_Arrays/performance_labs/PerLab_string_Spltter.md"> Continue to String Splitter Lab </a>
