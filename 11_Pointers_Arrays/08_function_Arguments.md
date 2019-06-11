@@ -64,9 +64,9 @@ Focus the discussion to topics such as scope.
 void swap_em(int a, int b)
 {
     int temp = *a;                           x = 9
-    *a = *b;                                  y = 0
+    *a = *b;                                 y = 0
     *b = temp;                               x = 0
-    return;                                 y = 9
+    return;                                  y = 9
 }
 int main(void)
 {
