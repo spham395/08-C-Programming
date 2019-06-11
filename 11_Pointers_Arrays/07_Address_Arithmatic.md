@@ -12,11 +12,18 @@
 * **Pointer vs Integers**
 * **Pointers vs Relational Operators**
 
+
+
+
 ---
 
 ### Introductory Question: 
 
 * How is it that 0x0002F320 + 2 == 0x0002F328? (Clue: previous topic)
+
+
+
+
 
 ---
 
@@ -25,7 +32,7 @@ int someNums[5] = { 0, 1, 2, 3, 4};  // int array of dimensions 5
 int * someNums_ptr = someNums;   // Points at &someNums[0]
 ```
 
-1. Incrementing/ Decrementing/ Adding/ Subtracting Pointers - Pointer variables may be increased and decreased to modify a memory address.
+**Incrementing/ Decrementing/ Adding/ Subtracting Pointers** - Pointer variables may be increased and decreased to modify a memory address.
 
 ```
 // ptr++ increments ptr to point to the next element 
@@ -45,7 +52,7 @@ int someNums[5] = { 0, 1, 2, 3, 4 };  // int array of dimension 5
 int * someNums_ptr = someNums;  //Points at &someNums[0]
 ```
 
-2. Array Name Math - Array names are converted to pointers
+**Array Name Math** - Array names are converted to pointers
  * An arrays name is not a variable<sup>1</sup>
  * You may not change an array's pointer
  * You may, reference an array's pointer
@@ -67,7 +74,7 @@ someNums_ptr = someNums + 3;   // Pointer now set to &someNums[3]
  
 ---
 
-3. Pointers vs Integers - Pointers and integers are not interchangeable
+**Pointers vs Integers** - Pointers and integers are not interchangeable
   * Memory addresses are essentially large integers...
   * ...*but* pointers do not have the same data type
   * A pointer's type depends on what it points to
@@ -93,9 +100,53 @@ if (someNums_ptr != 0)		// If someNums_ptr is not NULL…
 
 **Note:** 2 - As discussed earlier, NULL is a MACRO constant that is type cast as some variant of 0. ((char * )0) and (( void * )0) are both common.
 
+---
 
+```
+int someNums[5] = { 0, 1, 2, 3, 4 };  // int array of dimension 5
+int  * someNums_ptr = someNums;       // Points at &someNums[0]
+int * moreNums_ptr = (someNums + 2);  // Points at &someNums[2]
+```
+
+**Pointers vs Relational Operators**
+  * Memory addresses may be compared against each other if ...
+  * ...they are of the same data type
+  * These comparisons are essentially meaningless unless both addresses point to the same array
   
+  ```
+  if (moreNums_ptr > someNums_ptr)
+  {
+      Printf("%d comes after %d \n", *moreNums_ptr, *someNums_ptr);
+  }
+  ```
+  
+  ---
+  
+  **Upcoming Discussions**
+  * Incrementing/Decrementing/Adding/Subjecting Pointers
+  * Array Name Math
+  * Pointers vs Integers
+  * Pointers vs Relational Operators
+    
+  ---
+  
+  **Demonstration Lab**
+  "The Little Integer That Could"
+  ```
+  int * find_smallest_natural_number(int * intArray_ptr, int arraySize);
+  ```
+ * Return value - int pointer to the smallest natural number found in the array at intArray_ptr
+ * Parameters - 
+   * intArray_ptr - Pointer to an array of integers...
+   * arraySize - ...of this dimension
+ * Purpose - find the smallest natural number
+ * Requirements
+   * Return NULL **if** intArray_ptr is NULL
+   * Return NULL **if** arraySize is unrealistic
+   
+ **Note** - For the purposes of this lab, “natural number” is defined as a whole, positive integer greater than zero [1,2,3,4…]
+ 
+ ---
+ **Continue to Performance Lab - String Splitter**
 
-
-
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/11_Pointers_Arrays/08_function_Arguments.md"> Continue to Next Topic </a>
+<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/11_Pointers_Arrays/08_function_Arguments.md"> Continue to String Splitter Lab </a>
