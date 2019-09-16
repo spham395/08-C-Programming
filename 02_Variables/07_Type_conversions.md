@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Type Conversions
 
@@ -60,7 +63,5 @@ Type cast and print the following:
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/02_Variables/performance_labs/lab2.md" rel="PERFORMANCE LAB 2"> PERFORMANCE LAB 2 </a>
-
-
-
+|[Demonstration Lab 2](/02_Variables/performance_labs/lab2.md)|
+|---|
