@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # C Language Features
 
@@ -60,8 +63,6 @@ struct birthday {
 ```
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/01_Introduction/03_C-specifics.md" > Continue to Next Topic </a>
 
-
-
-
+|[Next Topic](/01_Introduction/03_C-specifics.md)|
+|---|
