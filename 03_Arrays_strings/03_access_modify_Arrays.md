@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Access & Modify Arrays
 
@@ -93,4 +96,9 @@ There are much more efficient ways to iterate through an array such as loops (wh
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/03_Arrays_strings/performance_labs/lab3/lab3.md" rel="PERFORMANCE LAB 3"> PERFORMANCE LAB 3 </a>
+**Complete Performance Lab 3**
+
+---
+
+|[Performance Lab 3](/03_Arrays_strings/performance_labs/lab3/lab3.md)|
+|---|
