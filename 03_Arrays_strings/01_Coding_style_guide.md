@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Coding Style Guide
 
@@ -33,4 +36,7 @@ int main(void)
 }
 ```
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/03_Arrays_strings/02_Arrays.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+---
+
+|[Next Topic](/03_Arrays_strings/02_Arrays.md)|
+|---|
