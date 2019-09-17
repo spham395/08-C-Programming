@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # STACK Based Memory
 
@@ -70,4 +73,5 @@ TEMPORARY class variables
  
  ---
  
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/13_Memory_Management/03_heap_memory.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Next Topic](/13_Memory_Management/03_heap_memory.md)|
+|---|
