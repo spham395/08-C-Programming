@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # File I/O
 
@@ -31,4 +34,5 @@ In this chapter, we will re-iterate our Coding style expectations and presentati
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/12_IO_part_2/01_file_data_type.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Next Topic](/12_IO_part_2/01_file_data_type.md)|
+|---|
