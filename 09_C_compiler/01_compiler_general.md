@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Definitions
 
@@ -40,4 +43,5 @@ Produced as the output of the linker. The linker "links" one or more object file
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/09_C_compiler/02_compilation_process.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Next Topic](/09_C_compiler/02_compilation_process.md)|
+|---|
