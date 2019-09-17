@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Related Functions:
 
@@ -227,8 +230,10 @@ int main(void)
 
 <a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/12_IO_part_2/performance_labs/PL_content_copy_line.md" rel="Content Copy Line"> Content Copy Line </a>
 
+
 ---
 
 **Performance Lab:** USERNAMES
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/12_IO_part_2/performance_labs/PL_usernames.md" rel="USERNAMES"> USERNAMES </a>
+|[Usernames](/12_IO_part_2/performance_labs/PL_usernames.md)|
+|---|
