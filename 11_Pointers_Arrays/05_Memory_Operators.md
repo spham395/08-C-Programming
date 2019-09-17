@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -112,4 +113,5 @@ This line assigns 1 to a “dereferenced” “int_ptr”.  To be more specific,
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/11_Pointers_Arrays/performance_labs/PerfLab_Mem_Op.md" > Continue to PerfLab - Reference Not Found </a>
+|[Performance Lab](/11_Pointers_Arrays/performance_labs/PerfLab_Mem_Op.md)|
+|---|
