@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # errno.h
 
@@ -124,5 +127,10 @@ void error_reporting(int currErrno)
 }
 ```
 ---
+
 ### PERFORMANCE LAB - ERRNO
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/15_Error_handling/Performance_Labs/Lab_errno.md" rel="ERRNO"> ERRNO </a>
+
+---
+
+|[Performance Lab ERRNO](/15_Error_handling/Performance_Labs/Lab_errno.md)|
+|---|
