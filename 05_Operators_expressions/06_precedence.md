@@ -60,4 +60,5 @@ x = 9; y = 3;
 |[Performance Lab 9](/05_Operators_expressions/performance_labs/Lab9.md)|
 |---|
 
+
 #### NOTE: Best practice is to be explicit with parentheses
