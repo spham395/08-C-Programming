@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Struct Visualization
 
@@ -34,4 +37,5 @@ char * split_the_string(char * string_ptr, char delimiter);
 
 ### COMPLETE PERFORMANCE LAB - Lab surfinbird
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/14_Structs/performance_labs/Lab_surfinbird.md" rel="Lab surfinbird"> Lab surfinbird </a>
+|[Performance Lab](/14_Structs/performance_labs/Lab_surfinbird.md)|
+|---|
