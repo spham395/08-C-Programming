@@ -28,7 +28,4 @@ Please continue to practice C Programming.  There are several useful online site
 
 **End of C Programming**
 
-|[Go To Assembly](../06-Debugging-Assembly/blob/master/00-Table-of-Contents.md)|
-|---|
-
 <a href="https://github.com/CyberTrainingUSAF/01-Course-Introduction-and-setup/blob/master/README.md"> Return to Course introduction </a>
