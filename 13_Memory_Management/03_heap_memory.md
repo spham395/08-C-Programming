@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # HEAP Based Memory
 
@@ -63,4 +66,6 @@ C standard library functions to request blocks of memory.
 Blocks no longer required must be returned to the OS. (memory leaks)
  
 --- 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/13_Memory_Management/04_c_standard_lib.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+
+|[Next Topic](/13_Memory_Management/04_c_standard_lib.md)|
+|---|
