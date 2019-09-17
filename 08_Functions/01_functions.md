@@ -78,5 +78,6 @@ void my_function(void)                  //function definition
 
 ---
 
-|[Next Topic](/08_Functions/01_functions.md)|
+|[Next Topic](/08_Functions/02_function_basics.md)|
 |---|
+
