@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Linked Lists
 
@@ -183,5 +186,7 @@ void spillList(node *n)
 ---
 ### COMPLETE PERFORMANCE LAB - Linked List
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/14_Structs/performance_labs/Lab_Linked_list.md" rel="Linked List"> Linked List </a>
+---
 
+|[Performance Lab Linked List](/14_Structs/performance_labs/Lab_Linked_list.md)|
+|---|
