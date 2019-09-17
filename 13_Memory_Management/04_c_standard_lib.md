@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # C standard library functions
 
@@ -258,5 +261,9 @@ int main(void)
 
 ### COMPLETE PEFORMANCE LAB - Haystack Needle 1
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/13_Memory_Management/performance_labs/Lab_Haystack_Needle.md" rel="Haystack Needle"> Haystack Needle </a>
+
+---
+
+|[Performance Lab Haystack Needle](/13_Memory_Management/performance_labs/Lab_Haystack_Needle.md)|
+|---|
 
