@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Basic I/O: getchar\(\) & putchar\(\)
 
@@ -58,6 +61,8 @@ putchar(userInput);               // Prints output
 * Enter a character: **JasV**
 
 ---
-# Complete Performance Lab 5
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/04_IO_part_1/performance_labs/lab5/lab5.md" rel="PERFORMANCE LAB 5"> PERFORMANCE LAB 5 </a>
+## Complete Performance Lab 5
+
+|[Performance Lab 5](/04_IO_part_1/performance_labs/lab5/lab5.md)|
+|---|
