@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Assignment Operators
 
@@ -56,4 +59,5 @@ x -= y++
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/05_Operators_expressions/06_precedence.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+|[Next Topic](/05_Operators_expressions/06_precedence.md)|
+|---|
