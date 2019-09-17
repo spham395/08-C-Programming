@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Formatted I/O
 
@@ -139,5 +142,5 @@ scanf(“%64[^e\n]s”, Gadsby);     // Stops reading at first e or newline
 
 ## Complete Performance Lab 8
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/04_IO_part_1/performance_labs/lab8/lab8.md" rel="PERFORMANCE LAB 8"> PERFORMANCE LAB 8 </a>
-
+|[Performance Lab 8](/04_IO_part_1/performance_labs/lab8/lab8.md)|
+|---|
