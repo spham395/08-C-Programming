@@ -1,6 +1,9 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
-# Lab 5: Basic I/O Pt 1
+---
+
+## Lab 5: Basic I/O Pt 1
 
 Work with each other! It is encouraged throughout the entire course.
 
@@ -35,5 +38,5 @@ putchar(yourVar + 1);
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/04_IO_part_1/04_getc-putc.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
-
+|[Next Topic](/04_IO_part_1/04_getc-putc.md)|
+|---|
