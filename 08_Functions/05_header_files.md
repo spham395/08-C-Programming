@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Header Files
 
@@ -201,5 +204,5 @@ extern int print_the_count(char * inputString, int strLen)
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/08_Functions/06_recursion.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
- 
+|[Next Topic](/08_Functions/06_recursion.md)|
+|---| 
