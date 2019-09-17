@@ -1,4 +1,5 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
 
 ---
 
@@ -74,6 +75,8 @@ The data in memmory is where the memory visualization differs from Visual Studio
 * Answer:  00	
 * Answer:  0x0090C088	
 * Answer:  0x0090C055, 0x0090C073, and 0x0090C08B
+
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/11_Pointers_Arrays/05_Memory_Operators.md"> Continue to Next Topic </a>
+|[Next Topic](/11_Pointers_Arrays/05_Memory_Operators.md)|
+|---|
