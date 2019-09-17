@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Manual Linking
 
@@ -79,4 +82,6 @@ Add the .obj to your project as an "existing item"
 
 ## COMPLETE PERFORMANCE LAB 23
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/09_C_compiler/performance_labs/Lab23.md" rel="PERFORMANCE LAB 23"> PERFORMANCE LAB 23 </a>
+
+|[Performance Lab 23](/09_C_compiler/performance_labs/Lab23.md)|
+|---|
