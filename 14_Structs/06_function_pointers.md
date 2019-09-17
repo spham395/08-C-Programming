@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Function Pointers and OOC
 
@@ -28,4 +31,6 @@ case3.results = case3.mathFunc_ptr(case3.num1, case3.num2);
 ```
 
 ---
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/15_Error_handling/README.md" rel="Continue to Next Topic"> Continue to Next Topic </a>
+
+|[Next Topic](/15_Error_handling/README.md)|
+|---|
