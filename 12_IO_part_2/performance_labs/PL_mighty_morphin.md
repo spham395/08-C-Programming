@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/12_IO_part_2/02_related_functions.md" rel="Return to TOPIC"> Return to TOPIC </a>
+|[Return to Topic](/12_IO_part_2/02_related_functions.md)| [Table of Contents](/00-Table-of-Contents.md)|
+|---|---|
+
+---
 
 ## PERORMANCE LAB: MIGHTY MORHPIN'
 
@@ -16,4 +19,5 @@ Save the lyrics for the Mighty Morphin' Power Rangers theme song into a text fil
 
 ---
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/12_IO_part_2/performance_labs/PL_your_song.md" rel="Continue to Next Lab"> Continue to Lab Your Song </a>
+|[Next Lab Your Song](/12_IO_part_2/performance_labs/PL_your_song.md)|
+|---|
