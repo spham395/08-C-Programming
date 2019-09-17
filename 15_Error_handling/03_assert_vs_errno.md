@@ -1,4 +1,7 @@
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/00-Table-of-Contents.md" rel="Return to TOC"> Return to TOC </a>
+|[Table of Contents](/00-Table-of-Contents.md)|
+|---|
+
+---
 
 # Assert vs Errno
 
@@ -34,4 +37,5 @@ Replicate the error to test your implementations.
 ---
 ### COMPLETE PERFORMANCE LAB - OUTPUT
 
-<a href="https://github.com/CyberTrainingUSAF/05-C-Programming/blob/master/15_Error_handling/Performance_Labs/Lab_output.md" rel="OUTPUT"> OUTPUT </a>
+|[Performance Lab OUTPUT](/15_Error_handling/Performance_Labs/Lab_output.md)|
+|---|
