@@ -27,7 +27,7 @@ An array that uses two subscripts is referred to as a(n)_____________array.
 
 * An individual array element that’s passed to a function as an argument of the form a[i] and modified in the called function will contain the modified value in the calling function.
 ```
-## Follow the instructions below regarding an array called fractions.
+## Follow the instructions below regarding an array called "fractions."
 
 * Define a symbolic constant SIZE to be replaced with the replacement text 10.
 
@@ -59,7 +59,7 @@ An array that uses two subscripts is referred to as a(n)_____________array.
 
 ![image](https://user-images.githubusercontent.com/47218880/66328105-a1c02f80-e8f1-11e9-901c-2c0023901eef.png)
 
-## Consider a 2-by-5 integer array t.
+## Consider a 2-by-5 integer array "t."
 
 * Write a definition for t.
 
@@ -89,7 +89,8 @@ An array that uses two subscripts is referred to as a(n)_____________array.
 
 * Write a series of statements that print the array t in tabular format. List the column subscripts as headings across the top and list the row subscripts at the left of each row.
  
-(Sales Commissions) Use a single-subscripted array to solve the following problem.
+## (Sales Commissions)
+Use a single-subscripted array to solve the following problem.
 A company pays its salespeople on a commission basis. The salespeople receive 
 $200 per week plus 9% of their gross sales for that week. For example, a salesperson 
 who grosses $3,000 in sales in a week receives $200 plus 9% of $3,000, or a total of $470. 
@@ -122,7 +123,8 @@ which they’re set to zero by the following program segment:
 What does the following program do?
 ![image](https://user-images.githubusercontent.com/47218880/66329332-f82e6d80-e8f3-11e9-96a2-9c1eb5529136.png)
 
-(Dice Rolling) Write a program that simulates the rolling of two dice. The program should use rand 
+## (Dice Rolling) 
+Write a program that simulates the rolling of two dice. The program should use rand 
 twice to roll the first die and second die, respectively. The sum of the two values should then be calculated.
 [Note: Because each die can show an integer value from 1 to 6, then the sum of the two values will vary from 2 to 12, with 7 being the most frequent sum and 2 and 12 the least frequent sums.] 
 Figure below shows the 36 possible combinations of the two dice. 
