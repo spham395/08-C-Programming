@@ -200,6 +200,34 @@ Output
 233
 377
 ```
-
-
-
+## Write a program to print bytes reserved for various types of data and space required for storing them in memory using arrays.
+```c 
+ void main()
+{
+   int i[10];
+   char c[10];
+   long l[10];
+   clrscr();
+   printf(“The type ‘int’ requires %d Bytes”,sizeof(int));
+   printf(“\nThe type ‘char’ requires %d Bytes”,sizeof(char));
+   printf(“\nThe type ‘long’ requires %d Bytes”,sizeof(long));
+   printf(“\n %d memory locations are reserved for ten ‘int’
+   elements”,sizeof(i));
+   printf(“\n %d memory locations are reserved for ten ‘char’
+   elements”,sizeof(c));
+   printf(“\n %d memory locations are reserved for ten ‘long’
+   elements”,sizeof(l));
+}
+```
+OUTPUT:
+```
+The type ‘int’ requires 2 Bytes
+The type ‘char’ requires 1 Bytes
+ The type ‘long’ requires 4 Bytes
+ 
+ 20 memory locations are reserved for ten ‘int’ elements
+ 10 memory locations are reserved for ten ‘char’ elements
+ 40 memory locations are reserved for ten ‘long’ elements
+```
+## Explanation:
+The sizeof() function provides the size of data type in bytes. In the above example, int, char and long type of data variables are supplied to this function which gives the results 2, 1 and 4 bytes, respectively. The required number of memory locations for int, char and long will be 2, 1 and 4. Memory locations required for the arrays = argument of an array × sizeof(data type). In the above example, an array int i[10] requires 20 memory locations since each element requires two memory locations
