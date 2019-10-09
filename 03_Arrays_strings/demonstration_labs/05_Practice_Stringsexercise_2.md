@@ -58,5 +58,6 @@ three = strtok(NULL, " ");
 printf("%s\n%s\n%s\n", one, two, three);
 ```
 
-After execution of the fragment in Exercise 11, is the value of city still “Washington DC 20059”?
+After execution of the fragment in previous problem, is the value of city still “Washington DC 20059”?
 
+	
