@@ -29,3 +29,21 @@ The character___________indicates that the replacement text for a symbolic const
 
 The_____________directive causes the source code lines to be numbered from the indicated value beginning with the next source code line.
 ```
+## Write a preprocessor directive to accomplish each of the following:
+
+Define symbolic constant YES to have the value 1.
+
+Define symbolic constant NO to have the value 0.
+
+Include the header common.h. The header is found in the same directory as the file being compiled.
+
+Renumber the remaining lines in the file beginning with line number 3000.
+
+If symbolic constant TRUE is defined, undefine it and redefine it as 1. Do not use #ifdef.
+
+If symbolic constant TRUE is defined, undefine it and redefine it as 1. Use the #ifdef preprocessor directive.
+
+If symbolic constant TRUE is not equal to 0, define symbolic constant FALSE as 0. Otherwise define FALSE as 1.
+
+Define macro CUBE_VOLUME that computes the volume of a cube. The macro takes one argument.
+
