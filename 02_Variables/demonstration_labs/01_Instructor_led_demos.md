@@ -182,8 +182,8 @@ Similarly, the remainder is evaluated using modulus % operator and stored in rem
 
 Finally, the quotient and remainder are displayed using printf() function.
 
-# SWAPPING NUMBERS
-## Example 1: Program to Swap Numbers Using Temporary Variable
+## SWAPPING NUMBERS
+### Example 1: Program to Swap Numbers Using Temporary Variable
 ```c
 #include <stdio.h>
 int main()
