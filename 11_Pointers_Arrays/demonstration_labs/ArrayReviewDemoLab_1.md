@@ -26,3 +26,6 @@ num[3] = 2 Address : 65522
 
 num[4] = 5 Address : 65524
 ```
+##  Explanation:
+
+In the output of the program, elements and their addresses are displayed. Recall that integer requires two bytes in memory. Hence, the memory locations displayed at the output have a difference of two. From the above program, it is clear that array elements are stored in contigious memory locations.
