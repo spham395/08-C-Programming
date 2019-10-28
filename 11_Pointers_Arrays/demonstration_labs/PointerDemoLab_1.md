@@ -158,7 +158,7 @@ void cubeByReference( int *nPtr )
 The original value of number is 5 
 The new value of number is 125
 ```
-Program 2  Converting a string to uppercase using a non-constant pointer to non-constant data.
+## Program 2  Converting a string to uppercase using a non-constant pointer to non-constant data.
 ```c
 // Converting a string to uppercase using a 
 // non-constant pointer to non-constant data.
@@ -193,7 +193,7 @@ The string after conversion is: CHARACTERS AND $32.98
 
 ```
 
-Program 3 Printing a string one character at a time using a non-constant pointer to constant data.
+## Program 3 Printing a string one character at a time using a non-constant pointer to constant data.
 ```c
 // Printing a string one character at a time using
 // a non-constant pointer to constant data.
@@ -229,7 +229,7 @@ The string is:
 print characters of a string
 
 ```
- Program below illustrates the attempt to compile a function that receives a non-constant
+ ## Program below illustrates the attempt to compile a function that receives a non-constant
 pointer (xPtr) to constant data. This function attempts to modify the data pointed to by xPtr in line 18—which results in a compilation error. 
 
 ```c
