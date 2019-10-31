@@ -110,3 +110,4 @@ Expected Output :
  Input a string : cybertrainingusaf                                                                                  
  Reverse of the string is : fasugniniartrebyc
 ```
+## Write a Program to concatenate two strings using pointers
