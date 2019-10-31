@@ -3,7 +3,7 @@
 
 ---
 
-# Address Arithmatic
+# Address Arithmetic
 
 ## Topic objectives
 
