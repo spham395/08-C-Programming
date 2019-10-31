@@ -535,7 +535,7 @@ fclose(fp);
 ```
 OUTPUT:
 ```
-India is my country *
+United States is my country *
 
 ```
 
