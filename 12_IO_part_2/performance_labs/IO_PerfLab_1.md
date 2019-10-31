@@ -13,6 +13,7 @@ You’re the owner of a hardware store and need to keep an inventory that can te
 
 # Write a program that displays the contents of a file at the terminal 20 lines at a time. At the end of each 20 lines, have the program wait for a character to be entered from the terminal. If the character is the letter q, the program should stop the display of the file; any other character should cause the next 20 lines from the file to be displayed.
 
-## (Outputting Type Sizes to a File) Write a program that uses the sizeof operator to determine the sizes in bytes of the various data types on your computer system. Write the results to the file “datasize.dat” so you may print the results later. The format for the results in the file should be as follows (the type sizes on your computer might be different from those shown in the sample output):
+## (Outputting Type Sizes to a File)
+Write a program that uses the sizeof operator to determine the sizes in bytes of the various data types on your computer system. Write the results to the file “datasize.dat” so you may print the results later. The format for the results in the file should be as follows (the type sizes on your computer might be different from those shown in the sample output):
 
 ![image](https://user-images.githubusercontent.com/47218880/67968154-dfecfe00-fbd4-11e9-9f52-5f6ddae29832.png)
